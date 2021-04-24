@@ -4,7 +4,7 @@ Things that go boom real big.
 Sharath
 Briana
 Henry
-Julie?
+Julie
 
 Visuals:
 World map- all volcanoes overlay-eruptions within 200 years
@@ -16,3 +16,12 @@ Bonus options:
 World map- eruptions by year
 Marker Cluster map
 pie chart - underwater/on land
+
+
+Tasks-
+Develop sql database, volcanoes as keys
+develop Flask app
+build website with HMTL/bootstrap
+integrate website with Flask
+Leaflet for maps
+Plotly for the graphs
