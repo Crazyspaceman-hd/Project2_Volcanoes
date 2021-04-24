@@ -38,7 +38,7 @@
 First a source was located on [Kaggle](https://www.kaggle.com/) for a collection of data concerning volcanic eruptions.
 
 We then created a database map using [GenMyModel](https://www.genmymodel.com/) to determine what data cleaning would be neccesary.
-![database map](\images\DatabaseDiagram.png)
+![database map](images/DatabaseDiagram.png)
 
 Using a Jupyter Notebook the CSV files were imported into Dataframes which excluded the columns containing data that would not be used in the final database.
 
