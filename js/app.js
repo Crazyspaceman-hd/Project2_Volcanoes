@@ -1,15 +1,15 @@
 // Copy what was provided above and create dropdown list for IDs of person/participant
 // Will need to create bins for the drop down options.  Years? year groupings?
 
-// function initializedDropdown(){
-//     d3.json("UPDATEFILENAME.json").then(function(data){
-//         var name_list = data.names;
+function initializedDropdown(){
+    d3.json("UPDATEFILENAME.json").then(function(data){
+        var year_list = data.names;
 
 
 //        // ID from row 25 in html
 //     d3.selectAll("#selDataset")
 //     .selectAll("option")
-//     .data(name_list)
+//     .data(year_list)
 //     .enter()
 //     .append("option")
 //     .attr("value",function(name) {
@@ -61,6 +61,7 @@
 
         var volcano_name = row.volcano_name;
         var volcano_year = row.end_year;
+        var volcano_vei  = row.volcano_vei;
     // ? how to get top volcano in each year?
     // var top_volcano_peryear = ?
         // var otu_labels = row.otu_labels;
@@ -103,7 +104,7 @@
     var trace2 = {
         x: volcano_year,
         y: vei_top_10,
-        type: "bar",
+        type: "scatter",
         orientation: "h",
         mode: 'markers',
         marker: {size:10},
@@ -115,7 +116,14 @@
         }],
     };
     // Create the array for the plot
-    var top_10_data = [trace1];
+    var bubble_chart = [trace2];
+
+      //3. Define layout
+      var bubble_layout = {
+        yaxis: {autorange: true,},
+        xaxis: {title: `fill in something here`, autorange: true,}
+        
+    };
 
         // bar graph of all top 10 eruptions
         var trace1 = {
@@ -123,18 +131,12 @@
             y: top_volcano_peryear,
             type: "scatter",
             mode: 'markers',
-            marker: {size: samp_vals, color: otu_ids},
+            marker: {size: volcano_vei, color: volcano_name},
             theme: 'seaborn',
             tranforms: [{type:'sort', target:'y', order:'descending'}],
         };
-   
-        // Define horizontal plot layout
-        var top_10_layout = {
-            title: `Top 10 volcanos by size${selected_id}`,
-            xaxis: { title: "Volucano name"},
-            yaxis: { title: "VEI rating"}
-        };
-        // Plot the chart
-        Plotly.newPlot("bar", top_10_data, top_10_layout);
 
-// D3 bar chart for top 10
+            // 4. Plot the chart to a div tag
+    Plotly.newPlot("bubble", bubble_chart, bubble_layout);
+}
+   
