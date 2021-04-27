@@ -5,18 +5,18 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 210040,Calatrava Volcanic Field,Pyroclastic cone(s),Spain,38.87,-4.02,1117,Intraplate / Continental crust (>25 km),Eruption Dated
 211003,Vulsini,Caldera,Italy,42.6,11.93,800,Subduction zone / Continental crust (>25 km),Eruption Observed
 211004,Colli Albani,Caldera,Italy,41.73,12.7,949,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-211010,Campi Flegrei,Caldera,Italy,40.827,14.139000000000001,458,Subduction zone / Continental crust (>25 km),Eruption Observed
-211020,Vesuvius,Stratovolcano,Italy,40.821,14.425999999999998,1281,Subduction zone / Continental crust (>25 km),Eruption Observed
+211010,Campi Flegrei,Caldera,Italy,40.827,14.139,458,Subduction zone / Continental crust (>25 km),Eruption Observed
+211020,Vesuvius,Stratovolcano,Italy,40.821,14.426,1281,Subduction zone / Continental crust (>25 km),Eruption Observed
 211030,Ischia,Complex,Italy,40.73,13.897,789,Subduction zone / Continental crust (>25 km),Eruption Observed
 211031,Palinuro,Submarine,Italy,39.48,14.83,-70,Subduction zone / Continental crust (>25 km),Eruption Dated
 211040,Stromboli,Stratovolcano,Italy,38.789,15.213,924,Subduction zone / Continental crust (>25 km),Eruption Observed
-211041,Panarea,Stratovolcano,Italy,38.638000000000005,15.064,399,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+211041,Panarea,Stratovolcano,Italy,38.638,15.064,399,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 211042,Lipari,Stratovolcano(es),Italy,38.49,14.933,590,Subduction zone / Continental crust (>25 km),Eruption Dated
 211050,Vulcano,Stratovolcano(es),Italy,38.404,14.962,500,Subduction zone / Continental crust (>25 km),Eruption Observed
-211060,Etna,Stratovolcano(es),Italy,37.748000000000005,14.999,3320,Subduction zone / Continental crust (>25 km),Eruption Observed
+211060,Etna,Stratovolcano(es),Italy,37.748,14.999,3320,Subduction zone / Continental crust (>25 km),Eruption Observed
 211070,Campi Flegrei del Mar di Sicilia,Submarine,Italy,37.1,12.7,-8,Rift zone / Continental crust (>25 km),Eruption Observed
 211071,Pantelleria,Shield,Italy,36.77,12.02,836,Rift zone / Continental crust (>25 km),Eruption Observed
-211080,Marsili,Submarine,Italy,39.284,14.399000000000001,-779,,Eruption Dated
+211080,Marsili,Submarine,Italy,39.284,14.399,-779,,Eruption Dated
 212020,Methana,Lava dome(s),Greece,37.615,23.336,760,Subduction zone / Continental crust (>25 km),Eruption Observed
 212030,Milos,Stratovolcano(es),Greece,36.699,24.439,751,Subduction zone / Continental crust (>25 km),Eruption Dated
 212040,Santorini,Shield(s),Greece,36.404,25.396,367,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -27,16 +27,16 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 213002,Hasan Dagi,Stratovolcano,Turkey,38.13,34.17,3253,Intraplate / Continental crust (>25 km),Evidence Credible
 213003,Gollu Dag,Lava dome,Turkey,38.25,34.57,2143,Intraplate / Continental crust (>25 km),Evidence Uncertain
 213004,Acigol-Nevsehir,Caldera,Turkey,38.537,34.621,1683,Intraplate / Continental crust (>25 km),Eruption Dated
-213010,Erciyes Dagi,Stratovolcano,Turkey,38.531,35.446999999999996,3864,Intraplate / Continental crust (>25 km),Eruption Dated
+213010,Erciyes Dagi,Stratovolcano,Turkey,38.531,35.447,3864,Intraplate / Continental crust (>25 km),Eruption Dated
 213011,Karaca Dag,Shield,Turkey,37.67,39.83,1957,Intraplate / Continental crust (>25 km),Evidence Credible
 213020,Nemrut Dagi,Stratovolcano,Turkey,38.654,42.229,2948,Intraplate / Continental crust (>25 km),Eruption Observed
-213030,Tenduruk Dagi,Shield,Turkey,39.356,43.873999999999995,3514,Intraplate / Continental crust (>25 km),Eruption Observed
+213030,Tenduruk Dagi,Shield,Turkey,39.356,43.874,3514,Intraplate / Continental crust (>25 km),Eruption Observed
 213040,Ararat,Stratovolcano,Turkey,39.7,44.3,5165,Intraplate / Continental crust (>25 km),Eruption Observed
-214010,Elbrus,Stratovolcano,Russia,43.351000000000006,42.442,5642,Intraplate / Continental crust (>25 km),Eruption Dated
+214010,Elbrus,Stratovolcano,Russia,43.351,42.442,5642,Intraplate / Continental crust (>25 km),Eruption Dated
 214020,Kazbek,Stratovolcano,Georgia,42.7,44.5,5050,Intraplate / Continental crust (>25 km),Eruption Dated
 214050,Samsari Volcanic Center,Lava cone(s),Georgia,41.542,43.7,3290,Intraplate / Continental crust (>25 km),Evidence Uncertain
 214060,Aragats,Stratovolcano,Armenia,40.53,44.2,4095,Intraplate / Continental crust (>25 km),Evidence Credible
-214070,Ghegham Volcanic Ridge,Volcanic field,Armenia,40.283,45.0,3597,Intraplate / Continental crust (>25 km),Eruption Dated
+214070,Ghegham Volcanic Ridge,Volcanic field,Armenia,40.283,45,3597,Intraplate / Continental crust (>25 km),Eruption Dated
 214080,Vaiyots-Sar,Pyroclastic cone(s),Armenia,39.797,45.497,2575,Intraplate / Continental crust (>25 km),Eruption Dated
 214090,Porak,Stratovolcano,Armenia-Azerbaijan,40.028,45.74,3029,Intraplate / Continental crust (>25 km),Eruption Dated
 214100,Tskhouk-Karckar,Pyroclastic cone(s),Armenia-Azerbaijan,39.742,45.992,3139,Intraplate / Continental crust (>25 km),Eruption Dated
@@ -47,7 +47,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 221040,Alid,Stratovolcano,Eritrea,14.88,39.92,904,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221041,Dallol,Explosion crater(s),Ethiopia,14.242,40.3,-48,Rift zone / Intermediate crust (15-25 km),Eruption Observed
 221050,Gada Ale,Stratovolcano,Ethiopia,13.975,40.408,287,Rift zone / Intermediate crust (15-25 km),Evidence Credible
-221060,Alu-Dalafilla,Fissure vent(s),Ethiopia,13.793,40.553000000000004,578,Rift zone / Intermediate crust (15-25 km),Eruption Observed
+221060,Alu-Dalafilla,Fissure vent(s),Ethiopia,13.793,40.553,578,Rift zone / Intermediate crust (15-25 km),Eruption Observed
 221071,Bora Ale,Stratovolcano,Ethiopia,13.725,40.6,668,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221080,Erta Ale,Shield,Ethiopia,13.6,40.67,613,Rift zone / Intermediate crust (15-25 km),Eruption Observed
 221090,Ale Bagu,Stratovolcano,Ethiopia,13.512,40.631,988,Rift zone / Intermediate crust (15-25 km),Evidence Credible
@@ -56,20 +56,20 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 221101,Nabro,Stratovolcano,Eritrea,13.37,41.7,2218,Rift zone / Intermediate crust (15-25 km),Eruption Observed
 221102,Mallahle,Stratovolcano,Ethiopia-Eritrea,13.27,41.65,1875,Rift zone / Intermediate crust (15-25 km),Evidence Uncertain
 221103,Sork Ale,Stratovolcano,Ethiopia-Eritrea,13.18,41.725,1611,Rift zone / Intermediate crust (15-25 km),Evidence Uncertain
-221104,Asavyo,Shield,Ethiopia,13.097999999999999,41.599,1338,Rift zone / Intermediate crust (15-25 km),Evidence Credible
+221104,Asavyo,Shield,Ethiopia,13.098,41.599,1338,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221105,Mat Ala,Shield,Ethiopia,13.106,41.161,493,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221106,Tat Ali,Shield,Ethiopia,13.284,41.063,655,Rift zone / Intermediate crust (15-25 km),Evidence Credible
-221107,Borawli,Stratovolcano,Ethiopia,13.304,40.986999999999995,784,Rift zone / Intermediate crust (15-25 km),Evidence Credible
+221107,Borawli,Stratovolcano,Ethiopia,13.304,40.987,784,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221110,Afdera,Stratovolcano,Ethiopia,13.088,40.853,1250,Rift zone / Intermediate crust (15-25 km),Evidence Uncertain
 221111,Ma Alalta,Stratovolcano,Ethiopia,13.013,40.185,1745,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221112,Alayta,Shield,Ethiopia,12.888,40.573,1496,Rift zone / Intermediate crust (15-25 km),Eruption Observed
 221113,Dabbahu,Stratovolcano,Ethiopia,12.595,40.48,1401,Rift zone / Intermediate crust (15-25 km),Eruption Observed
 221114,Dabbayra,Shield,Ethiopia,12.38,40.07,1302,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221115,Manda Hararo,Shield(s),Ethiopia,12.17,40.82,600,Rift zone / Intermediate crust (15-25 km),Eruption Observed
-221116,Groppo,Volcanic field,Ethiopia,11.815999999999999,40.242,852,Rift zone / Intermediate crust (15-25 km),Evidence Credible
+221116,Groppo,Volcanic field,Ethiopia,11.816,40.242,852,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221120,Kurub,Shield,Ethiopia,11.88,41.208,625,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221122,Manda-Inakir,Fissure vent(s),Ethiopia-Djibouti,12.38,42.2,600,Rift zone / Intermediate crust (15-25 km),Eruption Observed
-221123,Mousa Alli,Stratovolcano,Ethiopia-Eritrea-Djibouti,12.469000000000001,42.403999999999996,1993,Rift zone / Intermediate crust (15-25 km),Evidence Credible
+221123,Mousa Alli,Stratovolcano,Ethiopia-Eritrea-Djibouti,12.469,42.404,1993,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221124,Gufa,Volcanic field,Eritrea-Djibouti,12.55,42.53,600,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221125,Assab Volcanic Field,Volcanic field,Eritrea,12.95,42.43,987,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221126,Ardoukoba,Fissure vent(s),Djibouti,11.58,42.47,298,Rift zone / Intermediate crust (15-25 km),Eruption Observed
@@ -78,7 +78,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 221150,Gabillema,Stratovolcano,Ethiopia,11.08,41.27,1459,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221151,Yangudi,Complex,Ethiopia,10.58,41.042,1383,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221160,Ayelu,Stratovolcano,Ethiopia,10.082,40.702,2145,Rift zone / Intermediate crust (15-25 km),Evidence Credible
-221170,Adwa,Stratovolcano,Ethiopia,10.062999999999999,40.830999999999996,1670,Rift zone / Intermediate crust (15-25 km),Evidence Credible
+221170,Adwa,Stratovolcano,Ethiopia,10.063,40.831,1670,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221171,Hertali,Fissure vent,Ethiopia,9.78,40.33,900,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221172,Liado Hayk,Maar(s),Ethiopia,9.57,40.28,878,Rift zone / Continental crust (>25 km),Evidence Uncertain
 221180,Dofan,Shield,Ethiopia,9.35,40.13,1151,Rift zone / Continental crust (>25 km),Evidence Credible
@@ -88,9 +88,9 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 221210,Boset-Bericha,Stratovolcano(es),Ethiopia,8.558,39.475,2447,Rift zone / Continental crust (>25 km),Evidence Credible
 221220,Bishoftu Volcanic Field,Fissure vent(s),Ethiopia,8.78,38.98,1850,Rift zone / Continental crust (>25 km),Evidence Credible
 221222,Sodore,Pyroclastic cone(s),Ethiopia,8.43,39.35,1765,Intraplate / Continental crust (>25 km),Evidence Credible
-221230,Gedamsa,Caldera,Ethiopia,8.357000000000001,39.188,1873,Rift zone / Continental crust (>25 km),Evidence Credible
+221230,Gedamsa,Caldera,Ethiopia,8.357,39.188,1873,Rift zone / Continental crust (>25 km),Evidence Credible
 221240,Bora-Bericcio,Pyroclastic cone(s),Ethiopia,8.221,39.05,2267,Rift zone / Continental crust (>25 km),Evidence Credible
-221250,Tullu Moye,Pyroclastic cone,Ethiopia,8.158999999999999,39.137,2343,Rift zone / Continental crust (>25 km),Eruption Observed
+221250,Tullu Moye,Pyroclastic cone,Ethiopia,8.159,39.137,2343,Rift zone / Continental crust (>25 km),Eruption Observed
 221251,Unnamed,Fissure vent(s),Ethiopia,8.013,39.062,1886,Intraplate / Continental crust (>25 km),Evidence Credible
 221252,East Ziway,Fissure vent(s),Ethiopia,7.874,38.902,1889,Rift zone / Continental crust (>25 km),Evidence Credible
 221260,Butajiri-Silti Field,Fissure vent(s),Ethiopia,8.05,38.35,2281,Rift zone / Continental crust (>25 km),Evidence Credible
@@ -100,11 +100,11 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 221291,Bilate River Field,Maar(s),Ethiopia,7.07,38.1,1700,Intraplate / Continental crust (>25 km),Unrest / Holocene
 221292,Tepi,Shield,Ethiopia,7.42,35.43,2728,Intraplate / Continental crust (>25 km),Unrest / Holocene
 221294,Northern Lake Abaya Volcanic Field,Volcanic field,Ethiopia,6.76,37.97,1594,Intraplate / Continental crust (>25 km),Evidence Credible
-221311,East Chamo Basin,Pyroclastic cone(s),Ethiopia,5.707999999999999,37.713,1150,Rift zone / Intermediate crust (15-25 km),Evidence Credible
+221311,East Chamo Basin,Pyroclastic cone(s),Ethiopia,5.708,37.713,1150,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 221320,Korath Range,Tuff cone(s),Ethiopia,5.1,35.88,912,Rift zone / Intermediate crust (15-25 km),Evidence Uncertain
 221330,Mega Volcanic Field,Volcanic field,Ethiopia,3.971,38.213,1500,Rift zone / Intermediate crust (15-25 km),Evidence Credible
 222001,North Island,Tuff cone(s),Kenya,4.059,36.049,490,Rift zone / Continental crust (>25 km),Evidence Credible
-222010,Central Island,Tuff cone(s),Kenya,3.4960000000000004,36.04,518,Rift zone / Continental crust (>25 km),Evidence Credible
+222010,Central Island,Tuff cone(s),Kenya,3.496,36.04,518,Rift zone / Continental crust (>25 km),Evidence Credible
 222020,South Island,Stratovolcano,Kenya,2.63,36.6,800,Rift zone / Continental crust (>25 km),Eruption Observed
 222021,Marsabit,Shield,Kenya,2.32,37.97,1707,Rift zone / Continental crust (>25 km),Evidence Uncertain
 222030,"Barrier, The",Shield,Kenya,2.32,36.57,1032,Rift zone / Continental crust (>25 km),Eruption Observed
@@ -126,21 +126,21 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 222120,"Lengai, Ol Doinyo",Stratovolcano,Tanzania,-2.764,35.914,2962,Rift zone / Continental crust (>25 km),Eruption Observed
 222130,Chyulu Hills,Volcanic field,Kenya,-2.68,37.88,2188,Rift zone / Continental crust (>25 km),Eruption Dated
 222160,Meru,Stratovolcano,Tanzania,-3.25,36.75,4565,Rift zone / Continental crust (>25 km),Eruption Observed
-222161,Igwisi Hills,Pyroclastic cone(s),Tanzania,-4.888999999999999,31.933000000000003,1146,Rift zone / Continental crust (>25 km),Eruption Dated
-222164,Ngozi,Caldera,Tanzania,-8.988999999999999,33.554,2614,Rift zone / Continental crust (>25 km),Eruption Dated
+222161,Igwisi Hills,Pyroclastic cone(s),Tanzania,-4.889,31.933,1146,Rift zone / Continental crust (>25 km),Eruption Dated
+222164,Ngozi,Caldera,Tanzania,-8.989,33.554,2614,Rift zone / Continental crust (>25 km),Eruption Dated
 222166,Rungwe,Stratovolcano,Tanzania,-9.135,33.668,2953,Rift zone / Continental crust (>25 km),Eruption Dated
 222170,Kyejo,Stratovolcano,Tanzania,-9.229,33.792,2176,Rift zone / Continental crust (>25 km),Eruption Observed
 223001,Fort Portal,Tuff cone(s),Uganda,0.7,30.25,1615,Rift zone / Continental crust (>25 km),Eruption Dated
 223002,Kyatwa,Tuff cone(s),Uganda,0.45,30.25,1430,Rift zone / Continental crust (>25 km),Evidence Uncertain
 223003,Katwe-Kikorongo,Tuff cone(s),Uganda,-0.08,29.92,1067,Rift zone / Continental crust (>25 km),Evidence Credible
 223004,Bunyaruguru,Maar(s),Uganda,-0.2,30.08,1554,Rift zone / Continental crust (>25 km),Evidence Credible
-223005,Katunga,Tuff cone,Uganda,-0.47100000000000003,30.191,1707,Rift zone / Continental crust (>25 km),Evidence Credible
-223020,Nyamulagira,Shield,DR Congo,-1.4080000000000001,29.2,3058,Rift zone / Continental crust (>25 km),Eruption Observed
+223005,Katunga,Tuff cone,Uganda,-0.471,30.191,1707,Rift zone / Continental crust (>25 km),Evidence Credible
+223020,Nyamulagira,Shield,DR Congo,-1.408,29.2,3058,Rift zone / Continental crust (>25 km),Eruption Observed
 223030,Nyiragongo,Stratovolcano,DR Congo,-1.52,29.25,3470,Rift zone / Continental crust (>25 km),Eruption Observed
 223040,Karisimbi,Stratovolcano,DR Congo-Rwanda,-1.506,29.45,4490,Rift zone / Continental crust (>25 km),Eruption Dated
-223050,Visoke,Stratovolcano,DR Congo-Rwanda,-1.4580000000000002,29.485,3696,Rift zone / Continental crust (>25 km),Eruption Observed
+223050,Visoke,Stratovolcano,DR Congo-Rwanda,-1.458,29.485,3696,Rift zone / Continental crust (>25 km),Eruption Observed
 223060,Muhavura,Stratovolcano,Uganda-Rwanda,-1.383,29.678,4103,Rift zone / Continental crust (>25 km),Evidence Credible
-223070,Bufumbira,Pyroclastic cone(s),Uganda,-1.304,29.683000000000003,2100,Rift zone / Continental crust (>25 km),Evidence Uncertain
+223070,Bufumbira,Pyroclastic cone(s),Uganda,-1.304,29.683,2100,Rift zone / Continental crust (>25 km),Evidence Uncertain
 223080,Tshibinda,Pyroclastic cone(s),DR Congo,-2.32,28.75,1460,Rift zone / Continental crust (>25 km),Evidence Credible
 224002,San Carlos,Shield,Equatorial Guinea,3.35,8.52,2260,Intraplate / Continental crust (>25 km),Evidence Credible
 224003,San Joaquin,Shield,Equatorial Guinea,3.35,8.63,2009,Intraplate / Continental crust (>25 km),Evidence Credible
@@ -150,7 +150,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 224030,Oku Volcanic Field,Stratovolcano,Cameroon,6.25,10.5,3011,Intraplate / Continental crust (>25 km),Evidence Uncertain
 225001,Todra Volcanic Field,Pyroclastic cone(s),Niger,17.68,8.5,1780,Intraplate / Continental crust (>25 km),Evidence Credible
 225002,Tin Zaouatene Volcanic Field,Volcanic field,Mali,19.83,2.83,700,Intraplate / Continental crust (>25 km),Evidence Credible
-225004,Tahalra Volcanic Field,Pyroclastic cone(s),Algeria,22.67,5.0,1467,Intraplate / Continental crust (>25 km),Evidence Credible
+225004,Tahalra Volcanic Field,Pyroclastic cone(s),Algeria,22.67,5,1467,Intraplate / Continental crust (>25 km),Evidence Credible
 225005,Atakor Volcanic Field,Pyroclastic cone(s),Algeria,23.33,5.83,2918,Intraplate / Continental crust (>25 km),Evidence Credible
 225006,Manzaz Volcanic Field,Pyroclastic cone(s),Algeria,23.92,5.83,1672,Intraplate / Continental crust (>25 km),Evidence Credible
 225009,"Toh, Tarso",Volcanic field,Chad,21.33,16.33,2000,Intraplate / Continental crust (>25 km),Evidence Credible
@@ -161,19 +161,19 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 225040,Kutum Volcanic Field,Pyroclastic cone(s),Sudan,14.57,25.85,1779,Intraplate / Continental crust (>25 km),Evidence Uncertain
 225050,Meidob Volcanic Field,Pyroclastic cone(s),Sudan,15.32,26.47,2000,Intraplate / Continental crust (>25 km),Eruption Dated
 225060,Bayuda Volcanic Field,Pyroclastic cone(s),Sudan,18.33,32.75,670,Intraplate / Continental crust (>25 km),Eruption Dated
-230010,Sharat Kovakab,Volcanic field,Syria,36.536,40.858000000000004,516,Rift zone / Continental crust (>25 km),Evidence Credible
+230010,Sharat Kovakab,Volcanic field,Syria,36.536,40.858,516,Rift zone / Continental crust (>25 km),Evidence Credible
 231001,Harrat Ash Shamah,Volcanic field,Syria-Jordan-Saudi Arabia,32.333,37.583,1100,Intraplate / Continental crust (>25 km),Eruption Observed
 231010,"Rahah, Harrat ar",Volcanic field,Saudi Arabia,27.8,36.17,1950,Intraplate / Continental crust (>25 km),Evidence Credible
 231020,"Uwayrid, Harrat",Volcanic field,Saudi Arabia,27.08,37.25,1920,Intraplate / Continental crust (>25 km),Eruption Dated
 231040,"Lunayyir, Harrat",Volcanic field,Saudi Arabia,25.17,37.75,1370,Intraplate / Continental crust (>25 km),Eruption Observed
 231050,"Ithnayn, Harrat",Volcanic field,Saudi Arabia,26.58,40.2,1625,Intraplate / Continental crust (>25 km),Evidence Credible
-231060,"Khaybar, Harrat",Volcanic field,Saudi Arabia,25.5,40.0,2093,Intraplate / Continental crust (>25 km),Eruption Observed
+231060,"Khaybar, Harrat",Volcanic field,Saudi Arabia,25.5,40,2093,Intraplate / Continental crust (>25 km),Eruption Observed
 231070,"Rahat, Harrat",Volcanic field,Saudi Arabia,23.08,39.78,1744,Intraplate / Continental crust (>25 km),Eruption Observed
 231071,"Kishb, Harrat",Volcanic field,Saudi Arabia,22.8,41.38,1475,Intraplate / Continental crust (>25 km),Evidence Credible
 231072,"Birk, Harrat al",Volcanic field,Saudi Arabia,18.37,41.63,587,Intraplate / Continental crust (>25 km),Evidence Credible
 231080,"Yar, Jabal",Volcanic field,Saudi Arabia,17.05,42.83,305,Intraplate / Continental crust (>25 km),Eruption Observed
 231090,"Arhab, Harra of",Volcanic field,Yemen,15.63,44.08,3100,Intraplate / Continental crust (>25 km),Eruption Observed
-231100,"Marha, Jabal el-",Tuff cone,Yemen,15.245,44.236000000000004,2506,Intraplate / Continental crust (>25 km),Evidence Uncertain
+231100,"Marha, Jabal el-",Tuff cone,Yemen,15.245,44.236,2506,Intraplate / Continental crust (>25 km),Evidence Uncertain
 231110,"Haylan, Jabal",Volcanic field,Yemen,15.4,45.1,1550,Intraplate / Continental crust (>25 km),Eruption Dated
 231120,"Dhamar, Harras of",Volcanic field,Yemen,14.57,44.67,3500,Intraplate / Continental crust (>25 km),Eruption Observed
 231160,"Sawad, Harra Es-",Volcanic field,Yemen,13.58,46.12,1737,Intraplate / Continental crust (>25 km),Eruption Observed
@@ -181,8 +181,8 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 231180,Bir Borhut,Volcanic field,Yemen,15.515,50.935,464,Intraplate / Continental crust (>25 km),Evidence Uncertain
 232001,Sahand,Stratovolcano,Iran,37.75,46.43,3707,Intraplate / Continental crust (>25 km),Evidence Credible
 232002,Sabalan,Stratovolcano,Iran,38.268,47.835,4784,Intraplate / Continental crust (>25 km),Evidence Credible
-232010,Damavand,Stratovolcano,Iran,35.951,52.108999999999995,5670,Intraplate / Continental crust (>25 km),Eruption Dated
-232030,Bazman,Stratovolcano,Iran,28.07,60.0,3490,Intraplate / Continental crust (>25 km),Unrest / Holocene
+232010,Damavand,Stratovolcano,Iran,35.951,52.109,5670,Intraplate / Continental crust (>25 km),Eruption Dated
+232030,Bazman,Stratovolcano,Iran,28.07,60,3490,Intraplate / Continental crust (>25 km),Unrest / Holocene
 232040,Kuh-e Nader,Volcanic field,Iran,28.17,60.67,1500,Intraplate / Continental crust (>25 km),Evidence Uncertain
 232050,Taftan,Stratovolcano,Iran,28.6,61.13,3940,Intraplate / Continental crust (>25 km),Evidence Credible
 233001,"Grille, La",Shield,Comoros,-11.47,43.33,1087,Intraplate / Oceanic crust (< 15 km),Evidence Credible
@@ -200,6 +200,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 234010,Heard,Stratovolcano,Australia,-53.106,73.513,2745,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 234011,McDonald Islands,Complex,Australia,-53.03,72.6,230,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 234020,Kerguelen Islands,Stratovolcano(es),France,-49.58,69.5,1840,Intraplate / Oceanic crust (< 15 km),Evidence Uncertain
+234030,"Est, Ile de l'",Stratovolcano,France,-46.43,52.2,1090,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
 234040,"Possession, Ile de la",Stratovolcano,France,-46.42,51.75,934,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 234050,"Cochons, Ile aux",Stratovolcano,France,-46.1,50.23,775,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 234060,Prince Edward Island,Shield,South Africa,-46.63,37.95,672,Rift zone / Oceanic crust (< 15 km),Evidence Credible
@@ -213,35 +214,35 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 241050,Okataina,Lava dome(s),New Zealand,-38.12,176.5,1111,Subduction zone / Continental crust (>25 km),Eruption Observed
 241060,Reporoa,Caldera,New Zealand,-38.42,176.33,592,Subduction zone / Continental crust (>25 km),Eruption Dated
 241061,Maroa,Caldera(s),New Zealand,-38.42,176.08,897,Subduction zone / Continental crust (>25 km),Eruption Dated
-241070,Taupo,Caldera,New Zealand,-38.82,176.0,760,Subduction zone / Continental crust (>25 km),Eruption Dated
+241070,Taupo,Caldera,New Zealand,-38.82,176,760,Subduction zone / Continental crust (>25 km),Eruption Dated
 241080,Tongariro,Stratovolcano(es),New Zealand,-39.157,175.632,1978,Subduction zone / Continental crust (>25 km),Eruption Observed
 241100,Ruapehu,Stratovolcano,New Zealand,-39.28,175.57,2797,Subduction zone / Continental crust (>25 km),Eruption Observed
-241101,Clark,Submarine,New Zealand,-36.446,177.83900000000003,-860,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+241101,Clark,Submarine,New Zealand,-36.446,177.839,-860,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 241102,Tangaroa,Submarine,New Zealand,-36.321,178.028,-600,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
-241110,Rumble V,Submarine,New Zealand,-36.141999999999996,178.196,-400,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+241110,Rumble V,Submarine,New Zealand,-36.142,178.196,-400,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 241120,Rumble IV,Submarine,New Zealand,-36.13,178.05,-500,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
-241130,Rumble III,Submarine,New Zealand,-35.745,178.47799999999998,-220,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-241131,Rumble II West,Submarine,New Zealand,-35.353,178.52700000000002,-1200,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
-241140,Healy,Submarine,New Zealand,-35.004,178.97299999999998,-980,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
+241130,Rumble III,Submarine,New Zealand,-35.745,178.478,-220,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+241131,Rumble II West,Submarine,New Zealand,-35.353,178.527,-1200,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+241140,Healy,Submarine,New Zealand,-35.004,178.973,-980,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
 241150,Brothers,Submarine,New Zealand,-34.875,179.075,-1350,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 242001,Wright,Submarine(es),New Zealand,-31.85,-179.18,-900,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 242005,Havre Seamount,Submarine,New Zealand,-31.08,-179.033,-897,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-242010,Curtis Island,Submarine,New Zealand,-30.543000000000003,-178.55599999999998,47,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+242010,Curtis Island,Submarine,New Zealand,-30.543,-178.556,47,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 242021,Macauley,Caldera,New Zealand,-30.21,-178.475,238,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
-242022,Giggenbach,Submarine,New Zealand,-30.035999999999998,-178.71200000000002,-65,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+242022,Giggenbach,Submarine,New Zealand,-30.036,-178.712,-65,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 242030,Raoul Island,Stratovolcano,New Zealand,-29.27,-177.92,516,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-242050,Monowai,Submarine,New Zealand,-25.886999999999997,-177.188,-132,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+242050,Monowai,Submarine,New Zealand,-25.887,-177.188,-132,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243001,Unnamed,Submarine,Undersea Features,-24.8,-177.02,-385,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 243010,Unnamed,Submarine,Tonga,-21.338,-175.65,-68,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243011,Unnamed,Submarine,Tonga,-21.15,-175.75,-65,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-243030,Unnamed,Submarine,Tonga,-20.851999999999997,-175.55,-296,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-243040,Hunga Tonga-Hunga Ha'apai,Submarine,Tonga,-20.535999999999998,-175.382,114,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+243030,Unnamed,Submarine,Tonga,-20.852,-175.55,-296,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+243040,Hunga Tonga-Hunga Ha'apai,Submarine,Tonga,-20.536,-175.382,114,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243050,Fonuafo'ou,Submarine,Tonga,-20.32,-175.42,-17,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243060,Tofua,Caldera,Tonga,-19.75,-175.07,515,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243061,Kao,Stratovolcano,Tonga,-19.668,-175.016,1009,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243070,Lateiki,Submarine,Tonga,-19.18,-174.87,43,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243080,Home Reef,Submarine,Tonga,-18.992,-174.775,-10,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-243090,Late,Stratovolcano,Tonga,-18.805999999999997,-174.65,540,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+243090,Late,Stratovolcano,Tonga,-18.806,-174.65,540,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243091,Unnamed,Submarine,Tonga,-18.325,-174.365,-40,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243100,Fonualei,Stratovolcano,Tonga,-18.023,-174.317,188,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 243101,Tafahi,Stratovolcano,Tonga,-15.85,-173.72,560,Subduction zone / Oceanic crust (< 15 km),Evidence Uncertain
@@ -251,7 +252,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 243112,Lobster,Submarine,Tonga,-15.333,-176.283,-1500,,Evidence Uncertain
 243120,Tafu-Maka,Submarine,Tonga,-15.37,-174.23,-1400,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 243130,West Mata,Submarine,Tonga,-15.1,-173.75,-1174,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-243140,Niuatahi,Caldera,Tonga,-15.379000000000001,-174.003,-1270,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+243140,Niuatahi,Caldera,Tonga,-15.379,-174.003,-1270,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 244000,Vailulu'u,Submarine,United States,-14.215,-169.058,-592,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 244001,Ta'u,Shield,United States,-14.23,-169.454,931,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 244010,Ofu-Olosega,Shield(s),United States,-14.175,-169.618,639,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
@@ -265,26 +266,26 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 250010,St. Andrew Strait,Complex,Papua New Guinea,-2.38,147.35,270,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 250020,Baluan,Stratovolcano,Papua New Guinea,-2.57,147.28,254,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 250030,Central Bismarck Sea,Submarine,Papua New Guinea,-3.03,147.78,-1300,Rift zone / Continental crust (>25 km),Eruption Dated
-251001,Blup Blup,Stratovolcano,Papua New Guinea,-3.5069999999999997,144.605,402,Subduction zone / Continental crust (>25 km),Evidence Credible
+251001,Blup Blup,Stratovolcano,Papua New Guinea,-3.507,144.605,402,Subduction zone / Continental crust (>25 km),Evidence Credible
 251002,Kadovar,Stratovolcano,Papua New Guinea,-3.608,144.588,365,Subduction zone / Continental crust (>25 km),Evidence Credible
-251010,Bam,Stratovolcano,Papua New Guinea,-3.613,144.81799999999998,685,Subduction zone / Continental crust (>25 km),Eruption Observed
-251011,Boisa,Stratovolcano,Papua New Guinea,-3.9939999999999998,144.963,240,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+251010,Bam,Stratovolcano,Papua New Guinea,-3.613,144.818,685,Subduction zone / Continental crust (>25 km),Eruption Observed
+251011,Boisa,Stratovolcano,Papua New Guinea,-3.994,144.963,240,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 251020,Manam,Stratovolcano,Papua New Guinea,-4.08,145.037,1807,Subduction zone / Continental crust (>25 km),Eruption Observed
 251030,Karkar,Stratovolcano,Papua New Guinea,-4.649,145.964,1839,Subduction zone / Continental crust (>25 km),Eruption Observed
 251041,Hankow Reef,Submarine,Papua New Guinea,-4.883,146.717,-5,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 251050,Long Island,Complex,Papua New Guinea,-5.358,147.12,1280,Subduction zone / Continental crust (>25 km),Eruption Observed
-251060,Umboi,Complex,Papua New Guinea,-5.5889999999999995,147.875,1548,Subduction zone / Continental crust (>25 km),Evidence Credible
+251060,Umboi,Complex,Papua New Guinea,-5.589,147.875,1548,Subduction zone / Continental crust (>25 km),Evidence Credible
 251070,Ritter Island,Stratovolcano,Papua New Guinea,-5.519,148.115,75,Subduction zone / Continental crust (>25 km),Eruption Observed
 251080,Sakar,Stratovolcano,Papua New Guinea,-5.414,148.094,992,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 252010,Langila,Complex,Papua New Guinea,-5.525,148.42,1330,Subduction zone / Continental crust (>25 km),Eruption Observed
 252021,Mundua,Complex,Papua New Guinea,-4.624,149.339,171,Subduction zone / Continental crust (>25 km),Evidence Credible
 252030,Garove,Stratovolcano,Papua New Guinea,-4.687,149.511,368,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-252040,Dakataua,Caldera,Papua New Guinea,-5.093999999999999,150.094,408,Subduction zone / Continental crust (>25 km),Eruption Dated
-252050,Bola,Stratovolcano,Papua New Guinea,-5.141,150.03799999999998,1116,Subduction zone / Continental crust (>25 km),Evidence Credible
+252040,Dakataua,Caldera,Papua New Guinea,-5.094,150.094,408,Subduction zone / Continental crust (>25 km),Eruption Dated
+252050,Bola,Stratovolcano,Papua New Guinea,-5.141,150.038,1116,Subduction zone / Continental crust (>25 km),Evidence Credible
 252060,Garua Harbour,Volcanic field,Papua New Guinea,-5.3,150.07,565,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-252070,Krummel-Garbuna-Welcker,Stratovolcano(es),Papua New Guinea,-5.416,150.02700000000002,564,Subduction zone / Continental crust (>25 km),Eruption Observed
+252070,Krummel-Garbuna-Welcker,Stratovolcano(es),Papua New Guinea,-5.416,150.027,564,Subduction zone / Continental crust (>25 km),Eruption Observed
 252071,Lolo,Stratovolcano,Papua New Guinea,-5.466,150.509,796,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-252080,Witori,Caldera,Papua New Guinea,-5.5760000000000005,150.516,724,Subduction zone / Continental crust (>25 km),Eruption Observed
+252080,Witori,Caldera,Papua New Guinea,-5.576,150.516,724,Subduction zone / Continental crust (>25 km),Eruption Observed
 252090,Sulu Range,Stratovolcano(es),Papua New Guinea,-5.5,150.942,610,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 252100,Hargy,Stratovolcano,Papua New Guinea,-5.33,151.1,1148,Subduction zone / Continental crust (>25 km),Eruption Dated
 252110,Bamus,Stratovolcano,Papua New Guinea,-5.2,151.23,2248,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -294,25 +295,25 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 252150,Tavui,Caldera,Papua New Guinea,-4.12,152.2,200,Subduction zone / Continental crust (>25 km),Eruption Dated
 253004,Madilogo,Pyroclastic cone,Papua New Guinea,-9.2,147.57,850,Subduction zone / Continental crust (>25 km),Evidence Credible
 253010,Lamington,Stratovolcano,Papua New Guinea,-8.95,148.15,1680,Subduction zone / Continental crust (>25 km),Eruption Observed
-253011,Hydrographers Range,Stratovolcano,Papua New Guinea,-9.0,148.37,1915,Subduction zone / Continental crust (>25 km),Evidence Credible
+253011,Hydrographers Range,Stratovolcano,Papua New Guinea,-9,148.37,1915,Subduction zone / Continental crust (>25 km),Evidence Credible
 253021,Managlase Plateau,Volcanic field,Papua New Guinea,-9.08,148.33,1342,Subduction zone / Continental crust (>25 km),Evidence Credible
 253030,Victory,Stratovolcano,Papua New Guinea,-9.2,149.07,1925,Subduction zone / Continental crust (>25 km),Eruption Observed
 253031,Sessagara,Pyroclastic cone(s),Papua New Guinea,-9.48,149.13,370,Subduction zone / Continental crust (>25 km),Evidence Credible
 253040,Waiowa,Pyroclastic cone,Papua New Guinea,-9.57,149.075,640,Subduction zone / Continental crust (>25 km),Eruption Observed
-253041,Goodenough,Volcanic field,Papua New Guinea,-9.357999999999999,150.246,220,Subduction zone / Continental crust (>25 km),Evidence Credible
+253041,Goodenough,Volcanic field,Papua New Guinea,-9.358,150.246,220,Subduction zone / Continental crust (>25 km),Evidence Credible
 253050,Iamalele,Lava dome(s),Papua New Guinea,-9.52,150.53,200,Subduction zone / Continental crust (>25 km),Evidence Credible
 253060,Dawson Strait Group,Volcanic field,Papua New Guinea,-9.62,150.88,500,Subduction zone / Continental crust (>25 km),Eruption Dated
 254010,Lihir,Compound,Papua New Guinea,-3.125,152.642,700,Subduction zone / Crustal thickness unknown,Evidence Credible
 254020,Ambitle,Stratovolcano,Papua New Guinea,-4.08,153.65,450,Subduction zone / Crustal thickness unknown,Eruption Dated
 255010,Balbi,Stratovolcano,Papua New Guinea,-5.92,154.98,2715,Subduction zone / Crustal thickness unknown,Evidence Credible
-255011,Billy Mitchell,Pyroclastic shield,Papua New Guinea,-6.0920000000000005,155.225,1544,Subduction zone / Crustal thickness unknown,Eruption Dated
-255020,Bagana,Lava cone,Papua New Guinea,-6.1370000000000005,155.196,1855,Subduction zone / Crustal thickness unknown,Eruption Observed
+255011,Billy Mitchell,Pyroclastic shield,Papua New Guinea,-6.092,155.225,1544,Subduction zone / Crustal thickness unknown,Eruption Dated
+255020,Bagana,Lava cone,Papua New Guinea,-6.137,155.196,1855,Subduction zone / Crustal thickness unknown,Eruption Observed
 255021,Takuan Group,Compound,Papua New Guinea,-6.442,155.608,2210,Subduction zone / Crustal thickness unknown,Evidence Credible
 255030,Loloru,Pyroclastic shield,Papua New Guinea,-6.52,155.62,1887,Subduction zone / Crustal thickness unknown,Eruption Dated
 255050,Simbo,Stratovolcano(es),Solomon Islands,-8.292,156.52,335,Subduction zone / Crustal thickness unknown,Eruption Dated
 255052,Kana Keoki,Submarine,Solomon Islands,-8.75,157.03,-700,Subduction zone / Crustal thickness unknown,Evidence Credible
-255053,Coleman Seamount,Submarine,Solomon Islands,-8.841000000000001,157.16,-717,Subduction zone / Crustal thickness unknown,Evidence Credible
-255060,Kavachi,Submarine,Solomon Islands,-8.991,157.97899999999998,-20,Subduction zone / Crustal thickness unknown,Eruption Observed
+255053,Coleman Seamount,Submarine,Solomon Islands,-8.841,157.16,-717,Subduction zone / Crustal thickness unknown,Evidence Credible
+255060,Kavachi,Submarine,Solomon Islands,-8.991,157.979,-20,Subduction zone / Crustal thickness unknown,Eruption Observed
 255061,Unnamed,Submarine(es),Solomon Islands,-8.92,158.03,-240,Subduction zone / Crustal thickness unknown,Evidence Credible
 255062,Gallego,Volcanic field,Solomon Islands,-9.35,159.73,1000,Subduction zone / Crustal thickness unknown,Evidence Uncertain
 255070,Savo,Stratovolcano,Solomon Islands,-9.13,159.82,485,Subduction zone / Crustal thickness unknown,Eruption Observed
@@ -321,13 +322,13 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 257010,Suretamatai,Complex,Vanuatu,-13.8,167.47,921,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257020,Gaua,Stratovolcano,Vanuatu,-14.27,167.5,797,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257021,Mere Lava,Stratovolcano,Vanuatu,-14.45,168.05,1028,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
-257030,Ambae,Shield,Vanuatu,-15.389000000000001,167.835,1496,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+257030,Ambae,Shield,Vanuatu,-15.389,167.835,1496,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257040,Ambrym,Pyroclastic shield,Vanuatu,-16.25,168.12,1334,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-257050,Lopevi,Stratovolcano,Vanuatu,-16.507,168.34599999999998,1413,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+257050,Lopevi,Stratovolcano,Vanuatu,-16.507,168.346,1413,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257060,Epi,Stratovolcano(es),Vanuatu,-16.68,168.37,833,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-257070,Kuwae,Caldera,Vanuatu,-16.829,168.53599999999997,-2,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+257070,Kuwae,Caldera,Vanuatu,-16.829,168.536,-2,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257080,NE Shepherd Islands,Stratovolcano(es),Vanuatu,-16.992,168.592,216,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
-257081,North Vate,Stratovolcano(es),Vanuatu,-17.47,168.35299999999998,594,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
+257081,North Vate,Stratovolcano(es),Vanuatu,-17.47,168.353,594,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 257090,Traitor's Head,Stratovolcano,Vanuatu,-18.754,169.238,817,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257100,Yasur,Stratovolcano,Vanuatu,-19.532,169.447,361,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 257110,Aneityum,Stratovolcano(es),Vanuatu,-20.2,169.78,852,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
@@ -336,67 +337,67 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 258020,Hunter Island,Stratovolcano,France,-22.4,172.05,297,Subduction zone / Crustal thickness unknown,Eruption Observed
 259010,Newer Volcanics Province,Shield(s),Australia,-37.77,142.5,1011,Intraplate / Continental crust (>25 km),Eruption Dated
 260001,Narcondum,Stratovolcano,India,13.43,94.28,710,Subduction zone / Continental crust (>25 km),Evidence Credible
-260010,Barren Island,Stratovolcano,India,12.277999999999999,93.85799999999999,354,Subduction zone / Continental crust (>25 km),Eruption Observed
-261020,Seulawah Agam,Stratovolcano,Indonesia,5.4479999999999995,95.65799999999999,1810,Subduction zone / Continental crust (>25 km),Eruption Observed
-261030,Peuet Sague,Complex,Indonesia,4.9030000000000005,96.289,2785,Subduction zone / Continental crust (>25 km),Eruption Observed
+260010,Barren Island,Stratovolcano,India,12.278,93.858,354,Subduction zone / Continental crust (>25 km),Eruption Observed
+261020,Seulawah Agam,Stratovolcano,Indonesia,5.448,95.658,1810,Subduction zone / Continental crust (>25 km),Eruption Observed
+261030,Peuet Sague,Complex,Indonesia,4.903,96.289,2785,Subduction zone / Continental crust (>25 km),Eruption Observed
 261050,"Telong, Bur ni",Stratovolcano,Indonesia,4.769,96.821,2617,Subduction zone / Continental crust (>25 km),Eruption Observed
 261070,Singkut,Caldera(s),Indonesia,3.248,98.501,2181,Subduction zone / Continental crust (>25 km),Eruption Observed
-261080,Sinabung,Stratovolcano,Indonesia,3.17,98.39200000000001,2460,Subduction zone / Continental crust (>25 km),Eruption Observed
+261080,Sinabung,Stratovolcano,Indonesia,3.17,98.392,2460,Subduction zone / Continental crust (>25 km),Eruption Observed
 261090,Toba,Caldera,Indonesia,2.58,98.83,2157,Subduction zone / Continental crust (>25 km),Evidence Credible
 261110,Sibualbuali,Stratovolcano,Indonesia,1.556,99.255,1819,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-261111,Lubukraya,Stratovolcano,Indonesia,1.4780000000000002,99.209,1862,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-261120,Sorikmarapi,Stratovolcano,Indonesia,0.6859999999999999,99.539,2145,Subduction zone / Continental crust (>25 km),Eruption Observed
+261111,Lubukraya,Stratovolcano,Indonesia,1.478,99.209,1862,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+261120,Sorikmarapi,Stratovolcano,Indonesia,0.686,99.539,2145,Subduction zone / Continental crust (>25 km),Eruption Observed
 261121,Malintang,Stratovolcano,Indonesia,0.47,99.67,1983,Subduction zone / Continental crust (>25 km),Evidence Credible
 261130,Talakmau,Complex,Indonesia,0.079,99.98,2919,Subduction zone / Continental crust (>25 km),Evidence Credible
-261131,Sarik-Gajah,Pyroclastic cone(s),Indonesia,0.07400000000000001,100.189,737,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-261140,Marapi,Complex,Indonesia,-0.38,100.47399999999999,2885,Subduction zone / Continental crust (>25 km),Eruption Observed
+261131,Sarik-Gajah,Pyroclastic cone(s),Indonesia,0.074,100.189,737,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+261140,Marapi,Complex,Indonesia,-0.38,100.474,2885,Subduction zone / Continental crust (>25 km),Eruption Observed
 261150,Tandikat-Singgalang,Stratovolcano(es),Indonesia,-0.39,100.331,2854,Subduction zone / Continental crust (>25 km),Eruption Observed
-261160,Talang,Stratovolcano,Indonesia,-0.9790000000000001,100.681,2575,Subduction zone / Continental crust (>25 km),Eruption Observed
-261170,Kerinci,Stratovolcano,Indonesia,-1.6969999999999998,101.264,3800,Subduction zone / Continental crust (>25 km),Eruption Observed
+261160,Talang,Stratovolcano,Indonesia,-0.979,100.681,2575,Subduction zone / Continental crust (>25 km),Eruption Observed
+261170,Kerinci,Stratovolcano,Indonesia,-1.697,101.264,3800,Subduction zone / Continental crust (>25 km),Eruption Observed
 261180,Sumbing,Stratovolcano,Indonesia,-2.414,101.728,2507,Subduction zone / Continental crust (>25 km),Eruption Observed
-261200,Hululais,Compound,Indonesia,-3.247,102.23899999999999,2122,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+261200,Hululais,Compound,Indonesia,-3.247,102.239,2122,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 261210,"Daun, Bukit",Stratovolcano(es),Indonesia,-3.38,102.37,2467,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 261220,Kaba,Stratovolcano,Indonesia,-3.522,102.615,1940,Subduction zone / Continental crust (>25 km),Eruption Observed
-261230,Dempo,Stratovolcano(es),Indonesia,-4.016,103.12100000000001,3142,Subduction zone / Continental crust (>25 km),Eruption Observed
+261230,Dempo,Stratovolcano(es),Indonesia,-4.016,103.121,3142,Subduction zone / Continental crust (>25 km),Eruption Observed
 261231,Patah,Stratovolcano?,Indonesia,-4.257,103.306,2836,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 261251,Ranau,Caldera,Indonesia,-4.871,103.925,1854,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-261260,Sekincau Belirang,Caldera(s),Indonesia,-5.107,104.31700000000001,1717,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+261260,Sekincau Belirang,Caldera(s),Indonesia,-5.107,104.317,1717,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 261270,Suoh,Caldera(s),Indonesia,-5.25,104.27,1000,Subduction zone / Continental crust (>25 km),Eruption Observed
 261280,Hulubelu,Caldera,Indonesia,-5.334,104.59,849,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 261290,Rajabasa,Stratovolcano,Indonesia,-5.78,105.625,1281,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-262000,Krakatau,Caldera,Indonesia,-6.102,105.42299999999999,155,Subduction zone / Continental crust (>25 km),Eruption Observed
+262000,Krakatau,Caldera,Indonesia,-6.102,105.423,155,Subduction zone / Continental crust (>25 km),Eruption Observed
 263010,Pulosari,Stratovolcano,Indonesia,-6.343,105.978,1324,Subduction zone / Continental crust (>25 km),Evidence Credible
 263020,Karang,Stratovolcano,Indonesia,-6.268,106.05,1768,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 263040,Perbakti-Gagak,Stratovolcano(es),Indonesia,-6.75,106.7,1699,Subduction zone / Continental crust (>25 km),Eruption Observed
 263050,Salak,Stratovolcano,Indonesia,-6.72,106.73,2211,Subduction zone / Continental crust (>25 km),Eruption Observed
 263060,Gede-Pangrango,Stratovolcano(es),Indonesia,-6.77,106.965,3008,Subduction zone / Continental crust (>25 km),Eruption Observed
-263070,Patuha,Stratovolcano,Indonesia,-7.162000000000001,107.4,2422,Subduction zone / Continental crust (>25 km),Evidence Credible
+263070,Patuha,Stratovolcano,Indonesia,-7.162,107.4,2422,Subduction zone / Continental crust (>25 km),Evidence Credible
 263090,Tangkuban Parahu,Stratovolcano,Indonesia,-6.77,107.6,2084,Subduction zone / Continental crust (>25 km),Eruption Observed
 263100,Papandayan,Stratovolcano(es),Indonesia,-7.32,107.73,2665,Subduction zone / Continental crust (>25 km),Eruption Observed
 263110,Kendang,Stratovolcano,Indonesia,-7.245,107.709,2594,Subduction zone / Continental crust (>25 km),Evidence Credible
 263130,Guntur,Complex,Indonesia,-7.143,107.84,2249,Subduction zone / Continental crust (>25 km),Eruption Observed
 263131,Tampomas,Stratovolcano,Indonesia,-6.77,107.95,1684,Subduction zone / Continental crust (>25 km),Evidence Credible
-263140,Galunggung,Stratovolcano,Indonesia,-7.25,108.05799999999999,2168,Subduction zone / Continental crust (>25 km),Eruption Observed
-263150,Talagabodas,Stratovolcano,Indonesia,-7.207999999999999,108.07,2201,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-263170,Cereme,Stratovolcano,Indonesia,-6.895,108.40799999999999,3039,Subduction zone / Continental crust (>25 km),Eruption Observed
-263180,Slamet,Stratovolcano,Indonesia,-7.242000000000001,109.208,3428,Subduction zone / Continental crust (>25 km),Eruption Observed
-263200,Dieng Volcanic Complex,Complex,Indonesia,-7.2,109.87899999999999,2565,Subduction zone / Continental crust (>25 km),Eruption Observed
+263140,Galunggung,Stratovolcano,Indonesia,-7.25,108.058,2168,Subduction zone / Continental crust (>25 km),Eruption Observed
+263150,Talagabodas,Stratovolcano,Indonesia,-7.208,108.07,2201,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+263170,Cereme,Stratovolcano,Indonesia,-6.895,108.408,3039,Subduction zone / Continental crust (>25 km),Eruption Observed
+263180,Slamet,Stratovolcano,Indonesia,-7.242,109.208,3428,Subduction zone / Continental crust (>25 km),Eruption Observed
+263200,Dieng Volcanic Complex,Complex,Indonesia,-7.2,109.879,2565,Subduction zone / Continental crust (>25 km),Eruption Observed
 263210,Sundoro,Stratovolcano,Indonesia,-7.3,109.992,3136,Subduction zone / Continental crust (>25 km),Eruption Observed
-263220,Sumbing,Stratovolcano,Indonesia,-7.3839999999999995,110.07,3371,Subduction zone / Continental crust (>25 km),Eruption Observed
+263220,Sumbing,Stratovolcano,Indonesia,-7.384,110.07,3371,Subduction zone / Continental crust (>25 km),Eruption Observed
 263230,Ungaran,Stratovolcano,Indonesia,-7.18,110.33,2050,Subduction zone / Continental crust (>25 km),Evidence Credible
 263231,Telomoyo,Stratovolcano,Indonesia,-7.362,110.4,1864,Subduction zone / Continental crust (>25 km),Evidence Credible
 263240,Merbabu,Stratovolcano,Indonesia,-7.454,110.44,3118,Subduction zone / Continental crust (>25 km),Eruption Observed
 263250,Merapi,Stratovolcano,Indonesia,-7.54,110.446,2910,Subduction zone / Continental crust (>25 km),Eruption Observed
 263251,Muria,Stratovolcano,Indonesia,-6.62,110.88,1625,Subduction zone / Continental crust (>25 km),Eruption Dated
-263260,Lawu,Stratovolcano,Indonesia,-7.625,111.19200000000001,3265,Subduction zone / Continental crust (>25 km),Eruption Observed
+263260,Lawu,Stratovolcano,Indonesia,-7.625,111.192,3265,Subduction zone / Continental crust (>25 km),Eruption Observed
 263270,Wilis,Stratovolcano,Indonesia,-7.808,111.758,2563,Subduction zone / Continental crust (>25 km),Evidence Credible
-263280,Kelut,Stratovolcano,Indonesia,-7.93,112.30799999999999,1731,Subduction zone / Continental crust (>25 km),Eruption Observed
+263280,Kelut,Stratovolcano,Indonesia,-7.93,112.308,1731,Subduction zone / Continental crust (>25 km),Eruption Observed
 263281,Kawi-Butak,Stratovolcano(es),Indonesia,-7.92,112.45,2651,Subduction zone / Continental crust (>25 km),Evidence Credible
 263290,Arjuno-Welirang,Stratovolcano,Indonesia,-7.733,112.575,3339,Subduction zone / Continental crust (>25 km),Eruption Observed
-263291,Penanggungan,Stratovolcano,Indonesia,-7.6160000000000005,112.62,1631,Subduction zone / Continental crust (>25 km),Evidence Credible
-263300,Semeru,Stratovolcano,Indonesia,-8.107999999999999,112.92200000000001,3657,Subduction zone / Continental crust (>25 km),Eruption Observed
+263291,Penanggungan,Stratovolcano,Indonesia,-7.616,112.62,1631,Subduction zone / Continental crust (>25 km),Evidence Credible
+263300,Semeru,Stratovolcano,Indonesia,-8.108,112.922,3657,Subduction zone / Continental crust (>25 km),Eruption Observed
 263310,Tengger Caldera,Stratovolcano(es),Indonesia,-7.942,112.95,2329,Subduction zone / Continental crust (>25 km),Eruption Observed
-263320,Lamongan,Stratovolcano,Indonesia,-7.981,113.34100000000001,1641,Subduction zone / Continental crust (>25 km),Eruption Observed
+263320,Lamongan,Stratovolcano,Indonesia,-7.981,113.341,1641,Subduction zone / Continental crust (>25 km),Eruption Observed
 263330,Iyang-Argapura,Complex,Indonesia,-7.97,113.57,3088,Subduction zone / Continental crust (>25 km),Evidence Credible
 263340,Raung,Stratovolcano,Indonesia,-8.119,114.056,3260,Subduction zone / Continental crust (>25 km),Eruption Observed
 263350,Ijen,Stratovolcano(es),Indonesia,-8.058,114.242,2769,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -405,7 +406,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 264010,Batur,Caldera,Indonesia,-8.242,115.375,1717,Subduction zone / Continental crust (>25 km),Eruption Observed
 264020,Agung,Stratovolcano,Indonesia,-8.343,115.508,2997,Subduction zone / Continental crust (>25 km),Eruption Observed
 264030,Rinjani,Stratovolcano,Indonesia,-8.42,116.47,3726,Subduction zone / Continental crust (>25 km),Eruption Observed
-264040,Tambora,Stratovolcano,Indonesia,-8.25,118.0,2850,Subduction zone / Continental crust (>25 km),Eruption Observed
+264040,Tambora,Stratovolcano,Indonesia,-8.25,118,2850,Subduction zone / Continental crust (>25 km),Eruption Observed
 264050,Sangeang Api,Complex,Indonesia,-8.2,119.07,1912,Subduction zone / Continental crust (>25 km),Eruption Observed
 264060,"Sano, Wai",Caldera,Indonesia,-8.724,119.986,1319,Subduction zone / Continental crust (>25 km),Evidence Credible
 264071,Ranakah,Lava dome(s),Indonesia,-8.62,120.52,2350,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -416,7 +417,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 264140,Kelimutu,Complex,Indonesia,-8.77,121.82,1639,Subduction zone / Crustal thickness unknown,Eruption Observed
 264150,Paluweh,Stratovolcano,Indonesia,-8.32,121.708,875,Subduction zone / Crustal thickness unknown,Eruption Observed
 264160,Egon,Stratovolcano,Indonesia,-8.676,122.455,1661,Subduction zone / Crustal thickness unknown,Eruption Observed
-264170,Ilimuda,Stratovolcano,Indonesia,-8.479,122.76100000000001,881,Subduction zone / Crustal thickness unknown,Unrest / Holocene
+264170,Ilimuda,Stratovolcano,Indonesia,-8.479,122.761,881,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 264180,Lewotobi,Stratovolcano(es),Indonesia,-8.542,122.775,1703,Subduction zone / Crustal thickness unknown,Eruption Observed
 264200,Leroboleng,Complex,Indonesia,-8.365,122.833,1095,Subduction zone / Crustal thickness unknown,Eruption Observed
 264220,Iliboleng,Stratovolcano,Indonesia,-8.342,123.258,1659,Subduction zone / Crustal thickness unknown,Eruption Observed
@@ -430,81 +431,81 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 265050,Teon,Stratovolcano,Indonesia,-6.976,129.144,728,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 265060,Nila,Stratovolcano,Indonesia,-6.73,129.5,781,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 265070,Serua,Stratovolcano,Indonesia,-6.312,130.017,608,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-265080,Manuk,Stratovolcano,Indonesia,-5.542999999999999,130.303,257,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+265080,Manuk,Stratovolcano,Indonesia,-5.543,130.303,257,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 265090,Banda Api,Caldera,Indonesia,-4.523,129.881,596,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 266010,Colo,Stratovolcano,Indonesia,-0.162,121.601,404,Subduction zone / Continental crust (>25 km),Eruption Observed
 266020,Ambang,Complex,Indonesia,0.75,124.42,1795,Subduction zone / Continental crust (>25 km),Eruption Observed
-266030,Soputan,Stratovolcano,Indonesia,1.112,124.73700000000001,1785,Subduction zone / Continental crust (>25 km),Eruption Observed
+266030,Soputan,Stratovolcano,Indonesia,1.112,124.737,1785,Subduction zone / Continental crust (>25 km),Eruption Observed
 266040,Riendengan-Sempu,Caldera,Indonesia,1.13,124.758,1549,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 266070,Tondano Caldera,Caldera,Indonesia,1.23,124.83,1202,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 266100,Lokon-Empung,Stratovolcano(es),Indonesia,1.358,124.792,1580,Subduction zone / Continental crust (>25 km),Eruption Observed
-266110,Mahawu,Stratovolcano,Indonesia,1.3519999999999999,124.865,1299,Subduction zone / Continental crust (>25 km),Eruption Observed
+266110,Mahawu,Stratovolcano,Indonesia,1.352,124.865,1299,Subduction zone / Continental crust (>25 km),Eruption Observed
 266120,Klabat,Stratovolcano,Indonesia,1.454,125.031,1968,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 266130,Tangkoko-Duasudara,Stratovolcano,Indonesia,1.518,125.185,1334,Subduction zone / Continental crust (>25 km),Eruption Observed
 267010,Ruang,Stratovolcano,Indonesia,2.3,125.37,725,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-267020,Karangetang,Stratovolcano,Indonesia,2.781,125.40700000000001,1797,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+267020,Karangetang,Stratovolcano,Indonesia,2.781,125.407,1797,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 267030,Banua Wuhu,Submarine,Indonesia,3.138,125.491,-5,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-267040,Awu,Stratovolcano,Indonesia,3.6889999999999996,125.447,1318,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+267040,Awu,Stratovolcano,Indonesia,3.689,125.447,1318,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 268001,Tarakan,Pyroclastic cone(s),Indonesia,1.83,127.83,318,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-268010,Dukono,Complex,Indonesia,1.693,127.89399999999999,1229,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+268010,Dukono,Complex,Indonesia,1.693,127.894,1229,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 268020,Tobaru,Stratovolcano,Indonesia,1.63,127.67,1035,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-268030,Ibu,Stratovolcano,Indonesia,1.4880000000000002,127.63,1325,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+268030,Ibu,Stratovolcano,Indonesia,1.488,127.63,1325,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 268040,Gamkonora,Stratovolcano,Indonesia,1.38,127.53,1635,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 268050,Todoko-Ranu,Caldera(s),Indonesia,1.25,127.47,979,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 268051,Jailolo,Stratovolcano,Indonesia,1.08,127.439,993,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 268052,Hiri,Stratovolcano,Indonesia,0.9,127.32,630,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 268060,Gamalama,Stratovolcano(es),Indonesia,0.8,127.33,1715,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-268061,Tidore,Stratovolcano,Indonesia,0.6579999999999999,127.4,1730,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
+268061,Tidore,Stratovolcano,Indonesia,0.658,127.4,1730,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 268062,Mare,Stratovolcano,Indonesia,0.57,127.4,308,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-268063,Moti,Stratovolcano,Indonesia,0.45399999999999996,127.411,927,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
+268063,Moti,Stratovolcano,Indonesia,0.454,127.411,927,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 268070,Makian,Stratovolcano,Indonesia,0.32,127.4,1357,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 268071,Tigalalu,Stratovolcano,Indonesia,0.07,127.42,422,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 268072,Amasing,Stratovolcano(es),Indonesia,-0.53,127.48,1030,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-268073,Bibinoi,Stratovolcano(es),Indonesia,-0.7609999999999999,127.725,932,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
+268073,Bibinoi,Stratovolcano(es),Indonesia,-0.761,127.725,932,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 271010,Balut,Stratovolcano,Philippines,5.4,125.375,862,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-271011,Parker,Stratovolcano,Philippines,6.1129999999999995,124.89200000000001,1824,Subduction zone / Continental crust (>25 km),Eruption Observed
+271011,Parker,Stratovolcano,Philippines,6.113,124.892,1824,Subduction zone / Continental crust (>25 km),Eruption Observed
 271020,Matutum,Stratovolcano,Philippines,6.37,125.07,2286,Subduction zone / Continental crust (>25 km),Eruption Dated
-271030,Apo,Stratovolcano,Philippines,6.989,125.26899999999999,2938,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-271031,Leonard Range,Stratovolcano,Philippines,7.382000000000001,126.04700000000001,1080,Subduction zone / Continental crust (>25 km),Eruption Dated
-271040,Makaturing,Stratovolcano,Philippines,7.644,124.31700000000001,1818,Subduction zone / Continental crust (>25 km),Eruption Observed
+271030,Apo,Stratovolcano,Philippines,6.989,125.269,2938,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+271031,Leonard Range,Stratovolcano,Philippines,7.382,126.047,1080,Subduction zone / Continental crust (>25 km),Eruption Dated
+271040,Makaturing,Stratovolcano,Philippines,7.644,124.317,1818,Subduction zone / Continental crust (>25 km),Eruption Observed
 271060,Ragang,Stratovolcano,Philippines,7.691,124.507,2790,Subduction zone / Continental crust (>25 km),Eruption Observed
 271061,Kalatungan,Stratovolcano,Philippines,7.95,124.8,2824,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-271070,Musuan,Lava dome,Philippines,7.877000000000001,125.068,646,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+271070,Musuan,Lava dome,Philippines,7.877,125.068,646,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 271071,Malindang,Stratovolcano,Philippines,8.22,123.63,2404,Subduction zone / Continental crust (>25 km),Evidence Credible
-271080,Camiguin,Stratovolcano(es),Philippines,9.203,124.67299999999999,1552,Subduction zone / Continental crust (>25 km),Eruption Observed
+271080,Camiguin,Stratovolcano(es),Philippines,9.203,124.673,1552,Subduction zone / Continental crust (>25 km),Eruption Observed
 272010,Cuernos de Negros,Complex,Philippines,9.25,123.17,1862,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 272020,Kanlaon,Stratovolcano,Philippines,10.412,123.132,2435,Subduction zone / Continental crust (>25 km),Eruption Observed
 272030,Mandalagan,Complex,Philippines,10.65,123.25,1885,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 272040,Silay,Stratovolcano,Philippines,10.77,123.23,1510,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-272050,CabalÃ­an,Stratovolcano,Philippines,10.285,125.21799999999999,912,Subduction zone / Continental crust (>25 km),Eruption Dated
-272070,Mahagnao,Stratovolcano,Philippines,10.882,124.88799999999999,860,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+272050,Cabalían,Stratovolcano,Philippines,10.285,125.218,912,Subduction zone / Continental crust (>25 km),Eruption Dated
+272070,Mahagnao,Stratovolcano,Philippines,10.882,124.888,860,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 272080,Biliran,Compound,Philippines,11.523,124.535,1301,Subduction zone / Continental crust (>25 km),Eruption Observed
 273010,Bulusan,Stratovolcano(es),Philippines,12.769,124.056,1535,Subduction zone / Continental crust (>25 km),Eruption Observed
 273020,Pocdol Mountains,Compound,Philippines,13.05,123.958,1102,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 273030,Mayon,Stratovolcano,Philippines,13.257,123.685,2462,Subduction zone / Continental crust (>25 km),Eruption Observed
 273031,Masaraga,Stratovolcano,Philippines,13.32,123.6,1328,Subduction zone / Continental crust (>25 km),Evidence Credible
-273041,Iriga,Stratovolcano,Philippines,13.458,123.45100000000001,1138,Subduction zone / Continental crust (>25 km),Evidence Credible
+273041,Iriga,Stratovolcano,Philippines,13.458,123.451,1138,Subduction zone / Continental crust (>25 km),Evidence Credible
 273042,Isarog,Stratovolcano,Philippines,13.658,123.38,1966,Subduction zone / Continental crust (>25 km),Eruption Dated
-273044,Malindig,Stratovolcano,Philippines,13.24,122.01799999999999,1157,Subduction zone / Continental crust (>25 km),Evidence Credible
+273044,Malindig,Stratovolcano,Philippines,13.24,122.018,1157,Subduction zone / Continental crust (>25 km),Evidence Credible
 273050,Banahaw,Complex,Philippines,14.07,121.48,2158,Subduction zone / Continental crust (>25 km),Evidence Credible
 273060,San Pablo Volcanic Field,Stratovolcano,Philippines,14.12,121.3,1090,Subduction zone / Continental crust (>25 km),Eruption Dated
 273070,Taal,Caldera,Philippines,14.002,120.993,311,Subduction zone / Continental crust (>25 km),Eruption Observed
 273080,Laguna Caldera,Caldera,Philippines,14.42,121.27,743,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-273081,Mariveles,Stratovolcano,Philippines,14.527000000000001,120.48200000000001,1388,Subduction zone / Continental crust (>25 km),Eruption Dated
+273081,Mariveles,Stratovolcano,Philippines,14.527,120.482,1388,Subduction zone / Continental crust (>25 km),Eruption Dated
 273082,Natib,Stratovolcano,Philippines,14.72,120.4,1253,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 273083,Pinatubo,Stratovolcano,Philippines,15.13,120.35,1486,Subduction zone / Continental crust (>25 km),Eruption Observed
 273084,Arayat,Stratovolcano,Philippines,15.2,120.742,1026,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-273087,Patoc,Stratovolcano,Philippines,17.147000000000002,120.98,1865,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+273087,Patoc,Stratovolcano,Philippines,17.147,120.98,1865,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 273088,Ambalatungan Group,Compound,Philippines,17.32,121.1,2329,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-273090,Cagua,Stratovolcano,Philippines,18.222,122.12299999999999,1133,Subduction zone / Continental crust (>25 km),Eruption Observed
+273090,Cagua,Stratovolcano,Philippines,18.222,122.123,1133,Subduction zone / Continental crust (>25 km),Eruption Observed
 274010,Camiguin de Babuyanes,Stratovolcano,Philippines,18.83,121.86,712,Subduction zone / Crustal thickness unknown,Eruption Observed
-274020,Didicas,Compound,Philippines,19.077,122.20200000000001,228,Subduction zone / Crustal thickness unknown,Eruption Observed
+274020,Didicas,Compound,Philippines,19.077,122.202,228,Subduction zone / Crustal thickness unknown,Eruption Observed
 274030,Babuyan Claro,Stratovolcano(es),Philippines,19.523,121.94,1080,Subduction zone / Crustal thickness unknown,Eruption Observed
 274050,Unnamed,Submarine,Philippines,20.33,121.75,-24,Subduction zone / Crustal thickness unknown,Eruption Observed
 274060,Iraya,Stratovolcano,Philippines,20.469,122.01,1009,Subduction zone / Crustal thickness unknown,Eruption Observed
 275001,Hainan Volcanic Field,Pyroclastic cone(s),China,19.905,110.229,196,Intraplate / Continental crust (>25 km),Eruption Observed
 275020,Ly Son Group,Volcanic field,Vietnam,15.38,109.12,157,Intraplate / Continental crust (>25 km),Evidence Credible
-275030,Toroeng Prong,Pyroclastic cone,Vietnam,14.93,108.0,800,Intraplate / Continental crust (>25 km),Evidence Uncertain
+275030,Toroeng Prong,Pyroclastic cone,Vietnam,14.93,108,800,Intraplate / Continental crust (>25 km),Evidence Uncertain
 275040,Haut Dong Nai,Volcanic field,Vietnam,11.6,108.2,1000,Intraplate / Continental crust (>25 km),Evidence Uncertain
 275050,Bas Dong Nai,Volcanic field,Vietnam,10.8,107.2,392,Intraplate / Continental crust (>25 km),Evidence Uncertain
 275060,"Cendres, Ile des",Submarine,Vietnam,10.158,109.014,-20,Intraplate / Continental crust (>25 km),Eruption Observed
@@ -512,38 +513,38 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 275080,Popa,Stratovolcano,Burma (Myanmar),20.92,95.25,1518,Intraplate / Continental crust (>25 km),Eruption Dated
 275100,Singu Plateau,Fissure vent(s),Burma (Myanmar),22.7,95.98,507,Intraplate / Continental crust (>25 km),Evidence Credible
 275110,Tengchong,Pyroclastic cone(s),China,25.23,98.5,2865,Intraplate / Continental crust (>25 km),Eruption Dated
-281031,Kueishantao,Stratovolcano,Taiwan,24.840999999999998,121.95299999999999,361,Subduction zone / Continental crust (>25 km),Eruption Observed
+281031,Kueishantao,Stratovolcano,Taiwan,24.841,121.953,361,Subduction zone / Continental crust (>25 km),Eruption Observed
 281032,Tatun Volcanic Group,Lava dome(s),Taiwan,25.178,121.553,1120,Subduction zone / Continental crust (>25 km),Eruption Dated
 282010,Submarine Volcano NNE of Iriomotejima,Submarine,Japan,24.57,123.93,-200,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-282020,Io-Torishima,Complex,Japan,27.881,128.22299999999998,212,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-282021,Yokoatejima,Stratovolcano(es),Japan,28.796999999999997,128.997,495,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+282020,Io-Torishima,Complex,Japan,27.881,128.223,212,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+282021,Yokoatejima,Stratovolcano(es),Japan,28.797,128.997,495,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 282022,Akusekijima,Stratovolcano(es),Japan,29.465,129.594,555,Subduction zone / Oceanic crust (< 15 km),Evidence Uncertain
 282030,Suwanosejima,Stratovolcano(es),Japan,29.638,129.714,796,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 282040,Nakanoshima,Stratovolcano(es),Japan,29.859,129.857,979,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-282043,Kuchinoshima,Stratovolcano(es),Japan,29.968000000000004,129.92600000000002,628,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
+282043,Kuchinoshima,Stratovolcano(es),Japan,29.968,129.926,628,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
 282050,Kuchinoerabujima,Stratovolcano(es),Japan,30.443,130.217,657,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-282060,Kikai,Caldera,Japan,30.793000000000003,130.305,704,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+282060,Kikai,Caldera,Japan,30.793,130.305,704,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 282070,Ata,Caldera(s),Japan,31.22,130.57,924,Subduction zone / Continental crust (>25 km),Eruption Observed
-282080,Aira,Caldera,Japan,31.593000000000004,130.657,1117,Subduction zone / Continental crust (>25 km),Eruption Observed
+282080,Aira,Caldera,Japan,31.593,130.657,1117,Subduction zone / Continental crust (>25 km),Eruption Observed
 282081,Yonemaru-Sumiyoshiike,Maar(s),Japan,31.771,130.592,40,Subduction zone / Continental crust (>25 km),Eruption Dated
 282090,Kirishimayama,Shield,Japan,31.934,130.862,1700,Subduction zone / Continental crust (>25 km),Eruption Observed
 282091,Fukue,Shield(s),Japan,32.657,128.849,315,Subduction zone / Continental crust (>25 km),Eruption Dated
-282100,Unzendake,Complex,Japan,32.760999999999996,130.299,1483,Subduction zone / Continental crust (>25 km),Eruption Observed
-282110,Asosan,Caldera,Japan,32.884,131.10399999999998,1592,Subduction zone / Continental crust (>25 km),Eruption Observed
+282100,Unzendake,Complex,Japan,32.761,130.299,1483,Subduction zone / Continental crust (>25 km),Eruption Observed
+282110,Asosan,Caldera,Japan,32.884,131.104,1592,Subduction zone / Continental crust (>25 km),Eruption Observed
 282120,Kujusan,Stratovolcano(es),Japan,33.086,131.249,1791,Subduction zone / Continental crust (>25 km),Eruption Observed
 282130,Yufu-Tsurumi,Lava dome(s),Japan,33.282,131.39,1584,Subduction zone / Continental crust (>25 km),Eruption Observed
 283001,Abu,Shield(s),Japan,34.5,131.6,641,Subduction zone / Continental crust (>25 km),Eruption Dated
 283002,Sanbesan,Stratovolcano,Japan,35.141,132.622,1126,Subduction zone / Continental crust (>25 km),Eruption Dated
 283003,Oki-Dogo,Shield,Japan,36.176,133.334,151,Subduction zone / Continental crust (>25 km),Evidence Credible
-283010,Izu-Tobu,Pyroclastic cone(s),Japan,34.9,139.09799999999998,1406,Subduction zone / Continental crust (>25 km),Eruption Observed
-283020,Hakoneyama,Complex,Japan,35.233000000000004,139.02100000000002,1438,Subduction zone / Continental crust (>25 km),Eruption Dated
-283030,Fujisan,Stratovolcano,Japan,35.361,138.72799999999998,3776,Subduction zone / Continental crust (>25 km),Eruption Observed
-283031,Yokodake,Stratovolcano(es),Japan,36.086999999999996,138.32,2480,Subduction zone / Continental crust (>25 km),Eruption Dated
+283010,Izu-Tobu,Pyroclastic cone(s),Japan,34.9,139.098,1406,Subduction zone / Continental crust (>25 km),Eruption Observed
+283020,Hakoneyama,Complex,Japan,35.233,139.021,1438,Subduction zone / Continental crust (>25 km),Eruption Dated
+283030,Fujisan,Stratovolcano,Japan,35.361,138.728,3776,Subduction zone / Continental crust (>25 km),Eruption Observed
+283031,Yokodake,Stratovolcano(es),Japan,36.087,138.32,2480,Subduction zone / Continental crust (>25 km),Eruption Dated
 283040,Ontakesan,Complex,Japan,35.893,137.48,3067,Subduction zone / Continental crust (>25 km),Eruption Observed
-283050,Hakusan,Stratovolcano,Japan,36.155,136.77100000000002,2702,Subduction zone / Continental crust (>25 km),Eruption Observed
+283050,Hakusan,Stratovolcano,Japan,36.155,136.771,2702,Subduction zone / Continental crust (>25 km),Eruption Observed
 283060,Norikuradake,Stratovolcano(es),Japan,36.106,137.554,3026,Subduction zone / Continental crust (>25 km),Eruption Dated
-283069,Akandanayama,Stratovolcano,Japan,36.2,137.57299999999998,2109,,Evidence Credible
-283070,Yakedake,Stratovolcano(es),Japan,36.227,137.58700000000002,2455,Subduction zone / Continental crust (>25 km),Eruption Observed
+283069,Akandanayama,Stratovolcano,Japan,36.2,137.573,2109,,Evidence Credible
+283070,Yakedake,Stratovolcano(es),Japan,36.227,137.587,2455,Subduction zone / Continental crust (>25 km),Eruption Observed
 283071,Washiba-Kumonotaira,Shield(s),Japan,36.408,137.594,2924,Subduction zone / Continental crust (>25 km),Evidence Credible
 283080,Midagahara,Stratovolcano,Japan,36.571,137.59,2621,Subduction zone / Continental crust (>25 km),Eruption Observed
 283090,Niigata-Yakeyama,Lava dome,Japan,36.921,138.036,2400,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -552,32 +553,32 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 283120,Kusatsu-Shiranesan,Stratovolcano(es),Japan,36.618,138.528,2165,Subduction zone / Continental crust (>25 km),Eruption Observed
 283121,Shiga,Shield(s),Japan,36.688,138.519,2041,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 283122,Harunasan,Stratovolcano,Japan,36.477,138.851,1449,Subduction zone / Continental crust (>25 km),Eruption Dated
-283130,Akagisan,Stratovolcano,Japan,36.56,139.19299999999998,1828,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+283130,Akagisan,Stratovolcano,Japan,36.56,139.193,1828,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 283131,Hiuchigatake,Stratovolcano,Japan,36.955,139.285,2356,Subduction zone / Continental crust (>25 km),Eruption Observed
 283140,Nikko-Shiranesan,Shield,Japan,36.799,139.376,2578,Subduction zone / Continental crust (>25 km),Eruption Observed
 283141,Nantaisan,Stratovolcano,Japan,36.765,139.491,2486,Subduction zone / Continental crust (>25 km),Eruption Dated
 283142,Omanago Group,Lava dome(s),Japan,36.795,139.507,2341,Subduction zone / Continental crust (>25 km),Eruption Dated
-283143,Takaharayama,Stratovolcano,Japan,36.9,139.77700000000002,1795,Subduction zone / Continental crust (>25 km),Eruption Dated
+283143,Takaharayama,Stratovolcano,Japan,36.9,139.777,1795,Subduction zone / Continental crust (>25 km),Eruption Dated
 283150,Nasudake,Stratovolcano(es),Japan,37.125,139.963,1915,Subduction zone / Continental crust (>25 km),Eruption Observed
 283151,Numazawa,Shield,Japan,37.444,139.566,835,Subduction zone / Continental crust (>25 km),Eruption Dated
 283160,Bandaisan,Stratovolcano,Japan,37.601,140.072,1816,Subduction zone / Continental crust (>25 km),Eruption Observed
 283170,Adatarayama,Stratovolcano(es),Japan,37.647,140.281,1728,Subduction zone / Continental crust (>25 km),Eruption Observed
 283180,Azumayama,Stratovolcano(es),Japan,37.735,140.244,1949,Subduction zone / Continental crust (>25 km),Eruption Observed
 283190,Zaozan [Zaosan],Complex,Japan,38.144,140.44,1841,Subduction zone / Continental crust (>25 km),Eruption Observed
-283191,Hijiori,Caldera,Japan,38.599000000000004,140.162,552,Subduction zone / Continental crust (>25 km),Evidence Credible
+283191,Hijiori,Caldera,Japan,38.599,140.162,552,Subduction zone / Continental crust (>25 km),Evidence Credible
 283200,Naruko,Caldera,Japan,38.729,140.734,470,Subduction zone / Continental crust (>25 km),Eruption Observed
-283210,Kurikomayama,Stratovolcano,Japan,38.961,140.78799999999998,1627,Subduction zone / Continental crust (>25 km),Eruption Observed
-283220,Chokaisan,Stratovolcano(es),Japan,39.099000000000004,140.049,2236,Subduction zone / Continental crust (>25 km),Eruption Observed
-283230,Akita-Komagatake,Stratovolcano(es),Japan,39.760999999999996,140.799,1637,Subduction zone / Continental crust (>25 km),Eruption Observed
+283210,Kurikomayama,Stratovolcano,Japan,38.961,140.788,1627,Subduction zone / Continental crust (>25 km),Eruption Observed
+283220,Chokaisan,Stratovolcano(es),Japan,39.099,140.049,2236,Subduction zone / Continental crust (>25 km),Eruption Observed
+283230,Akita-Komagatake,Stratovolcano(es),Japan,39.761,140.799,1637,Subduction zone / Continental crust (>25 km),Eruption Observed
 283240,Iwatesan,Complex,Japan,39.853,141.001,2038,Subduction zone / Continental crust (>25 km),Eruption Observed
-283250,Hachimantai,Stratovolcano,Japan,39.958,140.85399999999998,1613,Subduction zone / Continental crust (>25 km),Eruption Dated
+283250,Hachimantai,Stratovolcano,Japan,39.958,140.854,1613,Subduction zone / Continental crust (>25 km),Eruption Dated
 283260,Akita-Yakeyama,Stratovolcano,Japan,39.964,140.757,1366,Subduction zone / Continental crust (>25 km),Eruption Observed
 283262,Megata,Maar(s),Japan,39.95,139.73,291,Subduction zone / Continental crust (>25 km),Eruption Dated
 283270,Iwakisan,Stratovolcano,Japan,40.656,140.303,1625,Subduction zone / Continental crust (>25 km),Eruption Observed
 283271,Towada,Caldera,Japan,40.51,140.88,1011,Subduction zone / Continental crust (>25 km),Eruption Observed
 283280,Hakkodasan,Stratovolcano(es),Japan,40.659,140.877,1585,Subduction zone / Continental crust (>25 km),Eruption Dated
-283290,Osorezan,Stratovolcano,Japan,41.278999999999996,141.12,878,Subduction zone / Continental crust (>25 km),Eruption Observed
-284010,Izu-Oshima,Stratovolcano,Japan,34.724000000000004,139.394,758,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+283290,Osorezan,Stratovolcano,Japan,41.279,141.12,878,Subduction zone / Continental crust (>25 km),Eruption Observed
+284010,Izu-Oshima,Stratovolcano,Japan,34.724,139.394,758,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 284011,Toshima,Stratovolcano,Japan,34.52,139.279,508,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
 284020,Niijima,Lava dome(s),Japan,34.397,139.27,432,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 284030,Kozushima,Lava dome(s),Japan,34.219,139.153,572,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
@@ -588,21 +589,21 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 284060,Aogashima,Stratovolcano,Japan,32.458,139.759,423,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 284061,Kita-Bayonnaise,Submarine,Japan,32.1,139.85,-360,Subduction zone / Oceanic crust (< 15 km),Evidence Uncertain
 284070,Myojinsho,Submarine,Japan,31.888,139.918,11,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-284080,Sumisujima,Submarine,Japan,31.44,140.05100000000002,136,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+284080,Sumisujima,Submarine,Japan,31.44,140.051,136,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 284090,Izu-Torishima,Stratovolcano,Japan,30.484,140.303,394,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 284091,Sofugan,Stratovolcano,Japan,29.794,140.342,99,Subduction zone / Oceanic crust (< 15 km),Evidence Uncertain
-284093,Suiyo Seamount,Submarine,Japan,28.575,140.63299999999998,-991,Subduction zone / Crustal thickness unknown,Unrest / Holocene
-284094,Mokuyo Seamount,Submarine,Japan,28.326999999999998,140.572,-933,Subduction zone / Crustal thickness unknown,Unrest / Holocene
+284093,Suiyo Seamount,Submarine,Japan,28.575,140.633,-991,Subduction zone / Crustal thickness unknown,Unrest / Holocene
+284094,Mokuyo Seamount,Submarine,Japan,28.327,140.572,-933,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284095,Doyo Seamount,Submarine,Japan,27.68,140.8,-590,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284096,Nishinoshima,Caldera,Japan,27.247,140.874,25,Subduction zone / Crustal thickness unknown,Eruption Observed
-284097,Kaikata Seamount,Submarine,Japan,26.666999999999998,140.929,-165,Subduction zone / Crustal thickness unknown,Unrest / Holocene
+284097,Kaikata Seamount,Submarine,Japan,26.667,140.929,-165,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284100,Kaitoku Seamount,Submarine,Japan,26.127,141.102,-95,Subduction zone / Crustal thickness unknown,Eruption Observed
 284110,Kita-Ioto,Stratovolcano,Japan,25.424,141.284,792,Subduction zone / Crustal thickness unknown,Eruption Observed
-284120,Ioto,Caldera,Japan,24.750999999999998,141.289,169,Subduction zone / Crustal thickness unknown,Eruption Observed
-284121,Kita-Fukutokutai,Submarine,Japan,24.416999999999998,141.417,-73,Subduction zone / Crustal thickness unknown,Eruption Observed
+284120,Ioto,Caldera,Japan,24.751,141.289,169,Subduction zone / Crustal thickness unknown,Eruption Observed
+284121,Kita-Fukutokutai,Submarine,Japan,24.417,141.417,-73,Subduction zone / Crustal thickness unknown,Eruption Observed
 284130,Fukutoku-Oka-no-Ba,Submarine,Japan,24.285,141.481,-29,Subduction zone / Crustal thickness unknown,Eruption Observed
 284131,Minami-Hiyoshi,Submarine,Japan,23.5,141.935,-107,Subduction zone / Crustal thickness unknown,Eruption Observed
-284132,Nikko,Submarine,Japan,23.078000000000003,142.326,-392,Subduction zone / Crustal thickness unknown,Unrest / Holocene
+284132,Nikko,Submarine,Japan,23.078,142.326,-392,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284133,Fukujin,Submarine,United States,21.93,143.47,-217,Subduction zone / Crustal thickness unknown,Eruption Observed
 284134,Kasuga 1,Submarine,United States,21.765,143.71,-598,Subduction zone / Crustal thickness unknown,Eruption Observed
 284135,Kasuga 2,Submarine,United States,21.6,143.637,-274,Subduction zone / Crustal thickness unknown,Evidence Credible
@@ -616,42 +617,42 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 284160,Agrigan,Stratovolcano,United States,18.77,145.67,965,Subduction zone / Crustal thickness unknown,Eruption Observed
 284170,Pagan,Stratovolcano(es),United States,18.13,145.8,570,Subduction zone / Crustal thickness unknown,Eruption Observed
 284180,Alamagan,Stratovolcano,United States,17.6,145.83,744,Subduction zone / Crustal thickness unknown,Eruption Dated
-284190,Guguan,Stratovolcano,United States,17.307000000000002,145.845,287,Subduction zone / Crustal thickness unknown,Eruption Observed
+284190,Guguan,Stratovolcano,United States,17.307,145.845,287,Subduction zone / Crustal thickness unknown,Eruption Observed
 284191,Zealandia Bank,Stratovolcano,United States,16.88,145.85,0,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284192,Sarigan,Stratovolcano,United States,16.708,145.78,538,Subduction zone / Crustal thickness unknown,Evidence Credible
 284193,South Sarigan Seamount,Submarine,United States,16.58,145.78,-184,Subduction zone / Crustal thickness unknown,Eruption Observed
 284200,Anatahan,Stratovolcano,United States,16.35,145.67,790,Subduction zone / Crustal thickness unknown,Eruption Observed
 284201,East Diamante,Submarine,United States,15.93,145.67,-127,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284202,Ruby,Submarine,United States,15.62,145.57,-230,Subduction zone / Crustal thickness unknown,Eruption Observed
-284210,Esmeralda Bank,Submarine,United States,15.0,145.25,-43,Subduction zone / Crustal thickness unknown,Unrest / Holocene
-284211,NW Rota-1,Submarine,United States,14.600999999999999,144.775,-517,Subduction zone / Crustal thickness unknown,Eruption Observed
+284210,Esmeralda Bank,Submarine,United States,15,145.25,-43,Subduction zone / Crustal thickness unknown,Unrest / Holocene
+284211,NW Rota-1,Submarine,United States,14.601,144.775,-517,Subduction zone / Crustal thickness unknown,Eruption Observed
 284220,Forecast Seamount,Submarine,United States,13.4,143.92,-1456,Subduction zone / Crustal thickness unknown,Unrest / Holocene
 284230,Seamount X,Submarine,United States,13.25,144.02,-1230,Subduction zone / Crustal thickness unknown,Unrest / Holocene
-284305,Mariana Back-Arc Segment at 15.5Â°N,Submarine,United States,15.405999999999999,144.506,-4100,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
-285010,Oshima-Oshima,Stratovolcano,Japan,41.51,139.36700000000002,732,Subduction zone / Continental crust (>25 km),Eruption Observed
+284305,Mariana Back-Arc Segment at 15.5°N,Submarine,United States,15.406,144.506,-4100,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
+285010,Oshima-Oshima,Stratovolcano,Japan,41.51,139.367,732,Subduction zone / Continental crust (>25 km),Eruption Observed
 285011,Esan,Lava dome(s),Japan,41.805,141.166,618,Subduction zone / Continental crust (>25 km),Eruption Observed
-285020,Hokkaido-Komagatake,Stratovolcano,Japan,42.063,140.67700000000002,1131,Subduction zone / Continental crust (>25 km),Eruption Observed
+285020,Hokkaido-Komagatake,Stratovolcano,Japan,42.063,140.677,1131,Subduction zone / Continental crust (>25 km),Eruption Observed
 285030,Toya,Stratovolcano,Japan,42.544,140.839,733,Subduction zone / Continental crust (>25 km),Eruption Observed
 285031,Niseko,Stratovolcano(es),Japan,42.875,140.659,1308,Subduction zone / Continental crust (>25 km),Eruption Dated
 285032,Yoteizan,Stratovolcano,Japan,42.827,140.812,1888,Subduction zone / Continental crust (>25 km),Eruption Dated
-285034,Kuttara,Stratovolcano(es),Japan,42.49100000000001,141.16,549,Subduction zone / Continental crust (>25 km),Eruption Dated
+285034,Kuttara,Stratovolcano(es),Japan,42.491,141.16,549,Subduction zone / Continental crust (>25 km),Eruption Dated
 285040,Shikotsu,Caldera,Japan,42.688,141.38,1320,Subduction zone / Continental crust (>25 km),Eruption Observed
-285041,Rishirizan,Stratovolcano,Japan,45.178999999999995,141.24200000000002,1721,Subduction zone / Continental crust (>25 km),Eruption Dated
+285041,Rishirizan,Stratovolcano,Japan,45.179,141.242,1721,Subduction zone / Continental crust (>25 km),Eruption Dated
 285050,Tokachidake,Stratovolcano(es),Japan,43.418,142.686,2077,Subduction zone / Continental crust (>25 km),Eruption Observed
-285060,Taisetsuzan,Stratovolcano(es),Japan,43.663999999999994,142.85399999999998,2291,Subduction zone / Continental crust (>25 km),Eruption Dated
+285060,Taisetsuzan,Stratovolcano(es),Japan,43.664,142.854,2291,Subduction zone / Continental crust (>25 km),Eruption Dated
 285061,Maruyama,Stratovolcano(es),Japan,43.418,143.031,2013,Subduction zone / Continental crust (>25 km),Eruption Observed
-285070,Akan,Caldera,Japan,43.38399999999999,144.013,1499,Subduction zone / Continental crust (>25 km),Eruption Observed
-285080,Kussharo,Caldera,Japan,43.615,144.42700000000002,574,Subduction zone / Continental crust (>25 km),Eruption Dated
-285081,Mashu,Caldera,Japan,43.571999999999996,144.561,857,Subduction zone / Continental crust (>25 km),Eruption Dated
+285070,Akan,Caldera,Japan,43.384,144.013,1499,Subduction zone / Continental crust (>25 km),Eruption Observed
+285080,Kussharo,Caldera,Japan,43.615,144.427,574,Subduction zone / Continental crust (>25 km),Eruption Dated
+285081,Mashu,Caldera,Japan,43.572,144.561,857,Subduction zone / Continental crust (>25 km),Eruption Dated
 285082,Rausudake,Stratovolcano,Japan,44.076,145.122,1660,Subduction zone / Continental crust (>25 km),Eruption Dated
 285083,Tenchozan,Crater rows,Japan,44.044,145.086,1046,,Eruption Dated
 285090,Shiretoko-Iozan,Stratovolcano,Japan,44.133,145.161,1562,Subduction zone / Continental crust (>25 km),Eruption Observed
-290010,Tomariyama [Golovnin],Caldera,Japan - administered by Russia,43.843999999999994,145.504,535,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+290010,Tomariyama [Golovnin],Caldera,Japan - administered by Russia,43.844,145.504,535,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290020,Raususan [Mendeleev],Stratovolcano,Japan - administered by Russia,43.979,145.733,882,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-290021,Ruruidake [Smirnov],Stratovolcano,Japan - administered by Russia,44.45399999999999,146.139,1486,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
+290021,Ruruidake [Smirnov],Stratovolcano,Japan - administered by Russia,44.454,146.139,1486,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 290030,Chachadake [Tiatia],Stratovolcano,Japan - administered by Russia,44.353,146.252,1822,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-290040,Berutarubesan [Berutarube],Stratovolcano,Japan - administered by Russia,44.461999999999996,146.93200000000002,1221,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
-290041,Moekeshiwan [Lvinaya Past],Stratovolcano,Japan - administered by Russia,44.608000000000004,146.994,528,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
+290040,Berutarubesan [Berutarube],Stratovolcano,Japan - administered by Russia,44.462,146.932,1221,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
+290041,Moekeshiwan [Lvinaya Past],Stratovolcano,Japan - administered by Russia,44.608,146.994,528,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
 290050,Etorofu-Atosanupuri [Atosanupuri],Stratovolcano,Japan - administered by Russia,44.808,147.131,1206,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290060,Nishihitokappuyama [Bogatyr Ridge],Stratovolcano,Japan - administered by Russia,44.833,147.342,1634,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 290061,Unnamed,Submarine,Japan - administered by Russia,45.022,147.019,-195,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
@@ -659,10 +660,10 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 290072,Odamoisan [Tebenkov],Stratovolcano,Japan - administered by Russia,45.028,147.918,1208,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
 290080,Sashiusudake [Baransky],Stratovolcano,Japan - administered by Russia,45.1,148.019,1125,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290090,Chirippusan [Chirip],Stratovolcano(es),Japan - administered by Russia,45.338,147.92,1587,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-290100,Moyorodake [Medvezhia],Stratovolcano,Japan - administered by Russia,45.388999999999996,148.838,1124,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+290100,Moyorodake [Medvezhia],Stratovolcano,Japan - administered by Russia,45.389,148.838,1124,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290110,Rakkibetsudake [Demon],Stratovolcano,Japan - administered by Russia,45.5,148.85,1205,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 290111,Ivao Group,Pyroclastic cone(s),Russia,45.77,149.68,1426,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
-290112,Rudakov,Stratovolcano,Russia,45.873999999999995,149.819,532,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
+290112,Rudakov,Stratovolcano,Russia,45.874,149.819,532,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
 290113,Tri Sestry,Stratovolcano,Russia,45.93,149.92,998,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
 290120,Kolokol Group,Stratovolcano,Russia,46.042,150.083,1328,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290150,Chirpoi,Caldera,Russia,46.532,150.871,742,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
@@ -679,35 +680,35 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 290250,Raikoke,Stratovolcano,Russia,48.292,153.25,551,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290260,Chirinkotan,Stratovolcano,Russia,48.98,153.48,724,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290270,Ekarma,Stratovolcano,Russia,48.958,153.93,1170,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-290290,Sinarka,Stratovolcano,Russia,48.873000000000005,154.18200000000002,911,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-290300,Kharimkotan,Stratovolcano,Russia,49.12,154.50799999999998,1145,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+290290,Sinarka,Stratovolcano,Russia,48.873,154.182,911,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+290300,Kharimkotan,Stratovolcano,Russia,49.12,154.508,1145,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290310,Tao-Rusyr Caldera,Stratovolcano,Russia,49.35,154.7,1325,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290320,Nemo Peak,Caldera,Russia,49.57,154.808,1018,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 290331,Shirinki,Stratovolcano,Russia,50.2,154.98,761,Subduction zone / Continental crust (>25 km),Evidence Credible
-290340,Fuss Peak,Stratovolcano,Russia,50.266999999999996,155.246,1742,Subduction zone / Continental crust (>25 km),Eruption Observed
+290340,Fuss Peak,Stratovolcano,Russia,50.267,155.246,1742,Subduction zone / Continental crust (>25 km),Eruption Observed
 290350,Karpinsky Group,Cone(s),Russia,50.148,155.373,1326,Subduction zone / Continental crust (>25 km),Eruption Observed
 290360,Chikurachki,Stratovolcano(es),Russia,50.324,155.461,1781,Subduction zone / Continental crust (>25 km),Eruption Observed
 290370,Vernadskii Ridge,Pyroclastic cone(s),Russia,50.55,155.97,1183,Subduction zone / Continental crust (>25 km),Evidence Credible
-290380,Ebeko,Stratovolcano,Russia,50.68600000000001,156.014,1103,Subduction zone / Continental crust (>25 km),Eruption Observed
-290390,Alaid,Stratovolcano,Russia,50.861000000000004,155.565,2285,Subduction zone / Continental crust (>25 km),Eruption Observed
+290380,Ebeko,Stratovolcano,Russia,50.686,156.014,1103,Subduction zone / Continental crust (>25 km),Eruption Observed
+290390,Alaid,Stratovolcano,Russia,50.861,155.565,2285,Subduction zone / Continental crust (>25 km),Eruption Observed
 300001,Mashkovtsev,Stratovolcano,Russia,51.1,156.72,503,Subduction zone / Continental crust (>25 km),Evidence Credible
-300010,Kambalny,Stratovolcano,Russia,51.306000000000004,156.875,2116,Subduction zone / Continental crust (>25 km),Eruption Dated
+300010,Kambalny,Stratovolcano,Russia,51.306,156.875,2116,Subduction zone / Continental crust (>25 km),Eruption Dated
 300020,Koshelev,Stratovolcano,Russia,51.356,156.753,1822,Subduction zone / Continental crust (>25 km),Eruption Observed
 300021,Yavinsky,Stratovolcano,Russia,51.533,156.629,646,Subduction zone / Continental crust (>25 km),Eruption Dated
-300022,Diky Greben,Lava dome(s),Russia,51.452,156.97799999999998,1040,Subduction zone / Continental crust (>25 km),Eruption Dated
+300022,Diky Greben,Lava dome(s),Russia,51.452,156.978,1040,Subduction zone / Continental crust (>25 km),Eruption Dated
 300023,Kurile Lake,Caldera,Russia,51.45,157.12,81,Subduction zone / Continental crust (>25 km),Eruption Dated
-300030,Iliinsky,Stratovolcano,Russia,51.498000000000005,157.203,1555,Subduction zone / Continental crust (>25 km),Eruption Observed
+300030,Iliinsky,Stratovolcano,Russia,51.498,157.203,1555,Subduction zone / Continental crust (>25 km),Eruption Observed
 300040,Zheltovsky,Stratovolcano,Russia,51.577,157.328,1926,Subduction zone / Continental crust (>25 km),Eruption Observed
 300041,Kell,Stratovolcano(es),Russia,51.65,157.35,900,Subduction zone / Continental crust (>25 km),Evidence Credible
 300042,Belenkaya,Stratovolcano,Russia,51.75,157.27,892,Subduction zone / Continental crust (>25 km),Evidence Credible
-300050,Ksudach,Stratovolcano,Russia,51.843999999999994,157.572,1079,Subduction zone / Continental crust (>25 km),Eruption Observed
+300050,Ksudach,Stratovolcano,Russia,51.844,157.572,1079,Subduction zone / Continental crust (>25 km),Eruption Observed
 300051,Ozernoy,Shield,Russia,51.88,157.38,562,Subduction zone / Continental crust (>25 km),Evidence Credible
 300052,Olkoviy Volcanic Group,Volcanic field,Russia,52.02,157.53,681,Subduction zone / Continental crust (>25 km),Evidence Credible
 300053,Khodutka,Stratovolcano(es),Russia,52.062,157.711,2039,Subduction zone / Continental crust (>25 km),Eruption Dated
 300054,Piratkovsky,Stratovolcano,Russia,52.113,157.849,1322,Subduction zone / Continental crust (>25 km),Evidence Credible
 300055,Ostanets,Shield(s),Russia,52.146,157.322,719,Subduction zone / Continental crust (>25 km),Evidence Credible
-300056,Otdelniy,Pyroclastic cone(s),Russia,52.221000000000004,157.435,814,Subduction zone / Continental crust (>25 km),Evidence Credible
-300057,Golaya,Stratovolcano,Russia,52.263000000000005,157.787,858,Subduction zone / Continental crust (>25 km),Evidence Credible
+300056,Otdelniy,Pyroclastic cone(s),Russia,52.221,157.435,814,Subduction zone / Continental crust (>25 km),Evidence Credible
+300057,Golaya,Stratovolcano,Russia,52.263,157.787,858,Subduction zone / Continental crust (>25 km),Evidence Credible
 300058,Asacha,Complex,Russia,52.355,157.827,1910,Subduction zone / Continental crust (>25 km),Evidence Credible
 300059,Visokiy,Stratovolcano,Russia,52.43,157.93,1234,Subduction zone / Continental crust (>25 km),Evidence Credible
 300060,Mutnovsky,Complex,Russia,52.449,158.196,2288,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -717,7 +718,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 300083,Vilyuchik,Stratovolcano,Russia,52.7,158.28,2173,Subduction zone / Continental crust (>25 km),Eruption Dated
 300084,Barkhatnaya Sopka,Lava dome(s),Russia,52.802,158.24,874,Subduction zone / Continental crust (>25 km),Eruption Dated
 300087,Bolshe-Bannaya,Lava dome(s),Russia,52.9,157.78,1200,Subduction zone / Continental crust (>25 km),Evidence Credible
-300090,Koryaksky,Stratovolcano,Russia,53.321000000000005,158.71200000000002,3430,Subduction zone / Continental crust (>25 km),Eruption Observed
+300090,Koryaksky,Stratovolcano,Russia,53.321,158.712,3430,Subduction zone / Continental crust (>25 km),Eruption Observed
 300100,Avachinsky,Stratovolcano,Russia,53.256,158.836,2717,Subduction zone / Continental crust (>25 km),Eruption Observed
 300110,Dzenzursky,Compound,Russia,53.637,158.922,2285,Subduction zone / Continental crust (>25 km),Evidence Credible
 300120,Zhupanovsky,Compound,Russia,53.589,159.15,2899,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -726,31 +727,31 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 300123,Bakening,Stratovolcano,Russia,53.905,158.07,2278,Subduction zone / Continental crust (>25 km),Eruption Dated
 300124,Zavaritsky,Pyroclastic cone(s),Russia,53.905,158.385,1567,Subduction zone / Continental crust (>25 km),Eruption Dated
 300125,Akademia Nauk,Stratovolcano(es),Russia,53.98,159.45,1180,Subduction zone / Continental crust (>25 km),Eruption Observed
-300130,Karymsky,Stratovolcano,Russia,54.049,159.44299999999998,1513,Subduction zone / Continental crust (>25 km),Eruption Observed
+300130,Karymsky,Stratovolcano,Russia,54.049,159.443,1513,Subduction zone / Continental crust (>25 km),Eruption Observed
 300140,Maly Semyachik,Caldera,Russia,54.135,159.674,1527,Subduction zone / Continental crust (>25 km),Eruption Observed
 300150,Bolshoi Semiachik,Stratovolcano(es),Russia,54.32,160.02,1720,Subduction zone / Continental crust (>25 km),Eruption Dated
 300160,Taunshits,Stratovolcano,Russia,54.528,159.804,2301,Subduction zone / Continental crust (>25 km),Eruption Dated
 300170,Uzon,Caldera(s),Russia,54.5,159.97,1617,Subduction zone / Continental crust (>25 km),Eruption Dated
 300180,Kikhpinych,Stratovolcano(es),Russia,54.489,160.251,1515,Subduction zone / Continental crust (>25 km),Eruption Dated
-300190,Krasheninnikov,Caldera,Russia,54.596000000000004,160.27,1816,Subduction zone / Continental crust (>25 km),Eruption Dated
+300190,Krasheninnikov,Caldera,Russia,54.596,160.27,1816,Subduction zone / Continental crust (>25 km),Eruption Dated
 300200,Kronotsky,Stratovolcano,Russia,54.753,160.533,3482,Subduction zone / Continental crust (>25 km),Eruption Observed
 300201,Schmidt,Shield,Russia,54.92,160.63,2020,Subduction zone / Continental crust (>25 km),Evidence Credible
 300210,Gamchen,Complex,Russia,54.974,160.703,2539,Subduction zone / Continental crust (>25 km),Eruption Dated
 300220,Komarov,Stratovolcano,Russia,55.033,160.725,2065,Subduction zone / Continental crust (>25 km),Eruption Dated
-300221,Vysoky,Stratovolcano,Russia,55.06399999999999,160.765,2129,Subduction zone / Continental crust (>25 km),Eruption Dated
+300221,Vysoky,Stratovolcano,Russia,55.064,160.765,2129,Subduction zone / Continental crust (>25 km),Eruption Dated
 300230,Kizimen,Stratovolcano,Russia,55.131,160.32,2334,Subduction zone / Continental crust (>25 km),Eruption Observed
 300240,Tolbachik,Shield,Russia,55.832,160.326,3611,Subduction zone / Continental crust (>25 km),Eruption Observed
-300241,Udina,Stratovolcano(es),Russia,55.758,160.52700000000002,2886,Subduction zone / Continental crust (>25 km),Evidence Credible
-300242,Zimina,Stratovolcano(es),Russia,55.861999999999995,160.60299999999998,3057,Subduction zone / Continental crust (>25 km),Evidence Credible
+300241,Udina,Stratovolcano(es),Russia,55.758,160.527,2886,Subduction zone / Continental crust (>25 km),Evidence Credible
+300242,Zimina,Stratovolcano(es),Russia,55.862,160.603,3057,Subduction zone / Continental crust (>25 km),Evidence Credible
 300250,Bezymianny,Stratovolcano,Russia,55.972,160.595,2882,Subduction zone / Continental crust (>25 km),Eruption Observed
 300251,Kamen,Stratovolcano,Russia,56.02,160.593,4585,Subduction zone / Continental crust (>25 km),Evidence Credible
-300260,Klyuchevskoy,Stratovolcano,Russia,56.056000000000004,160.642,4754,Subduction zone / Continental crust (>25 km),Eruption Observed
+300260,Klyuchevskoy,Stratovolcano,Russia,56.056,160.642,4754,Subduction zone / Continental crust (>25 km),Eruption Observed
 300261,Ushkovsky,Compound,Russia,56.113,160.509,3943,Subduction zone / Continental crust (>25 km),Eruption Observed
 300270,Sheveluch,Stratovolcano,Russia,56.653,161.36,3283,Subduction zone / Continental crust (>25 km),Eruption Observed
 300271,Piip,Submarine,Russia,55.42,167.33,-300,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
 300272,Khangar,Stratovolcano,Russia,54.761,157.407,1967,Subduction zone / Continental crust (>25 km),Eruption Dated
 300273,Cherpuk Group,Pyroclastic cone(s),Russia,55.55,157.47,1868,Subduction zone / Continental crust (>25 km),Eruption Dated
-300280,Ichinsky,Stratovolcano,Russia,55.678000000000004,157.718,3596,Subduction zone / Continental crust (>25 km),Eruption Observed
+300280,Ichinsky,Stratovolcano,Russia,55.678,157.718,3596,Subduction zone / Continental crust (>25 km),Eruption Observed
 300290,Maly Payalpan,Shield(s),Russia,55.82,157.98,1802,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300300,Bolshoi Payalpan,Shield(s),Russia,55.88,157.78,1906,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300310,Plosky,Shield,Russia,55.2,158.47,1236,Subduction zone / Continental crust (>25 km),Evidence Uncertain
@@ -758,7 +759,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 300330,Kozyrevsky,Shield,Russia,55.58,158.38,2016,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300340,Romanovka,Stratovolcano,Russia,55.65,158.8,1442,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300350,Uksichan,Shield,Russia,56.08,158.38,1692,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-300360,Bolshoi-Kekuknaysky,Shield(s),Russia,56.483000000000004,157.917,1401,Subduction zone / Continental crust (>25 km),Eruption Dated
+300360,Bolshoi-Kekuknaysky,Shield(s),Russia,56.483,157.917,1401,Subduction zone / Continental crust (>25 km),Eruption Dated
 300370,Kulkev,Shield,Russia,56.37,158.37,915,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300380,Geodesistoy,Shield,Russia,56.33,158.67,1170,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300390,Anaun,Stratovolcano,Russia,56.32,158.83,1828,Subduction zone / Continental crust (>25 km),Evidence Uncertain
@@ -766,7 +767,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 300410,Kekurny,Shield(s),Russia,56.4,158.85,1377,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300420,Eggella,Shield,Russia,56.57,158.52,1046,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300440,Verkhovoy,Shield,Russia,56.52,159.53,1400,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-300450,Alney-Chashakondzha,Stratovolcano,Russia,56.656000000000006,159.64700000000002,2570,Subduction zone / Continental crust (>25 km),Eruption Dated
+300450,Alney-Chashakondzha,Stratovolcano,Russia,56.656,159.647,2570,Subduction zone / Continental crust (>25 km),Eruption Dated
 300460,Cherny,Stratovolcano,Russia,56.82,159.67,1778,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300470,Pogranychny,Shield(s),Russia,56.85,159.8,1427,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300480,Zaozerny,Shield(s),Russia,56.88,159.95,1349,Subduction zone / Continental crust (>25 km),Evidence Uncertain
@@ -776,12 +777,12 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 300511,Shisheika,Lava dome,Russia,57.153,161.09,355,Subduction zone / Continental crust (>25 km),Eruption Dated
 300512,Terpuk,Shield,Russia,57.2,159.83,765,Subduction zone / Continental crust (>25 km),Eruption Dated
 300520,Sedanka Lava Field,Volcanic field,Russia,57.317,160.067,1399,Subduction zone / Continental crust (>25 km),Eruption Dated
-300530,Leutongey,Shield,Russia,57.306000000000004,159.827,1318,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+300530,Leutongey,Shield,Russia,57.306,159.827,1318,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300540,Tuzovsky,Shield(s),Russia,57.32,159.967,1516,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300550,Gorny Institute,Stratovolcano,Russia,57.33,160.2,2125,Subduction zone / Continental crust (>25 km),Eruption Dated
 300551,Kinenin,Maar,Russia,57.35,160.97,583,Subduction zone / Continental crust (>25 km),Eruption Dated
 300552,Bliznetsy,Lava cone,Russia,57.35,161.37,265,Subduction zone / Continental crust (>25 km),Eruption Dated
-300560,Titila,Shield(s),Russia,57.406000000000006,160.108,1523,Subduction zone / Continental crust (>25 km),Eruption Dated
+300560,Titila,Shield(s),Russia,57.406,160.108,1523,Subduction zone / Continental crust (>25 km),Eruption Dated
 300570,Mezhdusopochny,Shield,Russia,57.47,160.25,1641,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300580,Shishel,Shield,Russia,57.45,160.37,2525,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300590,Elovsky,Shield(s),Russia,57.55,160.53,1381,Subduction zone / Continental crust (>25 km),Eruption Dated
@@ -798,7 +799,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 300690,Snegovoy,Shield,Russia,58.2,160.97,2169,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 300700,Severny,Shield,Russia,58.28,160.87,1936,Subduction zone / Continental crust (>25 km),Eruption Dated
 300710,Iettunup,Shield(s),Russia,58.4,161.08,1340,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-300720,Voyampolsky,Shield(s),Russia,58.373999999999995,160.631,1103,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+300720,Voyampolsky,Shield(s),Russia,58.374,160.631,1103,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 302030,Udokan Plateau,Pyroclastic cone(s),Russia,56.28,117.77,2180,Rift zone / Continental crust (>25 km),Eruption Dated
 302040,Vitim Volcanic Field,Pyroclastic cone(s),Russia,53.75,113.25,1250,Unknown,Evidence Credible
 302050,Tunkin Depression,Volcanic field,Russia,51.5,102.5,1200,Rift zone / Continental crust (>25 km),Evidence Uncertain
@@ -818,7 +819,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 306020,Ch'uga-ryong,Shield,North Korea-South Korea,38.33,127.33,452,Intraplate / Continental crust (>25 km),Evidence Uncertain
 306030,Ulreung,Stratovolcano,South Korea,37.5,130.87,984,Intraplate / Continental crust (>25 km),Eruption Dated
 306040,Halla,Shield,South Korea,33.361,126.53,1919,Intraplate / Continental crust (>25 km),Eruption Observed
-311010,Buldir,Stratovolcano,United States,52.35,175.91099999999997,656,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
+311010,Buldir,Stratovolcano,United States,52.35,175.911,656,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
 311020,Kiska,Stratovolcano,United States,52.103,177.602,1220,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311030,Segula,Stratovolcano,United States,52.015,178.136,1160,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 311040,Davidof,Stratovolcano,United States,51.97,178.33,328,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
@@ -826,46 +827,46 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 311060,Semisopochnoi,Stratovolcano,United States,51.93,179.58,1221,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311070,Gareloi,Stratovolcano,United States,51.79,-178.794,1573,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311080,Tanaga,Stratovolcano(es),United States,51.885,-178.146,1806,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311090,Takawangha,Stratovolcano,United States,51.873000000000005,-178.00599999999997,1449,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
+311090,Takawangha,Stratovolcano,United States,51.873,-178.006,1449,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
 311100,Bobrof,Stratovolcano,United States,51.91,-177.438,738,Subduction zone / Intermediate crust (15-25 km),Evidence Uncertain
 311110,Kanaga,Stratovolcano,United States,51.923,-177.168,1307,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311111,Moffett,Stratovolcano,United States,51.943999999999996,-176.747,1196,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
+311111,Moffett,Stratovolcano,United States,51.944,-176.747,1196,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
 311120,Great Sitkin,Stratovolcano,United States,52.076,-176.13,1740,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311130,Kasatochi,Stratovolcano,United States,52.177,-175.50799999999998,314,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+311130,Kasatochi,Stratovolcano,United States,52.177,-175.508,314,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311140,Koniuji,Stratovolcano,United States,52.22,-175.13,273,Subduction zone / Intermediate crust (15-25 km),Eruption Dated
 311160,Atka,Stratovolcano(es),United States,52.331,-174.139,1448,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311161,Korovin,Stratovolcano(es),United States,52.381,-174.166,1518,Subduction zone / Continental crust (>25 km),Eruption Observed
 311180,Seguam,Stratovolcano(es),United States,52.315,-172.51,1054,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311190,Amukta,Stratovolcano,United States,52.5,-171.252,1066,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311200,Chagulak,Stratovolcano,United States,52.577,-171.13,1142,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
-311210,Yunaska,Shield,United States,52.643,-170.62900000000002,550,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+311210,Yunaska,Shield,United States,52.643,-170.629,550,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311220,Herbert,Stratovolcano,United States,52.742,-170.111,1280,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 311230,Carlisle,Stratovolcano,United States,52.894,-170.054,1620,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311240,Cleveland,Stratovolcano,United States,52.825,-169.94400000000002,1730,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+311240,Cleveland,Stratovolcano,United States,52.825,-169.944,1730,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311241,Tana,Stratovolcano(es),United States,52.83,-169.77,1170,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 311250,Uliaga,Stratovolcano,United States,53.065,-169.77,888,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 311260,Kagamil,Stratovolcano,United States,52.974,-169.72,893,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311270,Vsevidof,Stratovolcano,United States,53.13,-168.69299999999998,2149,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311280,Recheschnoi,Stratovolcano,United States,53.157,-168.53900000000002,1984,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
+311270,Vsevidof,Stratovolcano,United States,53.13,-168.693,2149,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+311280,Recheschnoi,Stratovolcano,United States,53.157,-168.539,1984,Subduction zone / Intermediate crust (15-25 km),Evidence Credible
 311290,Okmok,Shield,United States,53.43,-168.13,1073,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
 311300,Bogoslof,Submarine,United States,53.93,-168.03,150,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311310,Makushin,Stratovolcano,United States,53.891000000000005,-166.923,1800,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311320,Akutan,Stratovolcano,United States,54.13399999999999,-165.986,1303,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
-311340,Westdahl,Stratovolcano?,United States,54.516000000000005,-164.65,1563,Subduction zone / Continental crust (>25 km),Eruption Observed
+311310,Makushin,Stratovolcano,United States,53.891,-166.923,1800,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+311320,Akutan,Stratovolcano,United States,54.134,-165.986,1303,Subduction zone / Intermediate crust (15-25 km),Eruption Observed
+311340,Westdahl,Stratovolcano?,United States,54.516,-164.65,1563,Subduction zone / Continental crust (>25 km),Eruption Observed
 311350,Fisher,Stratovolcano,United States,54.65,-164.43,1112,Subduction zone / Continental crust (>25 km),Eruption Observed
 311360,Shishaldin,Stratovolcano,United States,54.756,-163.97,2857,Subduction zone / Continental crust (>25 km),Eruption Observed
-311370,Isanotski,Stratovolcano,United States,54.765,-163.72299999999998,2446,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+311370,Isanotski,Stratovolcano,United States,54.765,-163.723,2446,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 311380,Roundtop,Stratovolcano,United States,54.8,-163.589,1871,Subduction zone / Continental crust (>25 km),Eruption Dated
 311390,Amak,Stratovolcano,United States,55.424,-163.149,488,Subduction zone / Continental crust (>25 km),Eruption Observed
 312010,Frosty,Stratovolcano(es),United States,55.067,-162.835,1728,Subduction zone / Continental crust (>25 km),Evidence Credible
 312011,Dutton,Stratovolcano,United States,55.183,-162.276,1465,Subduction zone / Continental crust (>25 km),Evidence Credible
-312020,Emmons Lake,Caldera,United States,55.341,-162.07299999999998,1436,Subduction zone / Continental crust (>25 km),Evidence Credible
+312020,Emmons Lake,Caldera,United States,55.341,-162.073,1436,Subduction zone / Continental crust (>25 km),Evidence Credible
 312030,Pavlof,Stratovolcano,United States,55.417,-161.894,2493,Subduction zone / Continental crust (>25 km),Eruption Observed
-312040,Pavlof Sister,Stratovolcano,United States,55.457,-161.85399999999998,2142,Subduction zone / Continental crust (>25 km),Evidence Credible
-312050,Dana,Stratovolcano,United States,55.641000000000005,-161.214,1354,Subduction zone / Continental crust (>25 km),Eruption Dated
-312051,Stepovak Bay 2,Pyroclastic cone,United States,55.913000000000004,-160.041,1323,Subduction zone / Continental crust (>25 km),Evidence Credible
-312052,Stepovak Bay 3,Pyroclastic cone,United States,55.928999999999995,-160.002,1555,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-312053,Stepovak Bay 4,Stratovolcano,United States,55.95399999999999,-159.954,1557,Subduction zone / Continental crust (>25 km),Evidence Credible
+312040,Pavlof Sister,Stratovolcano,United States,55.457,-161.854,2142,Subduction zone / Continental crust (>25 km),Evidence Credible
+312050,Dana,Stratovolcano,United States,55.641,-161.214,1354,Subduction zone / Continental crust (>25 km),Eruption Dated
+312051,Stepovak Bay 2,Pyroclastic cone,United States,55.913,-160.041,1323,Subduction zone / Continental crust (>25 km),Evidence Credible
+312052,Stepovak Bay 3,Pyroclastic cone,United States,55.929,-160.002,1555,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+312053,Stepovak Bay 4,Stratovolcano,United States,55.954,-159.954,1557,Subduction zone / Continental crust (>25 km),Evidence Credible
 312060,Kupreanof,Stratovolcano,United States,56.011,-159.797,1895,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 312070,Veniaminof,Stratovolcano,United States,56.17,-159.38,2507,Subduction zone / Continental crust (>25 km),Eruption Observed
 312080,Black Peak,Stratovolcano,United States,56.552,-158.785,1032,Subduction zone / Continental crust (>25 km),Eruption Dated
@@ -873,25 +874,25 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 312100,Yantarni,Stratovolcano,United States,57.019,-157.185,1345,Subduction zone / Continental crust (>25 km),Eruption Dated
 312110,Chiginagak,Stratovolcano,United States,57.135,-156.99,2221,Subduction zone / Continental crust (>25 km),Eruption Observed
 312120,Kialagvik,Stratovolcano,United States,57.203,-156.745,1677,Subduction zone / Continental crust (>25 km),Evidence Credible
-312130,Ugashik-Peulik,Stratovolcano,United States,57.751000000000005,-156.368,1474,Subduction zone / Continental crust (>25 km),Eruption Observed
+312130,Ugashik-Peulik,Stratovolcano,United States,57.751,-156.368,1474,Subduction zone / Continental crust (>25 km),Eruption Observed
 312131,Ukinrek Maars,Maar(s),United States,57.832,-156.51,91,Subduction zone / Continental crust (>25 km),Eruption Observed
 312132,Unnamed,Lava dome,United States,57.87,-155.411,402,Subduction zone / Continental crust (>25 km),Evidence Credible
 312140,Martin,Stratovolcano,United States,58.172,-155.361,1863,Subduction zone / Continental crust (>25 km),Eruption Dated
 312150,Mageik,Stratovolcano,United States,58.195,-155.253,2165,Subduction zone / Continental crust (>25 km),Eruption Dated
-312160,Trident,Stratovolcano,United States,58.236000000000004,-155.1,1864,Subduction zone / Continental crust (>25 km),Eruption Observed
+312160,Trident,Stratovolcano,United States,58.236,-155.1,1864,Subduction zone / Continental crust (>25 km),Eruption Observed
 312170,Katmai,Stratovolcano,United States,58.28,-154.963,2047,Subduction zone / Continental crust (>25 km),Eruption Observed
 312180,Novarupta,Caldera,United States,58.27,-155.157,841,Subduction zone / Continental crust (>25 km),Eruption Observed
 312190,Griggs,Stratovolcano,United States,58.354,-155.092,2317,Subduction zone / Continental crust (>25 km),Eruption Dated
-312200,Snowy Mountain,Stratovolcano(es),United States,58.336000000000006,-154.68200000000002,2162,Subduction zone / Continental crust (>25 km),Eruption Dated
-312210,Denison,Stratovolcano,United States,58.418,-154.44899999999998,2287,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+312200,Snowy Mountain,Stratovolcano(es),United States,58.336,-154.682,2162,Subduction zone / Continental crust (>25 km),Eruption Dated
+312210,Denison,Stratovolcano,United States,58.418,-154.449,2287,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 312220,Steller,Stratovolcano,United States,58.43,-154.4,2272,Subduction zone / Continental crust (>25 km),Evidence Credible
 312230,Kukak,Stratovolcano,United States,58.453,-154.355,2043,Subduction zone / Continental crust (>25 km),Unrest / Holocene
-312250,Kaguyak,Lava dome(s),United States,58.608000000000004,-154.028,901,Subduction zone / Continental crust (>25 km),Eruption Dated
+312250,Kaguyak,Lava dome(s),United States,58.608,-154.028,901,Subduction zone / Continental crust (>25 km),Eruption Dated
 312260,Fourpeaked,Stratovolcano,United States,58.77,-153.672,2105,Subduction zone / Continental crust (>25 km),Eruption Observed
 312270,Douglas,Stratovolcano,United States,58.855,-153.542,2140,Subduction zone / Continental crust (>25 km),Evidence Credible
 313010,Augustine,Lava dome(s),United States,59.363,-153.43,1252,Subduction zone / Continental crust (>25 km),Eruption Observed
 313020,Iliamna,Stratovolcano,United States,60.032,-153.09,3053,Subduction zone / Continental crust (>25 km),Eruption Observed
-313030,Redoubt,Stratovolcano,United States,60.485,-152.74200000000002,3108,Subduction zone / Continental crust (>25 km),Eruption Observed
+313030,Redoubt,Stratovolcano,United States,60.485,-152.742,3108,Subduction zone / Continental crust (>25 km),Eruption Observed
 313040,Spurr,Stratovolcano,United States,61.299,-152.251,3374,Subduction zone / Continental crust (>25 km),Eruption Observed
 313050,Hayes,Stratovolcano,United States,61.64,-152.411,3034,Subduction zone / Continental crust (>25 km),Eruption Dated
 314010,St. Paul Island,Shield,United States,57.18,-170.3,203,Intraplate / Continental crust (>25 km),Eruption Dated
@@ -918,44 +919,44 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 320100,Tseax River Cone,Pyroclastic cone,Canada,55.12,-128.9,609,Intraplate / Continental crust (>25 km),Eruption Dated
 320110,Crow Lagoon,Pyroclastic cone,Canada,54.7,-130.23,335,Intraplate / Continental crust (>25 km),Evidence Credible
 320120,Milbanke Sound Group,Pyroclastic cone(s),Canada,52.5,-128.73,335,Intraplate / Continental crust (>25 km),Evidence Credible
-320140,Nazko,Pyroclastic cone(s),Canada,52.928000000000004,-123.73200000000001,1238,Intraplate / Continental crust (>25 km),Eruption Dated
+320140,Nazko,Pyroclastic cone(s),Canada,52.928,-123.732,1238,Intraplate / Continental crust (>25 km),Eruption Dated
 320150,Wells Gray-Clearwater,Pyroclastic cone(s),Canada,52.33,-120.57,2576,Intraplate / Continental crust (>25 km),Eruption Dated
 320160,Silverthrone,Caldera,Canada,51.43,-126.3,3160,Subduction zone / Continental crust (>25 km),Evidence Credible
 320170,Bridge River Cones,Volcanic field,Canada,50.8,-123.4,2500,Subduction zone / Continental crust (>25 km),Evidence Credible
 320180,Meager,Complex,Canada,50.63,-123.5,2680,Subduction zone / Continental crust (>25 km),Eruption Dated
-320190,Garibaldi Lake,Volcanic field,Canada,49.933,-123.0,2316,Subduction zone / Continental crust (>25 km),Evidence Credible
-320200,Garibaldi,Stratovolcano,Canada,49.85,-123.0,2678,Subduction zone / Continental crust (>25 km),Eruption Dated
+320190,Garibaldi Lake,Volcanic field,Canada,49.933,-123,2316,Subduction zone / Continental crust (>25 km),Evidence Credible
+320200,Garibaldi,Stratovolcano,Canada,49.85,-123,2678,Subduction zone / Continental crust (>25 km),Eruption Dated
 320811,Cayley Volcanic Field,Volcanic field,Canada,50.12,-123.28,2375,Subduction zone / Continental crust (>25 km),Evidence Credible
-321010,Baker,Stratovolcano(es),United States,48.777,-121.81299999999999,3285,Subduction zone / Continental crust (>25 km),Eruption Observed
-321020,Glacier Peak,Stratovolcano,United States,48.111999999999995,-121.113,3213,Subduction zone / Continental crust (>25 km),Eruption Dated
+321010,Baker,Stratovolcano(es),United States,48.777,-121.813,3285,Subduction zone / Continental crust (>25 km),Eruption Observed
+321020,Glacier Peak,Stratovolcano,United States,48.112,-121.113,3213,Subduction zone / Continental crust (>25 km),Eruption Dated
 321030,Rainier,Stratovolcano,United States,46.853,-121.76,4392,Subduction zone / Continental crust (>25 km),Eruption Dated
 321040,Adams,Stratovolcano,United States,46.206,-121.49,3742,Subduction zone / Continental crust (>25 km),Eruption Dated
 321050,St. Helens,Stratovolcano,United States,46.2,-122.18,2549,Subduction zone / Continental crust (>25 km),Eruption Observed
 321060,West Crater,Volcanic field,United States,45.88,-122.08,1329,Subduction zone / Continental crust (>25 km),Eruption Dated
 321070,Indian Heaven,Shield(s),United States,45.93,-121.82,1806,Subduction zone / Continental crust (>25 km),Eruption Dated
-322010,Hood,Stratovolcano,United States,45.373999999999995,-121.695,3426,Subduction zone / Continental crust (>25 km),Eruption Observed
+322010,Hood,Stratovolcano,United States,45.374,-121.695,3426,Subduction zone / Continental crust (>25 km),Eruption Observed
 322020,Jefferson,Stratovolcano,United States,44.674,-121.8,3199,Subduction zone / Continental crust (>25 km),Eruption Dated
 322030,Blue Lake Crater,Maar,United States,44.411,-121.774,1230,Subduction zone / Continental crust (>25 km),Eruption Dated
 322040,Sand Mountain Field,Pyroclastic cone(s),United States,44.38,-121.93,1664,Subduction zone / Continental crust (>25 km),Eruption Dated
-322060,Belknap,Shield(s),United States,44.285,-121.84100000000001,2095,Subduction zone / Continental crust (>25 km),Eruption Dated
-322070,Three Sisters,Complex,United States,44.133,-121.76700000000001,3159,Subduction zone / Continental crust (>25 km),Eruption Dated
-322090,Bachelor,Stratovolcano,United States,43.979,-121.68799999999999,2763,Subduction zone / Continental crust (>25 km),Eruption Dated
+322060,Belknap,Shield(s),United States,44.285,-121.841,2095,Subduction zone / Continental crust (>25 km),Eruption Dated
+322070,Three Sisters,Complex,United States,44.133,-121.767,3159,Subduction zone / Continental crust (>25 km),Eruption Dated
+322090,Bachelor,Stratovolcano,United States,43.979,-121.688,2763,Subduction zone / Continental crust (>25 km),Eruption Dated
 322100,Davis Lake,Volcanic field,United States,43.57,-121.82,2163,Subduction zone / Continental crust (>25 km),Eruption Dated
 322110,Newberry,Shield,United States,43.722,-121.229,2434,Subduction zone / Continental crust (>25 km),Eruption Dated
 322120,Devils Garden,Volcanic field,United States,43.512,-120.861,1698,Rift zone / Continental crust (>25 km),Evidence Uncertain
-322150,Cinnamon Butte,Pyroclastic cone(s),United States,43.24100000000001,-122.10799999999999,1956,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+322150,Cinnamon Butte,Pyroclastic cone(s),United States,43.241,-122.108,1956,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 322160,Crater Lake,Caldera,United States,42.93,-122.12,2487,Subduction zone / Continental crust (>25 km),Eruption Dated
 322170,Diamond Craters,Volcanic field,United States,43.1,-118.75,1435,Rift zone / Continental crust (>25 km),Eruption Dated
 322190,Jordan Craters,Volcanic field,United States,43.147,-117.46,1473,Rift zone / Continental crust (>25 km),Eruption Dated
 323010,Shasta,Stratovolcano,United States,41.409,-122.193,4317,Subduction zone / Continental crust (>25 km),Eruption Observed
-323020,Medicine Lake,Shield,United States,41.611000000000004,-121.554,2412,Subduction zone / Continental crust (>25 km),Eruption Dated
+323020,Medicine Lake,Shield,United States,41.611,-121.554,2412,Subduction zone / Continental crust (>25 km),Eruption Dated
 323080,Lassen Volcanic Center,Stratovolcano,United States,40.492,-121.508,3187,Subduction zone / Continental crust (>25 km),Eruption Observed
 323100,Clear Lake,Volcanic field,United States,38.97,-122.77,1439,Subduction zone / Continental crust (>25 km),Evidence Credible
-323110,Mono Lake Volcanic Field,Pyroclastic cone(s),United States,38.0,-119.03,2121,Rift zone / Continental crust (>25 km),Eruption Dated
+323110,Mono Lake Volcanic Field,Pyroclastic cone(s),United States,38,-119.03,2121,Rift zone / Continental crust (>25 km),Eruption Dated
 323120,Mono-Inyo Craters,Lava dome(s),United States,37.804,-119.029,2796,Rift zone / Continental crust (>25 km),Eruption Dated
-323150,Mammoth Mountain,Lava dome(s),United States,37.631,-119.03200000000001,3369,Rift zone / Continental crust (>25 km),Eruption Dated
+323150,Mammoth Mountain,Lava dome(s),United States,37.631,-119.032,3369,Rift zone / Continental crust (>25 km),Eruption Dated
 323160,Ubehebe Craters,Maar(s),United States,37.02,-117.45,752,Rift zone / Continental crust (>25 km),Eruption Dated
-323200,Salton Buttes,Lava dome(s),United States,33.196999999999996,-115.616,-40,Rift zone / Continental crust (>25 km),Eruption Dated
+323200,Salton Buttes,Lava dome(s),United States,33.197,-115.616,-40,Rift zone / Continental crust (>25 km),Eruption Dated
 324010,Black Butte Crater Lava Field,Shield,United States,43.183,-114.352,1478,Rift zone / Continental crust (>25 km),Eruption Dated
 324020,Craters of the Moon,Pyroclastic cone(s),United States,43.42,-113.5,2005,Rift zone / Continental crust (>25 km),Eruption Dated
 324030,Wapi Lava Field,Shield,United States,42.88,-113.22,1604,Rift zone / Continental crust (>25 km),Eruption Dated
@@ -965,7 +966,7 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 327040,Markagunt Plateau,Volcanic field,United States,37.58,-112.67,2840,Rift zone / Continental crust (>25 km),Evidence Credible
 327050,Black Rock Desert,Volcanic field,United States,38.97,-112.5,1800,Rift zone / Continental crust (>25 km),Eruption Dated
 327110,Carrizozo,Pyroclastic cone(s),United States,33.78,-105.93,1731,Rift zone / Continental crust (>25 km),Eruption Dated
-327120,Zuni-Bandera,Volcanic field,United States,34.8,-108.0,2550,Rift zone / Continental crust (>25 km),Eruption Dated
+327120,Zuni-Bandera,Volcanic field,United States,34.8,-108,2550,Rift zone / Continental crust (>25 km),Eruption Dated
 327812,Red Hill,Volcanic field,United States,34.25,-108.83,2300,Rift zone / Continental crust (>25 km),Eruption Dated
 328010,Dotsero,Maar,United States,39.661,-107.035,2230,Rift zone / Continental crust (>25 km),Eruption Dated
 329010,Uinkaret Field,Volcanic field,United States,36.38,-113.13,1555,Rift zone / Continental crust (>25 km),Eruption Dated
@@ -974,49 +975,49 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 331010,Endeavour Segment,Submarine,Canada,47.95,-129.1,-2050,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 331011,Cobb Segment,Submarine,Canada,46.88,-129.33,-2100,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 331020,CoAxial Segment,Submarine,Undersea Features,46.52,-129.58,-2400,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-331021,Axial Seamount,Submarine,Undersea Features,45.95,-130.0,-1410,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+331021,Axial Seamount,Submarine,Undersea Features,45.95,-130,-1410,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 331030,Cleft Segment,Submarine,Undersea Features,44.83,-130.3,-2140,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 331031,North Gorda Ridge Segment,Submarine,Undersea Features,42.67,-126.78,-3000,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 331032,Jackson Segment,Submarine,Undersea Features,42.15,-127.05,-3100,Rift zone / Oceanic crust (< 15 km),Unrest / Holocene
 331040,Escanaba Segment,Submarine,Undersea Features,40.98,-127.5,-1700,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-331060,East Blanco Depression,Submarine,Undersea Features,44.266999999999996,-129.879,-3000,Rift zone / Intermediate crust (15-25 km),Unrest / Holocene
+331060,East Blanco Depression,Submarine,Undersea Features,44.267,-129.879,-3000,Rift zone / Intermediate crust (15-25 km),Unrest / Holocene
 332000,Loihi,Submarine,United States,18.92,-155.27,-975,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 332010,Kilauea,Shield,United States,19.421,-155.287,1222,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 332020,Mauna Loa,Shield,United States,19.475,-155.608,4170,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 332030,Mauna Kea,Shield,United States,19.82,-155.47,4205,Intraplate / Oceanic crust (< 15 km),Eruption Dated
 332040,Hualalai,Shield,United States,19.692,-155.87,2523,Intraplate / Oceanic crust (< 15 km),Eruption Observed
-332060,Haleakala,Shield,United States,20.708000000000002,-156.25,3055,Intraplate / Oceanic crust (< 15 km),Eruption Dated
+332060,Haleakala,Shield,United States,20.708,-156.25,3055,Intraplate / Oceanic crust (< 15 km),Eruption Dated
 333010,Teahitia,Submarine,France,-17.564,-148.821,-1743,Intraplate / Oceanic crust (< 15 km),Eruption Dated
 333020,Rocard,Submarine,France,-17.662,-148.586,-2515,Intraplate / Oceanic crust (< 15 km),Eruption Dated
 333030,Moua Pihaa,Submarine,France,-18.325,-148.525,-312,Intraplate / Oceanic crust (< 15 km),Eruption Dated
-333040,Mehetia,Stratovolcano,France,-17.874000000000002,-148.06799999999998,389,Intraplate / Oceanic crust (< 15 km),Evidence Credible
+333040,Mehetia,Stratovolcano,France,-17.874,-148.068,389,Intraplate / Oceanic crust (< 15 km),Evidence Credible
 333050,Adams Seamount,Submarine,Undersea Features,-25.37,-129.27,-39,Intraplate / Oceanic crust (< 15 km),Eruption Dated
 333060,Macdonald,Submarine,Undersea Features,-28.98,-140.25,-39,Intraplate / Oceanic crust (< 15 km),Eruption Observed
-334020,Northern EPR at 17Â°N,Submarine,Undersea Features,16.55,-105.32,-2700,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-334021,Northern EPR at 16Â°N,Submarine,Undersea Features,15.83,-105.43,-2300,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-334040,Northern EPR at 10.7Â°N,Submarine,Undersea Features,10.73,-103.58,-2900,Intraplate / Oceanic crust (< 15 km),Eruption Observed
-334050,Northern EPR at 9.8Â°N,Submarine,Undersea Features,9.83,-104.3,-2500,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+334020,Northern EPR at 17°N,Submarine,Undersea Features,16.55,-105.32,-2700,Rift zone / Oceanic crust (< 15 km),Eruption Dated
+334021,Northern EPR at 16°N,Submarine,Undersea Features,15.83,-105.43,-2300,Rift zone / Oceanic crust (< 15 km),Eruption Dated
+334040,Northern EPR at 10.7°N,Submarine,Undersea Features,10.73,-103.58,-2900,Intraplate / Oceanic crust (< 15 km),Eruption Observed
+334050,Northern EPR at 9.8°N,Submarine,Undersea Features,9.83,-104.3,-2500,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 334070,Galapagos Rift,Submarine,Undersea Features,0.792,-86.15,-2430,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-334100,Southern EPR at 8Â°S,Submarine,Undersea Features,-8.27,-107.95,-2800,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+334100,Southern EPR at 8°S,Submarine,Undersea Features,-8.27,-107.95,-2800,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 334120,Southern EPR-Segment K,Submarine,Undersea Features,-17.436,-113.206,-2566,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 334130,Southern EPR-Segment J,Submarine,Undersea Features,-18.175,-113.35,-2650,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 334140,Southern EPR-Segment I,Submarine,Undersea Features,-18.53,-113.42,-2600,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-335020,Hollister Ridge,Submarine,Undersea Features,-53.998000000000005,-139.845,-1000,Intraplate / Oceanic crust (< 15 km),Evidence Uncertain
+335020,Hollister Ridge,Submarine,Undersea Features,-53.998,-139.845,-1000,Intraplate / Oceanic crust (< 15 km),Evidence Uncertain
 335030,Udintsev Transform,Submarine,Undersea Features,-56.153,-143.373,-5700,Intraplate / Oceanic crust (< 15 km),Evidence Uncertain
 341000,"Prieto, Cerro",Lava dome,Mexico,32.418,-115.305,223,Rift zone / Continental crust (>25 km),Evidence Uncertain
-341001,Pinacate,Pyroclastic cone(s),Mexico,31.772,-113.49799999999999,1200,Subduction zone / Continental crust (>25 km),Evidence Credible
-341002,San Quintin Volcanic Field,Pyroclastic cone(s),Mexico,30.468000000000004,-115.99600000000001,260,Rift zone / Continental crust (>25 km),Evidence Uncertain
+341001,Pinacate,Pyroclastic cone(s),Mexico,31.772,-113.498,1200,Subduction zone / Continental crust (>25 km),Evidence Credible
+341002,San Quintin Volcanic Field,Pyroclastic cone(s),Mexico,30.468,-115.996,260,Rift zone / Continental crust (>25 km),Evidence Uncertain
 341003,"San Luis, Isla",Tuff cone,Mexico,29.97,-114.4,180,Rift zone / Continental crust (>25 km),Evidence Credible
 341004,Jaraguay Volcanic Field,Pyroclastic cone(s),Mexico,29.33,-114.5,960,Rift zone / Continental crust (>25 km),Evidence Credible
-341005,Coronado,Stratovolcano,Mexico,29.08,-113.51299999999999,440,Rift zone / Continental crust (>25 km),Unrest / Holocene
+341005,Coronado,Stratovolcano,Mexico,29.08,-113.513,440,Rift zone / Continental crust (>25 km),Unrest / Holocene
 341006,Guadalupe,Shield,Mexico,29.07,-118.28,1100,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 341007,San Borja Volcanic Field,Pyroclastic cone(s),Mexico,28.5,-113.75,1360,Rift zone / Continental crust (>25 km),Evidence Credible
-341011,"Tortuga, Isla",Shield,Mexico,27.438000000000002,-111.881,224,Rift zone / Continental crust (>25 km),Evidence Credible
-341012,Comondu-La Purisima,Volcanic field,Mexico,26.0,-111.92,780,Rift zone / Continental crust (>25 km),Evidence Uncertain
+341011,"Tortuga, Isla",Shield,Mexico,27.438,-111.881,224,Rift zone / Continental crust (>25 km),Evidence Credible
+341012,Comondu-La Purisima,Volcanic field,Mexico,26,-111.92,780,Rift zone / Continental crust (>25 km),Evidence Uncertain
 341020,Barcena,Pyroclastic cone(s),Mexico,19.3,-110.82,332,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 341021,Socorro,Shield,Mexico,18.78,-110.95,1050,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 341022,Durango Volcanic Field,Pyroclastic cone(s),Mexico,24.15,-104.45,2075,Subduction zone / Continental crust (>25 km),Evidence Credible
-341023,"Isabel, Isla",Tuff cone(s),Mexico,21.848000000000003,-105.88600000000001,95,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+341023,"Isabel, Isla",Tuff cone(s),Mexico,21.848,-105.886,95,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 341024,Sanganguey,Stratovolcano,Mexico,21.45,-104.73,2340,Subduction zone / Continental crust (>25 km),Evidence Credible
 341030,Ceboruco,Stratovolcano,Mexico,21.125,-104.508,2280,Subduction zone / Continental crust (>25 km),Eruption Observed
 341031,Mascota Volcanic Field,Pyroclastic cone(s),Mexico,20.62,-104.83,2560,Subduction zone / Continental crust (>25 km),Evidence Credible
@@ -1027,12 +1028,12 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 341070,"Toluca, Nevado de",Stratovolcano,Mexico,19.108,-99.758,4680,Subduction zone / Continental crust (>25 km),Eruption Dated
 341080,Chichinautzin,Volcanic field,Mexico,19.08,-99.13,3930,Subduction zone / Continental crust (>25 km),Eruption Dated
 341081,Papayo,Lava dome,Mexico,19.308,-98.7,3600,Subduction zone / Continental crust (>25 km),Evidence Credible
-341082,Iztaccihuatl,Stratovolcano,Mexico,19.179000000000002,-98.64200000000001,5230,Subduction zone / Continental crust (>25 km),Evidence Credible
-341090,Popocatepetl,Stratovolcano(es),Mexico,19.023,-98.62200000000001,5393,Subduction zone / Continental crust (>25 km),Eruption Observed
-341091,"Malinche, La",Stratovolcano,Mexico,19.230999999999998,-98.03200000000001,4461,Subduction zone / Continental crust (>25 km),Eruption Dated
+341082,Iztaccihuatl,Stratovolcano,Mexico,19.179,-98.642,5230,Subduction zone / Continental crust (>25 km),Evidence Credible
+341090,Popocatepetl,Stratovolcano(es),Mexico,19.023,-98.622,5393,Subduction zone / Continental crust (>25 km),Eruption Observed
+341091,"Malinche, La",Stratovolcano,Mexico,19.231,-98.032,4461,Subduction zone / Continental crust (>25 km),Eruption Dated
 341092,Serdan-Oriental,Tuff cone(s),Mexico,19.27,-97.47,3485,Subduction zone / Continental crust (>25 km),Evidence Credible
 341093,"Humeros, Los",Caldera(s),Mexico,19.68,-97.45,3150,Subduction zone / Continental crust (>25 km),Eruption Dated
-341094,"Atlixcos, Los",Shield,Mexico,19.809,-96.52600000000001,800,Subduction zone / Continental crust (>25 km),Evidence Credible
+341094,"Atlixcos, Los",Shield,Mexico,19.809,-96.526,800,Subduction zone / Continental crust (>25 km),Evidence Credible
 341095,Naolinco Volcanic Field,Pyroclastic cone(s),Mexico,19.67,-96.75,2000,Subduction zone / Continental crust (>25 km),Eruption Dated
 341096,Cofre de Perote,Shield(s),Mexico,19.492,-97.15,4282,Subduction zone / Continental crust (>25 km),Eruption Dated
 341097,"Gloria, La",Volcanic field,Mexico,19.33,-97.25,3500,Subduction zone / Continental crust (>25 km),Evidence Credible
@@ -1041,17 +1042,17 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 341110,San Martin,Shield,Mexico,18.57,-95.2,1650,Subduction zone / Continental crust (>25 km),Eruption Observed
 341120,"Chichon, El",Lava dome(s),Mexico,17.36,-93.228,1150,Subduction zone / Continental crust (>25 km),Eruption Observed
 341130,Tacana,Stratovolcano,Mexico-Guatemala,15.132,-92.109,4064,Subduction zone / Continental crust (>25 km),Eruption Observed
-342020,Tajumulco,Stratovolcano,Guatemala,15.043,-91.90299999999999,4203,Subduction zone / Continental crust (>25 km),Evidence Credible
+342020,Tajumulco,Stratovolcano,Guatemala,15.043,-91.903,4203,Subduction zone / Continental crust (>25 km),Evidence Credible
 342030,Santa Maria,Stratovolcano,Guatemala,14.757,-91.552,3745,Subduction zone / Continental crust (>25 km),Eruption Observed
-342040,Almolonga,Stratovolcano,Guatemala,14.797,-91.51899999999999,3173,Subduction zone / Continental crust (>25 km),Eruption Observed
+342040,Almolonga,Stratovolcano,Guatemala,14.797,-91.519,3173,Subduction zone / Continental crust (>25 km),Eruption Observed
 342060,Atitlan,Stratovolcano(es),Guatemala,14.583,-91.186,3535,Subduction zone / Continental crust (>25 km),Eruption Observed
 342070,Toliman,Stratovolcano(es),Guatemala,14.612,-91.189,3158,Subduction zone / Continental crust (>25 km),Evidence Credible
 342080,Acatenango,Stratovolcano(es),Guatemala,14.501,-90.876,3976,Subduction zone / Continental crust (>25 km),Eruption Observed
-342090,Fuego,Stratovolcano(es),Guatemala,14.472999999999999,-90.88,3763,Subduction zone / Continental crust (>25 km),Eruption Observed
+342090,Fuego,Stratovolcano(es),Guatemala,14.473,-90.88,3763,Subduction zone / Continental crust (>25 km),Eruption Observed
 342100,Agua,Stratovolcano,Guatemala,14.465,-90.743,3760,Subduction zone / Continental crust (>25 km),Evidence Credible
 342110,Pacaya,Complex,Guatemala,14.382,-90.601,2569,Subduction zone / Continental crust (>25 km),Eruption Observed
 342111,Cuilapa-Barbarena,Volcanic field,Guatemala,14.33,-90.4,1454,Subduction zone / Continental crust (>25 km),Evidence Credible
-342120,Tecuamburro,Stratovolcano,Guatemala,14.155999999999999,-90.40700000000001,1845,Subduction zone / Continental crust (>25 km),Eruption Dated
+342120,Tecuamburro,Stratovolcano,Guatemala,14.156,-90.407,1845,Subduction zone / Continental crust (>25 km),Eruption Dated
 342121,Jumaytepeque,Stratovolcano,Guatemala,14.34,-90.271,1802,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 342130,Moyuta,Stratovolcano,Guatemala,14.03,-90.1,1662,Subduction zone / Continental crust (>25 km),Evidence Credible
 342140,Flores,Volcanic field,Guatemala,14.308,-89.992,1600,Subduction zone / Continental crust (>25 km),Evidence Credible
@@ -1066,57 +1067,57 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 343002,"Singuil, Cerro",Pyroclastic cone(s),El Salvador,14.054,-89.631,926,Subduction zone / Continental crust (>25 km),Evidence Credible
 343010,Apaneca Range,Stratovolcano(es),El Salvador,13.872,-89.742,2028,Subduction zone / Continental crust (>25 km),Evidence Credible
 343020,Santa Ana,Stratovolcano,El Salvador,13.853,-89.63,2381,Subduction zone / Continental crust (>25 km),Eruption Observed
-343030,Izalco,Stratovolcano,El Salvador,13.812999999999999,-89.633,1950,Subduction zone / Continental crust (>25 km),Eruption Observed
+343030,Izalco,Stratovolcano,El Salvador,13.813,-89.633,1950,Subduction zone / Continental crust (>25 km),Eruption Observed
 343041,Coatepeque Caldera,Caldera,El Salvador,13.87,-89.55,746,Subduction zone / Continental crust (>25 km),Evidence Credible
-343050,San Salvador,Stratovolcano,El Salvador,13.734000000000002,-89.294,1893,Subduction zone / Continental crust (>25 km),Eruption Observed
+343050,San Salvador,Stratovolcano,El Salvador,13.734,-89.294,1893,Subduction zone / Continental crust (>25 km),Eruption Observed
 343051,"Cinotepeque, Cerro",Volcanic field,El Salvador,14.02,-89.25,665,Subduction zone / Continental crust (>25 km),Evidence Credible
 343052,Guazapa,Stratovolcano,El Salvador,13.9,-89.12,1438,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 343060,Ilopango,Caldera,El Salvador,13.672,-89.053,450,Subduction zone / Continental crust (>25 km),Eruption Observed
 343070,San Vicente,Stratovolcano,El Salvador,13.595,-88.837,2182,Subduction zone / Continental crust (>25 km),Evidence Credible
 343071,Apastepeque Field,Volcanic field,El Salvador,13.72,-88.77,700,Subduction zone / Continental crust (>25 km),Evidence Credible
-343072,Taburete,Stratovolcano,El Salvador,13.435,-88.53200000000001,1172,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-343080,Tecapa,Stratovolcano,El Salvador,13.494000000000002,-88.50200000000001,1593,Subduction zone / Continental crust (>25 km),Evidence Credible
+343072,Taburete,Stratovolcano,El Salvador,13.435,-88.532,1172,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+343080,Tecapa,Stratovolcano,El Salvador,13.494,-88.502,1593,Subduction zone / Continental crust (>25 km),Evidence Credible
 343081,Usulutan,Stratovolcano,El Salvador,13.419,-88.471,1449,Subduction zone / Continental crust (>25 km),Evidence Credible
 343082,"Tigre, El",Stratovolcano,El Salvador,13.47,-88.43,1640,Subduction zone / Continental crust (>25 km),Evidence Credible
 343090,Chinameca,Stratovolcano,El Salvador,13.478,-88.33,1300,Subduction zone / Continental crust (>25 km),Evidence Credible
-343100,San Miguel,Stratovolcano,El Salvador,13.434000000000001,-88.26899999999999,2130,Subduction zone / Continental crust (>25 km),Eruption Observed
-343101,"Aramuaca, Laguna",Maar,El Salvador,13.427999999999999,-88.105,181,Subduction zone / Continental crust (>25 km),Evidence Credible
+343100,San Miguel,Stratovolcano,El Salvador,13.434,-88.269,2130,Subduction zone / Continental crust (>25 km),Eruption Observed
+343101,"Aramuaca, Laguna",Maar,El Salvador,13.428,-88.105,181,Subduction zone / Continental crust (>25 km),Evidence Credible
 343130,"Tigre, Isla el",Stratovolcano,Honduras,13.272,-87.641,783,Subduction zone / Continental crust (>25 km),Evidence Credible
 343140,"Zacate Grande, Isla",Stratovolcano,Honduras,13.33,-87.63,640,Subduction zone / Continental crust (>25 km),Evidence Credible
-343150,"Yojoa, Lago",Volcanic field,Honduras,14.964,-87.98299999999999,1060,Subduction zone / Continental crust (>25 km),Eruption Dated
+343150,"Yojoa, Lago",Volcanic field,Honduras,14.964,-87.983,1060,Subduction zone / Continental crust (>25 km),Eruption Dated
 344010,Cosiguina,Stratovolcano,Nicaragua,12.98,-87.57,872,Subduction zone / Continental crust (>25 km),Eruption Observed
-344020,San Cristobal,Stratovolcano,Nicaragua,12.702,-87.00399999999999,1745,Subduction zone / Continental crust (>25 km),Eruption Observed
+344020,San Cristobal,Stratovolcano,Nicaragua,12.702,-87.004,1745,Subduction zone / Continental crust (>25 km),Eruption Observed
 344040,Telica,Stratovolcano(es),Nicaragua,12.606,-86.84,1036,Subduction zone / Continental crust (>25 km),Eruption Observed
 344060,Rota,Stratovolcano,Nicaragua,12.55,-86.75,832,Subduction zone / Continental crust (>25 km),Evidence Credible
-344070,"Negro, Cerro",Pyroclastic cone(s),Nicaragua,12.505999999999998,-86.70200000000001,728,Subduction zone / Continental crust (>25 km),Eruption Observed
-344080,"Pilas, Las",Complex,Nicaragua,12.495,-86.68799999999999,1088,Subduction zone / Continental crust (>25 km),Eruption Observed
+344070,"Negro, Cerro",Pyroclastic cone(s),Nicaragua,12.506,-86.702,728,Subduction zone / Continental crust (>25 km),Eruption Observed
+344080,"Pilas, Las",Complex,Nicaragua,12.495,-86.688,1088,Subduction zone / Continental crust (>25 km),Eruption Observed
 344090,Momotombo,Stratovolcano,Nicaragua,12.423,-86.539,1270,Subduction zone / Continental crust (>25 km),Eruption Observed
-344091,Apoyeque,Pyroclastic shield,Nicaragua,12.242,-86.34200000000001,518,Subduction zone / Continental crust (>25 km),Eruption Dated
+344091,Apoyeque,Pyroclastic shield,Nicaragua,12.242,-86.342,518,Subduction zone / Continental crust (>25 km),Eruption Dated
 344092,Nejapa-Miraflores,Fissure vent(s),Nicaragua,12.12,-86.32,360,Subduction zone / Continental crust (>25 km),Eruption Dated
 344100,Masaya,Caldera,Nicaragua,11.985,-86.165,594,Subduction zone / Continental crust (>25 km),Eruption Observed
 344101,Granada,Fissure vent(s),Nicaragua,11.92,-85.98,300,Subduction zone / Continental crust (>25 km),Evidence Credible
-344110,Mombacho,Stratovolcano,Nicaragua,11.825999999999999,-85.96799999999999,1344,Subduction zone / Continental crust (>25 km),Unrest / Holocene
+344110,Mombacho,Stratovolcano,Nicaragua,11.826,-85.968,1344,Subduction zone / Continental crust (>25 km),Unrest / Holocene
 344111,Zapatera,Shield,Nicaragua,11.73,-85.82,629,Subduction zone / Continental crust (>25 km),Evidence Credible
-344120,Concepcion,Stratovolcano,Nicaragua,11.538,-85.62200000000001,1700,Subduction zone / Continental crust (>25 km),Eruption Observed
+344120,Concepcion,Stratovolcano,Nicaragua,11.538,-85.622,1700,Subduction zone / Continental crust (>25 km),Eruption Observed
 344131,Esteli,Fissure vent(s),Nicaragua,13.17,-86.4,899,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-344132,"Ciguatepe, Cerro el",Stratovolcano,Nicaragua,12.53,-86.14200000000001,603,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+344132,"Ciguatepe, Cerro el",Stratovolcano,Nicaragua,12.53,-86.142,603,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 344133,"Lajas, Las",Shield,Nicaragua,12.3,-85.73,926,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 345010,Orosi,Stratovolcano(es),Costa Rica,10.98,-85.473,1659,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 345020,Rincon de la Vieja,Complex,Costa Rica,10.83,-85.324,1916,Subduction zone / Continental crust (>25 km),Eruption Observed
-345030,Miravalles,Stratovolcano,Costa Rica,10.748,-85.15299999999999,2028,Subduction zone / Continental crust (>25 km),Eruption Observed
+345030,Miravalles,Stratovolcano,Costa Rica,10.748,-85.153,2028,Subduction zone / Continental crust (>25 km),Eruption Observed
 345031,Tenorio,Stratovolcano(es),Costa Rica,10.673,-85.015,1916,Subduction zone / Continental crust (>25 km),Evidence Credible
-345033,Arenal,Stratovolcano,Costa Rica,10.463,-84.70299999999999,1670,Subduction zone / Continental crust (>25 km),Eruption Observed
+345033,Arenal,Stratovolcano,Costa Rica,10.463,-84.703,1670,Subduction zone / Continental crust (>25 km),Eruption Observed
 345034,Platanar,Stratovolcano(es),Costa Rica,10.3,-84.366,2267,Subduction zone / Continental crust (>25 km),Evidence Credible
-345040,Poas,Stratovolcano,Costa Rica,10.2,-84.23299999999999,2708,Subduction zone / Continental crust (>25 km),Eruption Observed
+345040,Poas,Stratovolcano,Costa Rica,10.2,-84.233,2708,Subduction zone / Continental crust (>25 km),Eruption Observed
 345050,Barva,Complex,Costa Rica,10.135,-84.1,2906,Subduction zone / Continental crust (>25 km),Eruption Dated
 345060,Irazu,Stratovolcano,Costa Rica,9.979,-83.852,3432,Subduction zone / Continental crust (>25 km),Eruption Observed
-345070,Turrialba,Stratovolcano,Costa Rica,10.025,-83.76700000000001,3340,Subduction zone / Continental crust (>25 km),Eruption Observed
-346010,Baru,Stratovolcano,Panama,8.808,-82.54299999999999,3474,Subduction zone / Continental crust (>25 km),Eruption Observed
+345070,Turrialba,Stratovolcano,Costa Rica,10.025,-83.767,3340,Subduction zone / Continental crust (>25 km),Eruption Observed
+346010,Baru,Stratovolcano,Panama,8.808,-82.543,3474,Subduction zone / Continental crust (>25 km),Eruption Observed
 346030,"Valle, El",Stratovolcano,Panama,8.58,-80.17,1185,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-351011,Romeral,Stratovolcano,Colombia,5.202999999999999,-75.363,3769,Subduction zone / Continental crust (>25 km),Eruption Dated
+351011,Romeral,Stratovolcano,Colombia,5.203,-75.363,3769,Subduction zone / Continental crust (>25 km),Eruption Dated
 351012,"Bravo, Cerro",Stratovolcano,Colombia,5.091,-75.293,3985,Subduction zone / Continental crust (>25 km),Eruption Dated
-351020,"Ruiz, Nevado del",Stratovolcano,Colombia,4.8919999999999995,-75.324,5279,Subduction zone / Continental crust (>25 km),Eruption Observed
-351021,Santa Isabel,Shield,Colombia,4.8180000000000005,-75.365,4944,Subduction zone / Continental crust (>25 km),Eruption Dated
+351020,"Ruiz, Nevado del",Stratovolcano,Colombia,4.892,-75.324,5279,Subduction zone / Continental crust (>25 km),Eruption Observed
+351021,Santa Isabel,Shield,Colombia,4.818,-75.365,4944,Subduction zone / Continental crust (>25 km),Eruption Dated
 351030,"Tolima, Nevado del",Stratovolcano,Colombia,4.658,-75.33,5215,Subduction zone / Continental crust (>25 km),Eruption Observed
 351040,Machin,Stratovolcano,Colombia,4.487,-75.389,2749,Subduction zone / Continental crust (>25 km),Eruption Dated
 351050,"Huila, Nevado del",Stratovolcano,Colombia,2.93,-76.03,5364,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -1126,42 +1127,42 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 351080,Galeras,Complex,Colombia,1.22,-77.37,4276,Subduction zone / Continental crust (>25 km),Eruption Observed
 351090,Azufral,Stratovolcano,Colombia,1.08,-77.68,4070,Subduction zone / Continental crust (>25 km),Eruption Dated
 351100,Cumbal,Stratovolcano,Colombia,0.95,-77.87,4764,Subduction zone / Continental crust (>25 km),Eruption Observed
-351110,Chiles-Cerro Negro,Stratovolcano,Colombia-Ecuador,0.8170000000000001,-77.938,4698,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+351110,Chiles-Cerro Negro,Stratovolcano,Colombia-Ecuador,0.817,-77.938,4698,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 352001,Soche,Stratovolcano,Ecuador,0.552,-77.58,3955,Subduction zone / Continental crust (>25 km),Eruption Dated
-352002,Chachimbiro,Stratovolcano,Ecuador,0.46799999999999997,-78.28699999999999,4106,Subduction zone / Continental crust (>25 km),Eruption Dated
-352003,Cuicocha,Caldera,Ecuador,0.308,-78.36399999999999,3246,Subduction zone / Continental crust (>25 km),Eruption Dated
+352002,Chachimbiro,Stratovolcano,Ecuador,0.468,-78.287,4106,Subduction zone / Continental crust (>25 km),Eruption Dated
+352003,Cuicocha,Caldera,Ecuador,0.308,-78.364,3246,Subduction zone / Continental crust (>25 km),Eruption Dated
 352004,Imbabura,Compound,Ecuador,0.258,-78.183,4609,Subduction zone / Continental crust (>25 km),Eruption Dated
 352005,Mojanda,Stratovolcano(es),Ecuador,0.13,-78.27,4263,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-352006,Cayambe,Compound,Ecuador,0.028999999999999998,-77.986,5790,Subduction zone / Continental crust (>25 km),Eruption Observed
+352006,Cayambe,Compound,Ecuador,0.029,-77.986,5790,Subduction zone / Continental crust (>25 km),Eruption Observed
 352010,Reventador,Stratovolcano,Ecuador,-0.077,-77.656,3562,Subduction zone / Continental crust (>25 km),Eruption Observed
-352011,Pululahua,Caldera,Ecuador,0.038,-78.46300000000001,3356,Subduction zone / Continental crust (>25 km),Eruption Dated
+352011,Pululahua,Caldera,Ecuador,0.038,-78.463,3356,Subduction zone / Continental crust (>25 km),Eruption Dated
 352020,Guagua Pichincha,Stratovolcano,Ecuador,-0.171,-78.598,4784,Subduction zone / Continental crust (>25 km),Eruption Observed
 352021,Atacazo,Stratovolcano,Ecuador,-0.353,-78.617,4463,Subduction zone / Continental crust (>25 km),Eruption Dated
 352022,Chacana,Caldera,Ecuador,-0.375,-78.25,4643,Subduction zone / Continental crust (>25 km),Eruption Observed
-352030,Antisana,Stratovolcano,Ecuador,-0.48100000000000004,-78.141,5753,Subduction zone / Continental crust (>25 km),Eruption Observed
-352031,Aliso,Stratovolcano,Ecuador,-0.53,-78.0,4267,Subduction zone / Continental crust (>25 km),Eruption Dated
-352040,Sumaco,Stratovolcano,Ecuador,-0.5379999999999999,-77.626,3990,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+352030,Antisana,Stratovolcano,Ecuador,-0.481,-78.141,5753,Subduction zone / Continental crust (>25 km),Eruption Observed
+352031,Aliso,Stratovolcano,Ecuador,-0.53,-78,4267,Subduction zone / Continental crust (>25 km),Eruption Dated
+352040,Sumaco,Stratovolcano,Ecuador,-0.538,-77.626,3990,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 352041,Illiniza,Stratovolcano,Ecuador,-0.659,-78.714,5248,Subduction zone / Continental crust (>25 km),Evidence Credible
 352050,Cotopaxi,Stratovolcano,Ecuador,-0.677,-78.436,5911,Subduction zone / Continental crust (>25 km),Eruption Observed
 352060,Quilotoa,Caldera,Ecuador,-0.85,-78.9,3914,Subduction zone / Continental crust (>25 km),Eruption Dated
 352071,Chimborazo,Stratovolcano,Ecuador,-1.464,-78.815,6310,Subduction zone / Continental crust (>25 km),Eruption Dated
-352080,Tungurahua,Stratovolcano,Ecuador,-1.4669999999999999,-78.442,5023,Subduction zone / Continental crust (>25 km),Eruption Observed
+352080,Tungurahua,Stratovolcano,Ecuador,-1.467,-78.442,5023,Subduction zone / Continental crust (>25 km),Eruption Observed
 352081,Licto,Pyroclastic cone(s),Ecuador,-1.78,-78.613,3336,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-352090,Sangay,Stratovolcano,Ecuador,-2.005,-78.34100000000001,5286,Subduction zone / Continental crust (>25 km),Eruption Observed
+352090,Sangay,Stratovolcano,Ecuador,-2.005,-78.341,5286,Subduction zone / Continental crust (>25 km),Eruption Observed
 353010,Fernandina,Shield,Ecuador,-0.37,-91.55,1476,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353011,Ecuador,Shield,Ecuador,-0.02,-91.546,790,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 353020,Wolf,Shield,Ecuador,0.02,-91.35,1710,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353030,Darwin,Shield,Ecuador,-0.18,-91.28,1330,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 353040,Alcedo,Shield,Ecuador,-0.43,-91.12,1130,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353050,"Negra, Sierra",Shield,Ecuador,-0.83,-91.17,1124,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-353060,"Azul, Cerro",Shield,Ecuador,-0.92,-91.40799999999999,1640,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+353060,"Azul, Cerro",Shield,Ecuador,-0.92,-91.408,1640,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353070,Pinta,Shield,Ecuador,0.58,-90.75,780,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353080,Marchena,Shield,Ecuador,0.33,-90.47,343,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353081,Genovesa,Shield,Ecuador,0.32,-89.958,64,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 353090,Santiago,Shield,Ecuador,-0.22,-90.77,920,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 353091,Santa Cruz,Shield,Ecuador,-0.62,-90.33,864,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 353120,San Cristobal,Shield,Ecuador,-0.88,-89.5,759,Rift zone / Oceanic crust (< 15 km),Evidence Credible
-354000,Quimsachata,Lava dome,Peru,-14.175999999999998,-71.351,3693,Subduction zone / Continental crust (>25 km),Eruption Dated
+354000,Quimsachata,Lava dome,Peru,-14.176,-71.351,3693,Subduction zone / Continental crust (>25 km),Eruption Dated
 354001,"Auquihuato, Cerro",Pyroclastic cone,Peru,-15.07,-73.18,4980,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 354002,Sara Sara,Stratovolcano,Peru,-15.33,-73.45,5522,Subduction zone / Continental crust (>25 km),Evidence Credible
 354003,Coropuna,Stratovolcano,Peru,-15.52,-72.65,6377,Subduction zone / Continental crust (>25 km),Evidence Credible
@@ -1169,8 +1170,8 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 354005,Huambo,Volcanic field,Peru,-15.83,-72.13,4550,Subduction zone / Continental crust (>25 km),Eruption Dated
 354006,Sabancaya,Stratovolcano(es),Peru,-15.787,-71.857,5960,Subduction zone / Continental crust (>25 km),Eruption Observed
 354007,"Chachani, Nevado",Stratovolcano,Peru,-16.191,-71.53,6057,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-354008,"Nicholson, Cerro",Pyroclastic cone,Peru,-16.261,-71.75399999999999,2525,Subduction zone / Continental crust (>25 km),Evidence Credible
-354010,"Misti, El",Stratovolcano,Peru,-16.294,-71.40899999999999,5822,Subduction zone / Continental crust (>25 km),Eruption Observed
+354008,"Nicholson, Cerro",Pyroclastic cone,Peru,-16.261,-71.754,2525,Subduction zone / Continental crust (>25 km),Evidence Credible
+354010,"Misti, El",Stratovolcano,Peru,-16.294,-71.409,5822,Subduction zone / Continental crust (>25 km),Eruption Observed
 354020,Ubinas,Stratovolcano,Peru,-16.355,-70.903,5672,Subduction zone / Continental crust (>25 km),Eruption Observed
 354030,Huaynaputina,Stratovolcano,Peru,-16.608,-70.85,4850,Subduction zone / Continental crust (>25 km),Eruption Observed
 354031,Ticsani,Lava dome(s),Peru,-16.755,-70.595,5408,Subduction zone / Continental crust (>25 km),Eruption Dated
@@ -1191,66 +1192,66 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 355050,Olca-Paruma,Stratovolcano(es),Chile-Bolivia,-20.939,-68.413,5705,Subduction zone / Continental crust (>25 km),Eruption Observed
 355061,"Azufre, Cerro del",Stratovolcano,Chile,-21.787,-68.237,5846,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355070,San Pedro-San Pablo,Stratovolcano(es),Chile,-21.888,-68.391,6142,Subduction zone / Continental crust (>25 km),Eruption Observed
-355090,Putana,Stratovolcano,Chile,-22.557,-67.85300000000001,5884,Subduction zone / Continental crust (>25 km),Eruption Observed
+355090,Putana,Stratovolcano,Chile,-22.557,-67.853,5884,Subduction zone / Continental crust (>25 km),Eruption Observed
 355091,Sairecabur,Stratovolcano(es),Chile-Bolivia,-22.72,-67.892,5971,Subduction zone / Continental crust (>25 km),Evidence Credible
 355092,Licancabur,Stratovolcano,Chile-Bolivia,-22.83,-67.88,5916,Subduction zone / Continental crust (>25 km),Evidence Credible
 355093,Guayaques,Lava dome(s),Chile-Bolivia,-22.895,-67.566,5598,Subduction zone / Continental crust (>25 km),Evidence Credible
-355094,Purico Complex,Pyroclastic shield,Chile,-23.0,-67.75,5703,Subduction zone / Continental crust (>25 km),Evidence Credible
+355094,Purico Complex,Pyroclastic shield,Chile,-23,-67.75,5703,Subduction zone / Continental crust (>25 km),Evidence Credible
 355095,Colachi,Stratovolcano,Chile,-23.236,-67.645,5631,Subduction zone / Continental crust (>25 km),Evidence Credible
-355096,Acamarachi,Stratovolcano,Chile,-23.291999999999998,-67.618,6023,Subduction zone / Continental crust (>25 km),Evidence Credible
+355096,Acamarachi,Stratovolcano,Chile,-23.292,-67.618,6023,Subduction zone / Continental crust (>25 km),Evidence Credible
 355097,"Overo, Cerro",Maar,Chile,-23.52,-67.67,4555,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355098,Chiliques,Stratovolcano,Chile,-23.58,-67.7,5778,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355100,Lascar,Stratovolcano(es),Chile,-23.37,-67.73,5592,Subduction zone / Continental crust (>25 km),Eruption Observed
-355101,Cordon de Puntas Negras,Stratovolcano(es),Chile,-23.743000000000002,-67.53399999999999,5852,Subduction zone / Continental crust (>25 km),Evidence Credible
+355101,Cordon de Puntas Negras,Stratovolcano(es),Chile,-23.743,-67.534,5852,Subduction zone / Continental crust (>25 km),Evidence Credible
 355102,Miniques,Stratovolcano(es),Chile,-23.82,-67.77,5910,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355103,"Tujle, Cerro",Maar,Chile,-23.83,-67.95,3550,Subduction zone / Continental crust (>25 km),Evidence Credible
 355104,Caichinque,Stratovolcano(es),Chile,-23.949,-67.74,4458,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355105,Tilocalar,Lava cone(es),Chile,-23.97,-68.13,3109,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355106,"Negrillar, El",Pyroclastic cone(s),Chile,-24.18,-68.25,3500,Subduction zone / Continental crust (>25 km),Evidence Credible
-355107,Pular,Stratovolcano(es),Chile,-24.188000000000002,-68.054,6233,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-355108,"Negrillar, La",Pyroclastic cone(s),Chile,-24.319000000000003,-68.59,4220,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-355109,Socompa,Stratovolcano,Chile-Argentina,-24.396,-68.24600000000001,6031,Subduction zone / Continental crust (>25 km),Eruption Dated
+355107,Pular,Stratovolcano(es),Chile,-24.188,-68.054,6233,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+355108,"Negrillar, La",Pyroclastic cone(s),Chile,-24.319,-68.59,4220,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+355109,Socompa,Stratovolcano,Chile-Argentina,-24.396,-68.246,6031,Subduction zone / Continental crust (>25 km),Eruption Dated
 355110,Llullaillaco,Stratovolcano,Chile-Argentina,-24.72,-68.53,6739,Subduction zone / Continental crust (>25 km),Eruption Observed
-355112,Corrida de Cori Volcanic Field,Stratovolcano,Chile-Argentina,-25.083000000000002,-68.367,5451,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-355120,Lastarria,Stratovolcano,Chile-Argentina,-25.168000000000003,-68.507,5706,Subduction zone / Continental crust (>25 km),Evidence Credible
+355112,Corrida de Cori Volcanic Field,Stratovolcano,Chile-Argentina,-25.083,-68.367,5451,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+355120,Lastarria,Stratovolcano,Chile-Argentina,-25.168,-68.507,5706,Subduction zone / Continental crust (>25 km),Evidence Credible
 355121,Cordon del Azufre,Complex,Chile-Argentina,-25.336,-68.521,5481,Subduction zone / Continental crust (>25 km),Evidence Credible
-355122,"Bayo Gorbea, Cerro",Complex,Chile-Argentina,-25.414,-68.58800000000001,5413,Subduction zone / Continental crust (>25 km),Evidence Credible
+355122,"Bayo Gorbea, Cerro",Complex,Chile-Argentina,-25.414,-68.588,5413,Subduction zone / Continental crust (>25 km),Evidence Credible
 355123,"Nevada, Sierra",Complex,Chile-Argentina,-26.48,-68.58,6173,Subduction zone / Continental crust (>25 km),Evidence Credible
 355124,Falso Azufre,Complex,Chile-Argentina,-26.8,-68.37,5906,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355125,"Incahuasi, Nevado de",Stratovolcano(es),Chile-Argentina,-27.033,-68.296,6638,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355130,"Ojos del Salado, Nevados",Stratovolcano,Chile-Argentina,-27.109,-68.541,6879,Subduction zone / Continental crust (>25 km),Eruption Dated
-355131,"Solo, El",Stratovolcano,Chile-Argentina,-27.105,-68.71300000000001,6205,Subduction zone / Continental crust (>25 km),Evidence Credible
+355131,"Solo, El",Stratovolcano,Chile-Argentina,-27.105,-68.713,6205,Subduction zone / Continental crust (>25 km),Evidence Credible
 355150,Tuzgle,Stratovolcano,Argentina,-24.05,-66.48,5486,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 355160,Aracar,Stratovolcano,Argentina,-24.29,-67.783,6095,Subduction zone / Continental crust (>25 km),Evidence Credible
-355161,Unnamed,Pyroclastic cone,Argentina,-25.078000000000003,-68.266,4652,Subduction zone / Continental crust (>25 km),Evidence Credible
+355161,Unnamed,Pyroclastic cone,Argentina,-25.078,-68.266,4652,Subduction zone / Continental crust (>25 km),Evidence Credible
 355180,Antofagasta Volcanic Field,Pyroclastic cone(s),Argentina,-26.12,-67.4,3495,Subduction zone / Continental crust (>25 km),Evidence Uncertain
-355190,"Condor, El",Stratovolcano,Argentina,-26.631999999999998,-68.361,6373,Subduction zone / Continental crust (>25 km),Evidence Credible
+355190,"Condor, El",Stratovolcano,Argentina,-26.632,-68.361,6373,Subduction zone / Continental crust (>25 km),Evidence Credible
 355200,Peinado,Stratovolcano,Argentina,-26.623,-68.116,5741,Subduction zone / Continental crust (>25 km),Evidence Credible
 355210,"Blanco, Cerro",Caldera,Argentina,-26.789,-67.765,4670,Subduction zone / Continental crust (>25 km),Eruption Dated
-355220,Tipas,Complex,Argentina,-27.195999999999998,-68.561,6658,Subduction zone / Continental crust (>25 km),Evidence Credible
+355220,Tipas,Complex,Argentina,-27.196,-68.561,6658,Subduction zone / Continental crust (>25 km),Evidence Credible
 356011,Easter Island,Shield(s),Chile,-27.15,-109.38,511,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 357010,Tupungatito,Stratovolcano,Chile-Argentina,-33.425,-69.797,5660,Subduction zone / Continental crust (>25 km),Eruption Observed
 357020,San Jose,Stratovolcano(es),Chile-Argentina,-33.789,-69.895,6070,Subduction zone / Continental crust (>25 km),Eruption Observed
 357021,Maipo,Caldera,Chile-Argentina,-34.164,-69.832,5323,Subduction zone / Continental crust (>25 km),Eruption Observed
-357022,Palomo,Stratovolcano,Chile,-34.608000000000004,-70.295,4860,Subduction zone / Continental crust (>25 km),Evidence Credible
+357022,Palomo,Stratovolcano,Chile,-34.608,-70.295,4860,Subduction zone / Continental crust (>25 km),Evidence Credible
 357023,"Atuel, Caldera del",Caldera,Argentina,-34.65,-70.05,5189,Subduction zone / Continental crust (>25 km),Evidence Credible
-357024,Risco Plateado,Stratovolcano,Argentina,-34.917,-69.98100000000001,4999,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+357024,Risco Plateado,Stratovolcano,Argentina,-34.917,-69.981,4999,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 357030,Tinguiririca,Stratovolcano,Chile,-34.814,-70.352,4280,Subduction zone / Continental crust (>25 km),Eruption Observed
 357040,Planchon-Peteroa,Stratovolcano(es),Chile,-35.223,-70.568,3977,Subduction zone / Continental crust (>25 km),Eruption Observed
-357041,Infiernillo,Volcanic field,Argentina,-35.123000000000005,-69.9,3007,Intraplate / Continental crust (>25 km),Eruption Dated
-357042,Calabozos,Caldera,Chile,-35.558,-70.49600000000001,3508,Subduction zone / Continental crust (>25 km),Evidence Credible
+357041,Infiernillo,Volcanic field,Argentina,-35.123,-69.9,3007,Intraplate / Continental crust (>25 km),Eruption Dated
+357042,Calabozos,Caldera,Chile,-35.558,-70.496,3508,Subduction zone / Continental crust (>25 km),Evidence Credible
 357050,Descabezado Grande,Stratovolcano(es),Chile,-35.58,-70.75,3953,Subduction zone / Continental crust (>25 km),Eruption Observed
-357060,"Azul, Cerro",Stratovolcano,Chile,-35.653,-70.76100000000001,3788,Subduction zone / Continental crust (>25 km),Eruption Observed
+357060,"Azul, Cerro",Stratovolcano,Chile,-35.653,-70.761,3788,Subduction zone / Continental crust (>25 km),Eruption Observed
 357061,"Maule, Laguna del",Caldera,Chile,-36.058,-70.492,2162,Subduction zone / Continental crust (>25 km),Eruption Dated
-357062,San Pedro-Pellado,Stratovolcano(es),Chile,-35.989000000000004,-70.84899999999999,3621,Subduction zone / Continental crust (>25 km),Evidence Credible
-357063,"Longavi, Nevado de",Stratovolcano,Chile,-36.193000000000005,-71.161,3242,Subduction zone / Continental crust (>25 km),Eruption Dated
+357062,San Pedro-Pellado,Stratovolcano(es),Chile,-35.989,-70.849,3621,Subduction zone / Continental crust (>25 km),Evidence Credible
+357063,"Longavi, Nevado de",Stratovolcano,Chile,-36.193,-71.161,3242,Subduction zone / Continental crust (>25 km),Eruption Dated
 357064,"Blancas, Lomas",Stratovolcano,Chile,-36.286,-71.009,2268,Subduction zone / Continental crust (>25 km),Evidence Credible
 357065,"Resago, Volcan",Pyroclastic cone,Chile,-36.45,-70.92,1890,Subduction zone / Continental crust (>25 km),Evidence Credible
 357066,Payun Matru,Shield,Argentina,-36.422,-69.241,3715,Subduction zone / Continental crust (>25 km),Eruption Dated
-357067,Domuyo,Stratovolcano,Argentina,-36.638000000000005,-70.432,4702,Subduction zone / Continental crust (>25 km),Evidence Uncertain
+357067,Domuyo,Stratovolcano,Argentina,-36.638,-70.432,4702,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 357070,"Chillan, Nevados de",Stratovolcano,Chile,-36.868,-71.378,3180,Subduction zone / Continental crust (>25 km),Eruption Observed
 357072,Tromen,Stratovolcano(es),Argentina,-37.144,-70.033,4114,Subduction zone / Continental crust (>25 km),Eruption Observed
-357080,Antuco,Stratovolcano,Chile,-37.406,-71.34899999999999,2979,Subduction zone / Continental crust (>25 km),Eruption Observed
+357080,Antuco,Stratovolcano,Chile,-37.406,-71.349,2979,Subduction zone / Continental crust (>25 km),Eruption Observed
 357081,Trolon,Lava dome(s),Argentina,-37.738,-70.906,2360,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 357090,Copahue,Stratovolcano,Chile-Argentina,-37.856,-71.183,2953,Subduction zone / Continental crust (>25 km),Eruption Observed
 357091,Callaqui,Stratovolcano,Chile,-37.92,-71.45,3164,Subduction zone / Continental crust (>25 km),Eruption Observed
@@ -1270,45 +1271,45 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 357140,Carran-Los Venados,Pyroclastic cone(s),Chile,-40.35,-72.07,1114,Subduction zone / Continental crust (>25 km),Eruption Observed
 357150,Puyehue-Cordon Caulle,Stratovolcano,Chile,-40.59,-72.117,2236,Subduction zone / Continental crust (>25 km),Eruption Observed
 357153,Antillanca Volcanic Complex,Stratovolcano(es),Chile,-40.783,-72.15,1979,Subduction zone / Continental crust (>25 km),Eruption Dated
-357160,Puntiagudo-Cordon Cenizos,Stratovolcano,Chile,-40.968999999999994,-72.264,2493,Subduction zone / Continental crust (>25 km),Eruption Observed
-358010,Osorno,Stratovolcano,Chile,-41.105,-72.49600000000001,2659,Subduction zone / Continental crust (>25 km),Eruption Observed
+357160,Puntiagudo-Cordon Cenizos,Stratovolcano,Chile,-40.969,-72.264,2493,Subduction zone / Continental crust (>25 km),Eruption Observed
+358010,Osorno,Stratovolcano,Chile,-41.105,-72.496,2659,Subduction zone / Continental crust (>25 km),Eruption Observed
 358011,Tronador,Stratovolcano,Chile-Argentina,-41.157,-71.885,3478,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 358012,Cayutue-La Vigueria,Pyroclastic cone(s),Chile,-41.25,-72.27,506,Subduction zone / Continental crust (>25 km),Eruption Dated
 358020,Calbuco,Stratovolcano,Chile,-41.33,-72.618,1974,Subduction zone / Continental crust (>25 km),Eruption Observed
 358022,Yate,Stratovolcano,Chile,-41.755,-72.396,2187,Subduction zone / Continental crust (>25 km),Eruption Dated
-358023,Hornopiren,Stratovolcano,Chile,-41.873999999999995,-72.431,1572,Subduction zone / Continental crust (>25 km),Eruption Dated
+358023,Hornopiren,Stratovolcano,Chile,-41.874,-72.431,1572,Subduction zone / Continental crust (>25 km),Eruption Dated
 358024,Apagado,Pyroclastic cone,Chile,-41.88,-72.58,1210,Subduction zone / Continental crust (>25 km),Eruption Dated
 358025,Crater Basalt Volcanic Field,Pyroclastic cone(s),Argentina,-42.018,-70.194,1344,Intraplate / Continental crust (>25 km),Evidence Credible
-358030,Huequi,Lava dome(s),Chile,-42.376999999999995,-72.578,1318,Subduction zone / Continental crust (>25 km),Eruption Observed
+358030,Huequi,Lava dome(s),Chile,-42.377,-72.578,1318,Subduction zone / Continental crust (>25 km),Eruption Observed
 358040,Michinmahuida,Stratovolcano,Chile,-42.799,-72.445,2452,Subduction zone / Continental crust (>25 km),Eruption Observed
 358041,Chaiten,Caldera,Chile,-42.833,-72.646,1122,Subduction zone / Continental crust (>25 km),Eruption Observed
 358049,Yanteles,Stratovolcano(es),Chile,-43.497,-72.81,2049,Subduction zone / Continental crust (>25 km),Eruption Dated
-358050,Corcovado,Stratovolcano,Chile,-43.18899999999999,-72.794,1826,Subduction zone / Continental crust (>25 km),Eruption Dated
+358050,Corcovado,Stratovolcano,Chile,-43.189,-72.794,1826,Subduction zone / Continental crust (>25 km),Eruption Dated
 358052,Melimoyu,Stratovolcano,Chile,-44.08,-72.88,2400,Subduction zone / Continental crust (>25 km),Eruption Dated
 358053,Puyuhuapi,Pyroclastic cone(s),Chile,-44.3,-72.53,524,Subduction zone / Continental crust (>25 km),Evidence Credible
 358054,Mentolat,Stratovolcano,Chile,-44.7,-73.08,1660,Subduction zone / Continental crust (>25 km),Eruption Observed
 358055,Cay,Stratovolcano,Chile,-45.059,-72.984,2090,Subduction zone / Continental crust (>25 km),Evidence Uncertain
 358056,Maca,Stratovolcano,Chile,-45.1,-73.17,2960,Subduction zone / Continental crust (>25 km),Eruption Dated
 358057,"Hudson, Cerro",Stratovolcano,Chile,-45.9,-72.97,1905,Subduction zone / Continental crust (>25 km),Eruption Observed
-358060,Lautaro,Stratovolcano,Chile,-49.019,-73.50399999999999,3542,Subduction zone / Continental crust (>25 km),Eruption Observed
+358060,Lautaro,Stratovolcano,Chile,-49.019,-73.504,3542,Subduction zone / Continental crust (>25 km),Eruption Observed
 358062,Aguilera,Stratovolcano,Chile,-50.33,-73.75,2546,Subduction zone / Continental crust (>25 km),Eruption Dated
 358063,Reclus,Pyroclastic cone,Chile,-50.964,-73.585,1000,Subduction zone / Continental crust (>25 km),Eruption Observed
 358064,Meullin,Volcanic field,Chile,-45.22,-73.05,1080,Subduction zone / Continental crust (>25 km),Evidence Credible
 358070,"Burney, Monte",Stratovolcano,Chile,-52.33,-73.4,1758,Subduction zone / Continental crust (>25 km),Eruption Observed
-358080,Pali-Aike Volcanic Field,Pyroclastic cone(s),Chile-Argentina,-52.082,-69.69800000000001,282,Subduction zone / Continental crust (>25 km),Eruption Dated
+358080,Pali-Aike Volcanic Field,Pyroclastic cone(s),Chile-Argentina,-52.082,-69.698,282,Subduction zone / Continental crust (>25 km),Eruption Dated
 358090,Fueguino,Lava dome(s),Chile,-54.97,-70.262,157,Subduction zone / Continental crust (>25 km),Eruption Observed
 360010,Saba,Stratovolcano,Netherlands,17.63,-63.23,887,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-360020,"Quill, The",Stratovolcano,Netherlands,17.477999999999998,-62.96,601,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
+360020,"Quill, The",Stratovolcano,Netherlands,17.478,-62.96,601,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
 360030,Liamuiga,Stratovolcano,Saint Kitts and Nevis,17.37,-62.8,1156,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
 360040,Nevis Peak,Stratovolcano,Saint Kitts and Nevis,17.15,-62.58,985,Subduction zone / Oceanic crust (< 15 km),Evidence Uncertain
 360050,Soufriere Hills,Stratovolcano,United Kingdom,16.72,-62.18,915,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-360060,Soufriere Guadeloupe,Stratovolcano,France,16.044,-61.663999999999994,1467,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+360060,Soufriere Guadeloupe,Stratovolcano,France,16.044,-61.664,1467,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 360080,"Diables, Morne aux",Lava dome(s),Dominica,15.612,-61.43,861,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
 360090,"Diablotins, Morne",Stratovolcano,Dominica,15.503,-61.397,1430,Subduction zone / Oceanic crust (< 15 km),Evidence Uncertain
 360100,"Trois Pitons, Morne",Complex,Dominica,15.37,-61.33,1387,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
 360101,"Watt, Morne",Stratovolcano(es),Dominica,15.307,-61.305,1224,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 360110,"Plat Pays, Morne",Stratovolcano,Dominica,15.255,-61.341,940,Subduction zone / Oceanic crust (< 15 km),Eruption Dated
-360120,Pelee,Stratovolcano,France,14.809000000000001,-61.165,1394,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+360120,Pelee,Stratovolcano,France,14.809,-61.165,1394,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 360140,Qualibou,Caldera,Saint Lucia,13.83,-61.05,777,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 360150,Soufriere St. Vincent,Stratovolcano,Saint Vincent and the Grenadines,13.33,-61.18,1220,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 360160,Kick 'em Jenny,Submarine,Grenada,12.3,-61.64,-185,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
@@ -1317,29 +1318,29 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 370020,Helgrindur,Pyroclastic cone(s),Iceland,64.866,-23.283,986,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 370030,Ljosufjoll,Fissure vent(s),Iceland,64.9,-22.483,1063,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 371020,Reykjanes,Crater rows,Iceland,63.817,-22.717,140,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-371022,Eldey,Submarine,Iceland,63.733000000000004,-23.0,70,Rift zone / Oceanic crust (< 15 km),Confirmed Eruption
-371030,Krysuvik-Trolladyngja,Crater rows,Iceland,63.917,-22.066999999999997,360,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+371022,Eldey,Submarine,Iceland,63.733,-23,70,Rift zone / Oceanic crust (< 15 km),Confirmed Eruption
+371030,Krysuvik-Trolladyngja,Crater rows,Iceland,63.917,-22.067,360,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 371040,Brennisteinsfjoll,Crater rows,Iceland,63.933,-21.783,610,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 371050,Hengill,Crater rows,Iceland,64.083,-21.416,803,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-371051,Hromundartindur,Stratovolcano,Iceland,64.083,-21.333000000000002,550,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
-371060,Grimsnes,Crater rows,Iceland,64.05,-20.883000000000003,200,Rift zone / Oceanic crust (< 15 km),Eruption Dated
+371051,Hromundartindur,Stratovolcano,Iceland,64.083,-21.333,550,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
+371060,Grimsnes,Crater rows,Iceland,64.05,-20.883,200,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 371070,Prestahnukur,Subglacial,Iceland,64.583,-20.666,1385,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 371080,Langjokull,Subglacial,Iceland,64.85,-19.7,1100,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 371090,Hofsjokull,Subglacial,Iceland,64.833,-18.766,1765,Rift zone / Oceanic crust (< 15 km),Evidence Credible
-372010,Vestmannaeyjar,Submarine,Iceland,63.416000000000004,-20.266,283,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+372010,Vestmannaeyjar,Submarine,Iceland,63.416,-20.266,283,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 372020,Eyjafjallajokull,Stratovolcano,Iceland,63.633,-19.633,1651,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 372030,Katla,Subglacial,Iceland,63.633,-19.083,1490,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-372040,Tindfjallajokull,Stratovolcano,Iceland,63.783,-19.715999999999998,1464,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
-372050,Torfajokull,Stratovolcano,Iceland,63.891999999999996,-19.122,1280,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-372070,Hekla,Stratovolcano,Iceland,63.983000000000004,-19.666,1490,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+372040,Tindfjallajokull,Stratovolcano,Iceland,63.783,-19.716,1464,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
+372050,Torfajokull,Stratovolcano,Iceland,63.892,-19.122,1280,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+372070,Hekla,Stratovolcano,Iceland,63.983,-19.666,1490,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 373010,Grimsvotn,Caldera,Iceland,64.416,-17.316,1719,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 373012,Thordarhyrna,Stratovolcano,Iceland,64.267,-17.617,1650,Rift zone / Oceanic crust (< 15 km),Confirmed Eruption
 373030,Bardarbunga,Stratovolcano,Iceland,64.633,-17.516,2000,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 373040,Tungnafellsjokull,Stratovolcano,Iceland,64.75,-17.916,1523,Rift zone / Oceanic crust (< 15 km),Evidence Credible
-373050,Kverkfjoll,Stratovolcano,Iceland,64.653,-16.647000000000002,1930,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+373050,Kverkfjoll,Stratovolcano,Iceland,64.653,-16.647,1930,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 373060,Askja,Stratovolcano,Iceland,65.033,-16.783,1080,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 373070,Fremrinamar,Stratovolcano,Iceland,65.416,-16.666,970,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-373080,Krafla,Caldera,Iceland,65.715,-16.727999999999998,800,Rift zone / Oceanic crust (< 15 km),Eruption Observed
+373080,Krafla,Caldera,Iceland,65.715,-16.728,800,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 373082,Heidarspordar,Fissure vent,Iceland,65.583,-16.817,490,Rift zone / Oceanic crust (< 15 km),Confirmed Eruption
 373090,Theistareykir,Shield,Iceland,65.833,-17.166,540,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 373100,Tjornes Fracture Zone,Submarine,Iceland,66.309,-17.118,-75,Rift zone / Oceanic crust (< 15 km),Eruption Observed
@@ -1348,9 +1349,9 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 374801,Snaefell,Stratovolcano,Iceland,64.783,-15.55,1833,Rift zone / Oceanic crust (< 15 km),Uncertain Evidence
 375010,Kolbeinsey Ridge,Submarine,Iceland,66.67,-18.5,5,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 376010,Jan Mayen,Stratovolcano,Norway,71.082,-8.155,2197,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-377020,East Gakkel Ridge at 85Â°E,Submarine,Undersea Features,85.60799999999999,85.25,-3800,Rift zone / Oceanic crust (< 15 km),Evidence Credible
+377020,East Gakkel Ridge at 85°E,Submarine,Undersea Features,85.608,85.25,-3800,Rift zone / Oceanic crust (< 15 km),Evidence Credible
 381040,Pico Fracture Zone,Submarine,Undersea Features,38.75,-38.08,-4200,Intraplate / Oceanic crust (< 15 km),Eruption Observed
-382001,Flores,Stratovolcano(es),Portugal,39.461999999999996,-31.215999999999998,914,Intraplate / Continental crust (>25 km),Eruption Dated
+382001,Flores,Stratovolcano(es),Portugal,39.462,-31.216,914,Intraplate / Continental crust (>25 km),Eruption Dated
 382002,Corvo,Stratovolcano,Portugal,39.699,-31.111,718,Intraplate / Oceanic crust (< 15 km),Evidence Credible
 382010,Fayal,Stratovolcano,Portugal,38.6,-28.73,1043,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 382020,Pico,Stratovolcano,Portugal,38.47,-28.4,2351,Rift zone / Oceanic crust (< 15 km),Eruption Observed
@@ -1367,27 +1368,27 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 383010,La Palma,Stratovolcano(es),Spain,28.57,-17.83,2426,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 383020,Hierro,Shield,Spain,27.73,-18.03,1500,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 383030,Tenerife,Stratovolcano,Spain,28.271,-16.641,3715,Intraplate / Oceanic crust (< 15 km),Eruption Observed
-383040,Gran Canaria,Fissure vent(s),Spain,28.0,-15.58,1950,Intraplate / Intermediate crust (15-25 km),Eruption Dated
+383040,Gran Canaria,Fissure vent(s),Spain,28,-15.58,1950,Intraplate / Intermediate crust (15-25 km),Eruption Dated
 383050,Fuerteventura,Fissure vent(s),Spain,28.358,-14.02,529,Intraplate / Intermediate crust (15-25 km),Evidence Credible
 383060,Lanzarote,Fissure vent(s),Spain,29.03,-13.63,670,Intraplate / Intermediate crust (15-25 km),Eruption Observed
 384010,Fogo,Stratovolcano,Cape Verde,14.95,-24.35,2829,Intraplate / Intermediate crust (15-25 km),Eruption Observed
 384020,Brava,Stratovolcano,Cape Verde,14.85,-24.72,900,Intraplate / Intermediate crust (15-25 km),Evidence Credible
 385030,Romanche Fracture Zone,Submarine,Undersea Features,-0.433,-19.596,-1528,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
 385050,Ascension,Stratovolcano,United Kingdom,-7.95,-14.37,858,Rift zone / Oceanic crust (< 15 km),Eruption Dated
-385052,Walvis Ridge at 33Â°S,Submarine,Undersea Features,-32.958,-5.22,-1200,Intraplate / Oceanic crust (< 15 km),Eruption Observed
+385052,Walvis Ridge at 33°S,Submarine,Undersea Features,-32.958,-5.22,-1200,Intraplate / Oceanic crust (< 15 km),Eruption Observed
 386010,Tristan da Cunha,Shield,United Kingdom,-37.092,-12.28,2060,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 386011,Nightingale Island,Stratovolcano,United Kingdom,-37.42,-12.48,365,Rift zone / Oceanic crust (< 15 km),Eruption Observed
-386020,Bouvet,Shield,Norway,-54.408,3.3510000000000004,741,Rift zone / Oceanic crust (< 15 km),Eruption Dated
+386020,Bouvet,Shield,Norway,-54.408,3.351,741,Rift zone / Oceanic crust (< 15 km),Eruption Dated
 390010,Buckle Island,Stratovolcano,Antarctica,-66.78,163.25,1239,Rift zone / Oceanic crust (< 15 km),Eruption Observed
 390011,Young Island,Stratovolcano,Antarctica,-66.42,162.47,1340,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
 390012,Sturge Island,Stratovolcano,Antarctica,-67.4,164.83,1167,Rift zone / Oceanic crust (< 15 km),Evidence Uncertain
 390013,"Pleiades, The",Stratovolcano,Antarctica,-72.67,165.5,3040,Intraplate / Continental crust (>25 km),Eruption Dated
 390015,Melbourne,Stratovolcano,Antarctica,-74.35,164.7,2732,Intraplate / Continental crust (>25 km),Eruption Dated
-390016,Unnamed,Submarine,Antarctica,-76.83,163.0,-500,Intraplate / Continental crust (>25 km),Evidence Uncertain
+390016,Unnamed,Submarine,Antarctica,-76.83,163,-500,Intraplate / Continental crust (>25 km),Evidence Uncertain
 390017,Morning,Shield,Antarctica,-78.5,163.53,2723,Intraplate / Continental crust (>25 km),Evidence Uncertain
 390020,Erebus,Stratovolcano,Antarctica,-77.53,167.17,3794,Intraplate / Continental crust (>25 km),Eruption Observed
 390021,Royal Society Range,Pyroclastic cone(s),Antarctica,-78.25,163.33,3000,Intraplate / Continental crust (>25 km),Evidence Uncertain
-390022,Berlin,Shield(s),Antarctica,-76.05,-136.0,3478,Intraplate / Continental crust (>25 km),Eruption Dated
+390022,Berlin,Shield(s),Antarctica,-76.05,-136,3478,Intraplate / Continental crust (>25 km),Eruption Dated
 390023,Andrus,Shield(s),Antarctica,-75.8,-132.33,2978,Intraplate / Continental crust (>25 km),Evidence Uncertain
 390024,Waesche,Shield(s),Antarctica,-77.17,-126.88,3292,Intraplate / Continental crust (>25 km),Evidence Uncertain
 390025,Siple,Shield,Antarctica,-73.43,-126.67,3110,Intraplate / Continental crust (>25 km),Evidence Uncertain
@@ -1395,19 +1396,19 @@ volcano_number,volcano_name,primary_volcano_type,country,latitude,longitude,elev
 390027,Takahe,Shield,Antarctica,-76.28,-112.08,3460,Intraplate / Continental crust (>25 km),Eruption Dated
 390028,Hudson Mountains,Stratovolcano(es),Antarctica,-74.33,-99.42,749,Intraplate / Continental crust (>25 km),Eruption Dated
 390029,Peter I Island,Shield,Antarctica,-68.85,-90.58,1640,Intraplate / Oceanic crust (< 15 km),Evidence Credible
-390030,Deception Island,Caldera,Antarctica,-63.001000000000005,-60.652,602,Intraplate / Continental crust (>25 km),Eruption Observed
+390030,Deception Island,Caldera,Antarctica,-63.001,-60.652,602,Intraplate / Continental crust (>25 km),Eruption Observed
 390031,Penguin Island,Stratovolcano,Antarctica,-62.1,-57.93,180,Intraplate / Continental crust (>25 km),Eruption Observed
-390040,Bridgeman Island,Stratovolcano,Antarctica,-62.06100000000001,-56.717,240,Intraplate / Continental crust (>25 km),Evidence Uncertain
-390041,Paulet,Pyroclastic cone,Antarctica,-63.57899999999999,-55.78,353,Intraplate / Continental crust (>25 km),Evidence Credible
+390040,Bridgeman Island,Stratovolcano,Antarctica,-62.061,-56.717,240,Intraplate / Continental crust (>25 km),Evidence Uncertain
+390041,Paulet,Pyroclastic cone,Antarctica,-63.579,-55.78,353,Intraplate / Continental crust (>25 km),Evidence Credible
 390050,Seal Nunataks Group,Pyroclastic cone(s),Antarctica,-65.03,-60.05,368,Intraplate / Continental crust (>25 km),Evidence Credible
 390070,Southern Thule,Stratovolcano(es),United Kingdom,-59.442,-27.225,1075,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-390080,Bristol Island,Stratovolcano,United Kingdom,-59.016999999999996,-26.533,1100,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-390081,Montagu Island,Shield,United Kingdom,-58.445,-26.374000000000002,1370,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+390080,Bristol Island,Stratovolcano,United Kingdom,-59.017,-26.533,1100,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+390081,Montagu Island,Shield,United Kingdom,-58.445,-26.374,1370,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 390090,Saunders,Stratovolcano,United Kingdom,-57.8,-26.483,843,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 390100,Candlemas Island,Stratovolcano,United Kingdom,-57.08,-26.67,550,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-390110,Hodson,Stratovolcano,United Kingdom,-56.711999999999996,-27.176,835,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
-390120,Leskov Island,Stratovolcano,United Kingdom,-56.656000000000006,-28.14,190,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
+390110,Hodson,Stratovolcano,United Kingdom,-56.712,-27.176,835,Subduction zone / Oceanic crust (< 15 km),Evidence Credible
+390120,Leskov Island,Stratovolcano,United Kingdom,-56.656,-28.14,190,Subduction zone / Oceanic crust (< 15 km),Unrest / Holocene
 390130,Zavodovski,Stratovolcano,United Kingdom,-56.3,-27.57,551,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
-390140,Protector Seamounts,Submarine,United Kingdom,-55.912,-28.166999999999998,-55,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
+390140,Protector Seamounts,Submarine,United Kingdom,-55.912,-28.167,-55,Subduction zone / Oceanic crust (< 15 km),Eruption Observed
 390829,James Ross Island,Shield,Antarctica,-64.15,-57.75,1630,Intraplate / Continental crust (>25 km),Evidence Credible
 390847,Melville,Stratovolcano,Antarctica,-62.02,-57.67,549,Intraplate / Continental crust (>25 km),Evidence Uncertain
