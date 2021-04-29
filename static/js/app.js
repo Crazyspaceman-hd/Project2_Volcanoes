@@ -139,4 +139,3 @@ function initializedDropdown(){
             // 4. Plot the chart to a div tag
     Plotly.newPlot("bubble", bubble_chart, bubble_layout);
 }
-   
