@@ -14,8 +14,11 @@ import json
 username = 'vulcan'
 password = '4fhXGrbneWwY1fTX'
 
-client = pymongo.MongoClient("mongodb+srv://" + username + ":" + password + "@cluster0.ilrpi.mongodb.net/Volcanoes?retryWrites=true&w=majority")
+# client = pymongo.MongoClient("mongodb+srv://" + username + ":" + password + "@cluster0.ilrpi.mongodb.net/Volcanoes?retryWrites=true&w=majority")
 # client = pymongo.MongoClient("mongodb+srv://" + username + ":" + password + "@cluster0.ilrpi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+
+client = pymongo.MongoClient(f"mongodb+srv://{username}:{password}@cluster0.ilrpi.mongodb.net/Volcanoes?retryWrites=true&w=majority")
+db = client.Volcanoes
 
 
 # db = client.volcanoes
@@ -38,7 +41,6 @@ client = pymongo.MongoClient("mongodb+srv://" + username + ":" + password + "@cl
 
 
 
-
 app = Flask(__name__)
 
 
@@ -55,17 +57,17 @@ def index():
 
 
 
-@app.route('/', methods=['GET'])
+@app.route('/api/volcanoes', methods=['GET'])
 def get_volcanoes():
-    db = client.get_database('volcanoes') #connect to database
-    volcano_data = db.volcanoes.find() #get volcanoes collection data
+    # db = client.get_database('Volcanoes') #connect to database
+    volcano_data = db.Volcanoes.find({},{'_id':0}) #get volcanoes collection data
 
-    response = [] #initialize list of data to jsonify
-    for volcano in volcano_data:
-        # volcano['_id'] = str(member['_id']) #convert mongodb ID to string to change object datatype
-        response.append(volcano)
+    # response = [] #initialize list of data to jsonify
+    # for volcano in volcano_data:
+    #     # volcano['_id'] = str(member['_id']) #convert mongodb ID to string to change object datatype
+    #     response.append(volcano)
     
-    return jsonify(response) #display API
+    return jsonify(list(volcano_data)) #display API
 
 
 # @app.route('/', methods=['GET'])
