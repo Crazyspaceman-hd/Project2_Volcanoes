@@ -2,7 +2,7 @@
 // Will need to create bins for the drop down options.  Years? year groupings?
 
 function initializedDropdown(){
-    d3.json("UPDATEFILENAME.json").then(function(data){
+    d3.json("http://127.0.0.1:5000/api/volcanoes").then(function(data){
         var year_list = data.names;
 
 
@@ -62,6 +62,9 @@ function initializedDropdown(){
         var volcano_name = row.volcano_name;
         var volcano_year = row.end_year;
         var volcano_vei  = row.volcano_vei;
+     
+        }
+    });        
     // ? how to get top volcano in each year?
     // var top_volcano_peryear = ?
         // var otu_labels = row.otu_labels;
@@ -120,9 +123,8 @@ function initializedDropdown(){
 
       //3. Define layout
       var bubble_layout = {
-        yaxis: {autorange: true,},
-        xaxis: {title: `fill in something here`, autorange: true,}
-        
+        yaxis: {autorange: true},
+        xaxis: {title: `fill in something here`, autorange: true}
     };
 
         // bar graph of all top 10 eruptions
@@ -133,9 +135,11 @@ function initializedDropdown(){
             mode: 'markers',
             marker: {size: volcano_vei, color: volcano_name},
             theme: 'seaborn',
-            tranforms: [{type:'sort', target:'y', order:'descending'}],
+            tranforms: [{type:'sort', target:'y', order:'descending'}]
         };
 
             // 4. Plot the chart to a div tag
     Plotly.newPlot("bubble", bubble_chart, bubble_layout);
+
+    });
 }
