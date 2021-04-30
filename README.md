@@ -53,3 +53,11 @@ While importing the resutling CSV files into the database tables a major issue b
 
 ![Extranious Data Removal](images/Notebook-3.PNG)
 
+
+
+To run this application, first create and activate an environment with the necessary packages by running the following lines in your command line or terminal:
+
+$ conda create --name volReqs.txt --file spec-file.txt
+
+$ conda activate volEnv
+
