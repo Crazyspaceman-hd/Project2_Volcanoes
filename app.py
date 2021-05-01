@@ -37,5 +37,13 @@ def get_volcanoes():
     return jsonify(list(volcano_data)) 
 
 
+@app.route('/api/vei', methods=['GET'])
+def get_vei():
+
+    vei_data = db.volcanoes_vei.find({},{'_id':0}) 
+    
+    return jsonify(list(vei_data))
+
+
 if __name__ == '__main__':
     app.run(debug=True)
