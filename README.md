@@ -61,3 +61,14 @@ $ conda create --name volReqs.txt --file spec-file.txt
 
 $ conda activate volEnv
 
+### Map Plot
+---
+* The plot for mapping the eruptions was made using the Mapbox API
+* Created a congig.js file to store the API key
+* An API key will be needed to use the Mapbox API
+* Plots were taken from a json server and stored into an 
+* Each eruption from the json file was used to plot points
+* The array was used to make points on the map by using the latitude and longitude
+* Each point also included the volcano name and desciption
+
+To create a Mapbox API key, sign into [Mapbox](https://www.mapbox.com/) and clock the [Sign up](https://account.mapbox.com/auth/signup/) button on the top left of the screen.
