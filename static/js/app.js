@@ -1,8 +1,9 @@
 // Copy what was provided above and create dropdown list for IDs of person/participant
 // Will need to create bins for the drop down options.  Years? year groupings?
 
+
 function initializedDropdown(){
-    d3.json("http://127.0.0.1:5000/api/volcanoes").then(function(data){
+    d3.json("/api/volcanoes").then(function(data){
         var year_list = data.names;
 
 
