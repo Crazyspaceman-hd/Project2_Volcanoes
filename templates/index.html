@@ -10,12 +10,17 @@
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
 
-	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <link href="static/css/bootstrap.min.css" rel="stylesheet">
-    <link href="static/css/style.css" rel="stylesheet">
+
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/css/style.css" rel="stylesheet">
+	<!-- <script type="text/javascript" {{ url_for('static', filename='app.js')}}></script> -->
+	<!-- <script type="text/javascript">
+	var username = {vol_sample,tojson}
+	</script> -->
 
   </head>
   <body>
+	<p>{{vol_sample.volcano_1}}</p>
 
     <div class="container-fluid">
 	<div class="row">
@@ -46,10 +51,10 @@
 						<img class="d-block w-100" alt="Carousel Bootstrap First" src="https://wowslider.com/sliders/demo-86/data1/images/volcaniceruption67668_1280.jpg" height="400px" alt="vertical carousel bootstrap " title="" id="wows1_2">
 						<div class="carousel-caption">
 							<h4>
-								First Thumbnail label
+								KaBoom!
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								Perhaps a new Hawaii chain is being born.
 							</p>
 						</div>
 					</div>
@@ -57,10 +62,10 @@
 						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://wowslider.com/sliders/demo-86/data1/images/lava67574_1280.jpg" style="width:640px;height:360px" alt="vertical carousel bootstrap ">
 						<div class="carousel-caption">
 							<h4>
-								Second Thumbnail label
+								Poetry in motion
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								The depths of nature flinging its long wet hair.
 							</p>
 						</div>
 					</div>
@@ -68,10 +73,10 @@
 						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://wowslider.com/sliders/demo-86/data1/images/yemeni81175_1280.jpg" style="width:640px;height:360px" alt="vertical carousel bootstrap ">
 						<div class="carousel-caption">
 							<h4>
-								Third Thumbnail label
+								Pizza fresh from the oven
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								If you don't let this earth slice of pizza (crust) cool, you will get a blister on the top of your mouth.
 							</p>
 						</div>
 					</div>
@@ -87,7 +92,10 @@
 		</p>
 	</div>
 	<div class="row">
-		<div class="col-md-8">
+		<div class="col-md-8">			
+			<img class="d-block w-100" src="../images/Graph_1A.jpg">
+			<!-- <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://wowslider.com/sliders/demo-86/data1/images/yemeni81175_1280.jpg" style="width:640px;height:360px" alt="vertical carousel bootstrap "> -->
+			
 		</div>
 		<div class="col-md-4">
 			<div id = "bar"></div>	
@@ -98,6 +106,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-8">
+			<img class="d-block w-100" src="../images/Graph_2A.jpg">			
 		</div>
 		<div class="col-md-4">
 			<div id="bubble"></div>
@@ -106,21 +115,21 @@
 			</p>
 		</div>
 	</div>
-</div>
-<div class="row">
-	<div class="col-md-8">
-	</div>
-	<div class="col-md-4">
-		<div id="bubble"></div>
-		<p>
-			Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-		</p>
+	<div class="row">
+		<div class="col-md-8">
+			<img class="d-block w-100" src="../images/Graph_3A.jpg">
+		</div>
+		<div class="col-md-4">
+			<p>
+				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
+			</p>
+		</div>
 	</div>
 </div>
 
-    <script src="static/js/jquery.min.js"></script>
-    <script src="static/js/bootstrap.min.js"></script>
-    <script src="static/js/newapp.js"></script>
-	<!-- <script src="static/js/app.js"></script> -->
+    <script src="../static/js/jquery.min.js"></script> -->
+    <script src="../static/js/bootstrap.min.js"></script> -->
+    <script src="../static/js/scripts.js"></script> -->
+	<script src="../static/js/app.js"></script> -->
   </body>
 </html>
