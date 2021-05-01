@@ -1,1 +1,7 @@
-# Empty CSS file for your own CSS
+html,
+body,
+#map-points {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
