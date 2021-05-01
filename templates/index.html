@@ -10,18 +10,23 @@
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
 
-	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <link href="static/css/bootstrap.min.css" rel="stylesheet">
-    <link href="static/css/style.css" rel="stylesheet">
+
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/css/style.css" rel="stylesheet">
+	<!-- <script type="text/javascript" {{ url_for('static', filename='app.js')}}></script> -->
+	<!-- <script type="text/javascript">
+	var username = {vol_sample,tojson}
+	</script> -->
 
   </head>
   <body>
+	<p>{{vol_sample.volcano_1}}</p>
 
     <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12 jumbotron text-center">
 			<h1>Volcanos!</h1>
-			<p>Use the dropdown menu to change the timeframe of the graphs below.</p>
+			<p>Use the drop down to select between all countries or just the US.</p>
 		<div class="col-md-12">
 			<ul class="nav">
 				<li class="nav-item">
@@ -43,13 +48,13 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img class="d-block w-100" alt="Carousel Bootstrap First" src="https://wowslider.com/sliders/demo-86/data1/images/volcaniceruption67668_1280.jpg" height="400px" alt="vertical carousel bootstrap " title="" id="wows1_2">
+						<img class="d-block w-100" alt="Carousel Bootstrap First" src="https://wowslider.com/sliders/demo-86/data1/images/volcaniceruption67668_1280.jpg" height="400px" width="400px" alt="vertical carousel bootstrap " title="" id="wows1_2">
 						<div class="carousel-caption">
 							<h4>
-								First Thumbnail label
+								KaBoom!
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								Perhaps a new Hawaii chain is being born.
 							</p>
 						</div>
 					</div>
@@ -57,10 +62,10 @@
 						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://wowslider.com/sliders/demo-86/data1/images/lava67574_1280.jpg" style="width:640px;height:360px" alt="vertical carousel bootstrap ">
 						<div class="carousel-caption">
 							<h4>
-								Second Thumbnail label
+								Poetry in motion
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								The depths of nature flinging its long wet hair.
 							</p>
 						</div>
 					</div>
@@ -68,10 +73,10 @@
 						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://wowslider.com/sliders/demo-86/data1/images/yemeni81175_1280.jpg" style="width:640px;height:360px" alt="vertical carousel bootstrap ">
 						<div class="carousel-caption">
 							<h4>
-								Third Thumbnail label
+								Pizza fresh from the oven
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								If you don't let this earth slice of pizza (crust) cool, you will get a blister on the top of your mouth.
 							</p>
 						</div>
 					</div>
@@ -79,48 +84,61 @@
 			</div> <a class="carousel-control-prev" href="#carousel-112012" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carousel-112012" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
 		</div>
 	</div>
+<<<<<<< HEAD
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				<strong>Per wikipedia,</strong>. A volcano is a rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.</small>
+			</p>
+		</div>
+=======
 </div>
 <div class="row">
 	<div class="col-md-12">
 		<p>
 			Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
 		</p>
+>>>>>>> d85c8e53f116bad4bfff2df99a8e441ea923c7f1
 	</div>
 	<div class="row">
-		<div class="col-md-8">
+		<div class="col-md-8">			
+			<img class="d-block w-100" src="../images/Graph_1A.jpg">
+			<!-- <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://wowslider.com/sliders/demo-86/data1/images/yemeni81175_1280.jpg" style="width:640px;height:360px" alt="vertical carousel bootstrap "> -->
+			
 		</div>
 		<div class="col-md-4">
 			<div id = "bar"></div>	
 			<p>
-				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
+				The Volcanic Explosivity Index (VEI) is a relative measure of the explosiveness of volcanic eruptions. It was devised by Chris Newhall of the United States Geological Survey and Stephen Self at the University of Hawaii in 1982. The graph to the left shows all volcanos from the last 200 years with a VEI index of 3 or greater.
 			</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-8">
+			<img class="d-block w-100" src="../images/Graph_2A.jpg">			
 		</div>
 		<div class="col-md-4">
 			<div id="bubble"></div>
 			<p>
-				Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
+				This graph compares the cumulative VEI to the number of volcano eruptions per decade.  In the decade 1880, there were more volcanic eruptions than other decades but the devestation (total vei) was less than in the decade of 1910 that had the greatest amount of total destruction. 
+			</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-8">
+			<img class="d-block w-100" src="../images/Graph_3A.jpg">
+		</div>
+		<div class="col-md-4">
+			<p>
+				The tree map to the left shows that Indonesia had the most vocanic eruptions over the past 200 years. Followed by the US and then Chile.  On the opposite end of the specturm was Columbia and Tanzania.
 			</p>
 		</div>
 	</div>
 </div>
-<div class="row">
-	<div class="col-md-8">
-	</div>
-	<div class="col-md-4">
-		<div id="bubble"></div>
-		<p>
-			Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-		</p>
-	</div>
-</div>
 
-    <script src="static/js/jquery.min.js"></script>
-    <script src="static/js/bootstrap.min.js"></script>
-    <script src="static/js/scripts.js"></script>
-	<!-- <script src="static/js/app.js"></script> -->
+    <script src="../static/js/jquery.min.js"></script> -->
+    <script src="../static/js/bootstrap.min.js"></script> -->
+    <script src="../static/js/scripts.js"></script> -->
+	<script src="../static/js/app.js"></script> -->
   </body>
 </html>
