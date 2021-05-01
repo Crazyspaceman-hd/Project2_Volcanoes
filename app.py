@@ -44,6 +44,13 @@ def get_vei():
     
     return jsonify(list(vei_data))
 
+@app.route('/api/years', methods=['GET'])
+def get_years():
+
+    years = db.years.find({},{'_id':0}) 
+    
+    return jsonify(list(years))
+
 
 if __name__ == '__main__':
     app.run(debug=True)

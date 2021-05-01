@@ -20,10 +20,11 @@ function init(){
         })
         console.log(reformat)
         var vol_slice= reformat.sort(function(a, b){return b.vei-a.vei}).slice(0,10)
-        console.log(vol_slice)
+        const filtered =(volcano) => volcano.year >= 2000;
+        vol_200= reformat.filter(filtered);
+        console.log(vol_200)
     // samples_data.forEach(function(row){
     //     if (row.id === selected_id) {
-
     //     var volcano_name = row.volcano_name;
     //     var volcano_year = row.end_year;
     //     var volcano_vei  = row.volcano_vei;
@@ -57,7 +58,9 @@ function init(){
         var top_10_layout = {
             title: `Top 10 Volcano Eruptions by size`,
             xaxis: { title: "Volucano Name"},
-            yaxis: { title: "VEI Rating"}
+            yaxis: { title: "VEI Rating"},
+            width: 500,
+            height: 500
         };
         // Plot the chart
         Plotly.newPlot("bar", top_10_data, top_10_layout);
@@ -117,10 +120,26 @@ function createMap(EruptionSpots) {
       id: "mapbox/light-v10",
       accessToken: API_KEY
     });
+
+    const satellite = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+        attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+        maxZoom: 16,
+        id: "mapbox/satellite-streets-v11",
+        accessToken: API_KEY
+    });
+
+    const outdoors = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+        attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+        maxZoom: 16,
+        id: "mapbox/outdoors-v10",
+        accessToken: API_KEY
+    });
   
     // Create a baseMaps object to hold the lightmap layer
     const baseMap = {
-      "Light Map": lightmap
+        "Satellite": satellite,
+        "Height Map": outdoors,
+        "Light Map": lightmap        
     };
   
     // Create an overlayMaps object to hold the EruptionSpots layer
@@ -130,9 +149,9 @@ function createMap(EruptionSpots) {
   
     // Create the map object with options
     const map = L.map("map-points", {
-      center: [20.73, -174.0059],
-      zoom: 3,
-      layers: [lightmap, EruptionSpots]
+      center: [19.8968, -155.5828],
+      zoom: 6,
+      layers: [satellite, outdoors, lightmap, EruptionSpots]
     });
   
     // Create a layer control of basemaps and overlay maps
