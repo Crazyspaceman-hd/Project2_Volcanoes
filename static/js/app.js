@@ -20,40 +20,64 @@ function initializedDropdown(){
 //         return name;
 //     });
 // });
+
 // }
+// console.log(username)
 
-// // End creation of initializedDropdown function
-
-// // Start the process for updating the charts based on the selection.
-
-// initializedDropdown();
-
-// // Create a function to update charts
-// // optionChanged from select ID in row 25 of html
-// function optionChanged(selected_id){
-
-//     // Identify data for each plot
-//     d3.json("samples.json").then(function(data){
-//         var samples_data = data.samples;
-//         var demo_data = data.metadata;
-
-//     // Get the info. sample-metadata from row 31 of html.
-//         demo_data.forEach(function(row){
-//             if (row.id === parseInt(selected_id)) {
-//             d3.select("#sample-metadata").html("");
-//             var test_person = Object.entries(row)
-//             // console.log(test_person);
+// console.log(vol_sample)
+// function initializedDropdown(){
+//     d3.json("UPDATEFILENAME.json").then(function(data){
+//         var year_list = data.names;
         
-//             test_person.forEach((info) => {
-//             d3.selectAll("#sample-metadata")
-//                 .append("div")
-//                 .data(info)
-//             .text(`${info[0]}: ${info[1]}`)
-//             });
-//             }
-//         });
 
-    // Per the instructions, we will need otu_ids, otu_labels, and samp_vals for the selected ID
+
+// //        // ID from row 25 in html
+// //     d3.selectAll("#selDataset")
+// //     .selectAll("option")
+// //     .data(year_list)
+// //     .enter()
+// //     .append("option")
+// //     .attr("value",function(name) {
+// //         return name;
+// //     })
+// //     .text(function(name){
+// //         return name;
+// //     });
+// // });
+// // }
+
+// // // End creation of initializedDropdown function
+
+// // // Start the process for updating the charts based on the selection.
+
+// // initializedDropdown();
+
+// // // Create a function to update charts
+// // // optionChanged from select ID in row 25 of html
+// // function optionChanged(selected_id){
+
+// //     // Identify data for each plot
+// //     d3.json("samples.json").then(function(data){
+// //         var samples_data = data.samples;
+// //         var demo_data = data.metadata;
+
+// //     // Get the info. sample-metadata from row 31 of html.
+// //         demo_data.forEach(function(row){
+// //             if (row.id === parseInt(selected_id)) {
+// //             d3.select("#sample-metadata").html("");
+// //             var test_person = Object.entries(row)
+// //             // console.log(test_person);
+        
+// //             test_person.forEach((info) => {
+// //             d3.selectAll("#sample-metadata")
+// //                 .append("div")
+// //                 .data(info)
+// //             .text(`${info[0]}: ${info[1]}`)
+// //             });
+// //             }
+// //         });
+
+//     // Per the instructions, we will need otu_ids, otu_labels, and samp_vals for the selected ID
 
     
 
