@@ -71,4 +71,4 @@ $ conda activate volEnv
 * The array was used to make points on the map by using the latitude and longitude
 * Each point also included the volcano name and desciption
 
-To create a Mapbox API key, sign into [Mapbox](https://www.mapbox.com/) and clock the [Sign up](https://account.mapbox.com/auth/signup/) button on the top left of the screen.
+To create a Mapbox API key, sign into [Mapbox](https://www.mapbox.com/) and click the [Sign up](https://account.mapbox.com/auth/signup/) button on the top left of the screen.
